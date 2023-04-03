@@ -1,1 +1,227 @@
-This is file number 50
+Predicting 2023 All-NBA 1st, 2nd and 3rd Teams
+
+With only a few weeks left in the 2022-23 NBA season, everyone is fixated on the teams vying for playoff or play-in position. Here, we're going to shift that attention toward individuals.
+
+That's right. It's time to make some All-NBA decisions.
+
+We need six guards, six forwards and three centers to round out the first, second and third teams. As is the (frustrating) case for most of the league's awards, there are no strict criteria for consideration. Separating positions is easy enough, but things can get pretty apples-to-oranges from there.
+
+Do 55 incredible games by an established superstar beat out 75 very good ones from an up-and-comer with an inferior track record? How important is defense? And what about team success, on-off splits, advanced metrics, historical precedent and countless other factors? Don't forget good old subjectivity!
+
+One key decision here: Volume matters less for All-NBA teams than it does for something like MVP, or even an All-Star berth. Historically, the minimum games-played threshold for consideration is in the high 40s in a non-lockout-shortened campaign. We'll stick as close to that cutoff as possible. But from there, we won't assign much value for volume.
+
+If a player's peak production and impact on winning were undeniably elite over a sample of 50 games, he's going to beat out someone who was slightly less effective over a larger chunk of playing time. That's going to produce some tough cuts, but so be it.
+
+We're looking for the best of the best from the 2022-23 season, and that feels like the cleanest way to do it—even if several inclusions will have to hustle to reach the 50-game mark by season's end.
+
+
+
+
+Top Points of March
+Third Team
+1 OF 7
+Donovan Mitchell
+Donovan MitchellJason Miller/Getty Images
+Guard: Donovan Mitchell, Cleveland Cavaliers
+
+The move from Utah to Cleveland clearly agreed with Donovan Mitchell, a four-time All-Star (and first-time starter) in the midst of a career year.
+
+At 26, he's scoring the ball more efficiently than ever, posting a 60.7 true shooting percentage on a 31.7 percent usage rate. There are plenty of ways to separate the league's elite offensive players from the field, but the tried and true 60/30 club is among the easiest.
+
+Mitchell is one of only nine players this season with a true shooting percentage north of 60 on at least 30 percent usage. He's also been extremely durable compared to the competition, ranking fifth among guards in Dunks and Threes' cumulative catch-all metric, Estimated Wins added.
+
+With a career-low 10.5 percent turnover rate, Mitchell is doing more damage to defenses while making fewer mistakes than ever. There's a lot to be optimistic about in Cleveland, but Mitchell's presence is the reason why his Cavs have to be taken seriously as threats to any of the league's top contenders.
+
+Guard: De'Aaron Fox, Sacramento Kings
+
+Fox's defensive numbers torpedo his All-NBA case from a catch-all stat perspective. He's 49th in RAPTOR, 49th in box plus/minus and 48th in EPM.
+
+It's true that the lefty speedster is a substandard defender, but it's hard to put the blame for the Sacramento Kings' teamwide struggles on that end entirely on their point guard. Focus instead on Domantas Sabonis if you want to get real about it.
+
+Fox overcomes the advanced stats to land here on the strength of 25.3 points, 6.2 assists and 4.3 rebounds per game and a near miss on inclusion in the 60/30 club. Fox is at 59.9 percent true shooting on 30.0 percent usage. That's about as close as you can get without gaining official membership, and he has every chance to finish the season in that group.
+
+Perhaps most importantly, the 25-year-old has been the best clutch player in the NBA this season. He leads the league in total points scored and is shooting 54.4 percent from the field in close-and-late situations. His ability to generate good looks at the basket and on mid-range pull-ups is the biggest reason why Sacramento is 22-13 in close games. While clutch performance rarely carries over from year to year, Fox has already banked all of those critical buckets and produced those wins.
+
+Fox is also having perhaps the most efficient scoring season inside the arc of any smallish guard in history. He's hitting 58.0 percent of his two-point attempts, the best hit rate of any player 6'3" or under who's attempted as many twos per game as he has.
+
+Without Fox as the offensive engine, the Kings wouldn't be enjoying their best season in nearly 20 years.
+
+Forward: Kevin Durant, Phoenix Suns
+
+Full disclosure: This last spot came down to two generational superstars, neither of which is a great bet to play 50 games. In the end, LeBron James' cloudier return timeline makes it hard to have confidence he'll add to his 47-game total.
+
+Durant is far from a sure thing, and he has further to go with only 42 games played so far. But Suns general manager James Jones' recent comments open the door for more optimism.
+
+
+Even if KD winds up at 48 or 49 contests, his body of work will justify fudging the rules.
+
+He was a no-questions-asked MVP candidate early in the year and may still head the list of guys whom defenders would least like to face in a playoff series. With averages of 29.5 points, 6.8 rebounds, 5.2 assists and 1.5 blocks on a preposterous 56.6/38.6/93.1 shooting split, Durant's truncated season rates among the best of his career.
+
+Unparalleled efficiency as a wing scorer, noticeably dialed-in defensive intensity and the smoothest three-level bucket-getting skills around should have made KD a first-team pick. A pair of injuries cut into his playing time and forced a compromise. Maybe this isn't the fairest way to frame it, but it'll be impossible to look back at the 2022-23 season and argue Durant wasn't among the best six players, let alone forwards, in the league.
+
+Forward: Lauri Markkanen, Utah Jazz
+
+The forward spot is thinner than the guard position, and it's diminished further by a handful of injuries holding potential entrants below the games-played threshold. But it must still delight the Utah Jazz that Markkanen ends up alongside Mitchell here.
+
+Though the Finnisher was more than a throw-in in the deal that sent Mitchell to Cleveland, even the most optimistic Jazz supporters couldn't have predicted he'd land on an All-NBA team.
+
+An All-Star for the first time, Markkanen expanded his game this season, becoming something much closer to a top-option scorer after playing a supplementary role for his entire career. His 25.4 points per game blow away his previous career high of 18.7, set back in 2018-19.
+
+If his percentages hold, he'll join Dirk Nowitzki as the only 7-footers ever to average at least 25 points and shoot over 40 percent from deep with at least 100 makes. Part of that owes to the change in eras, but it's still jaw-dropping that Nowitzki hit only 110 triples in his qualifying season, 2005-06. Markkanen is a good bet to double that.
+
+Center: Anthony Davis, Los Angeles Lakers
+
+He's probably going to clear the 50-game mark by the thinnest of margins, but that's all it should take for Anthony Davis to secure his fifth career All-NBA honor. Understand, though, that his inclusion here has nothing to do with legacy and everything to do with his performance on the floor this season.
+
+Brook Lopez and Jaren Jackson Jr. are better rim-protectors, but Davis is stellar in that regard and was right in the thick of the Defensive Player of the Year race until he went down with a foot injury on Dec. 16. Since his return on Jan. 25, the Los Angeles Lakers have ranked fifth in defensive efficiency.
+
+On the year, L.A. has allowed 109.2 points per 100 possessions with AD on the floor. That isn't as good as the Memphis Grizzlies or Milwaukee Bucks have been with Jackson and Lopez in the game, respectively, but still excellent.
+
+Then there's the offensive component. Davis has 16 30-point games and shot over 50 percent from the field in all but one of them. Lopez and Jackson have only four 30-point outings between them. Even if we agree those two have marginal edges on D, the other end of the floor (not to mention the defensive glass and passing categories) goes to Davis in a landslide.
+
+Reasonable minds could favor Domantas Sabonis or Bam Adebayo here. But if we go by the rules established at the outset, Davis is the best choice. He tops every alternative we've mentioned here in box plus/minus, EPM and RAPTOR.
+
+
+Second Team
+2 OF 7
+Shai Gilgeous-Alexander
+Shai Gilgeous-AlexanderMark Blinch/Getty Images
+Guard: Damian Lillard, Portland Trail Blazers
+
+Lillard is having the best season in what will almost certainly be a Hall of Fame career, setting new personal bests with 32.2 points per game, a 64.5 true shooting percentage and a remarkable 9.5 free-throw attempts per game (previous high: 7.8 in 2019-20). He's never averaged more points per shot attempt or posted a higher assist percentage.
+
+And he has to settle for a spot on the second team!
+
+That owes partly to our devaluation of playing-time volume, which Lillard has more of than Stephen Curry. Spoiler: Steph is going to make the first team. Lillard's edge in that area could dwindle if Portland shuts him down.
+
+Other factors contributing to Dame landing here include his comparatively weak defensive performance and Curry's superior efficiency on twos, threes and free throws. Team success has to weigh in a little bit as well, and Lillard's Blazers are siting outside the play-in mix near the end of a hugely disappointing season.
+
+Guard: Shai Gilgeous-Alexander, Oklahoma City Thunder
+
+The path to modern NBA efficiency typically doesn't include cutting three-point attempts in half, but Gilgeous-Alexander has a way of getting what he wants on his own terms. Just ask any perimeter defender who's tried and failed to stay in front of him this season.
+
+No one tops Gilgeous-Alexander's 23.9 drives per game, and Malcolm Brogdon is the only player with a lower turnover rate among those who attempt even 15 such plays per game. It's difficult to explain how a player who attempts only 2.5 triples per contest gets into the paint so frequently. Everyone knows where SGA wants to go, and he gets there anyway.
+
+SGA is averaging 31.4 points per game while shooting 51.1 percent from the floor. Prior to this offensively explosive year, which includes three other players clearing those same thresholds, there were only three 30-point, 50-percent seasons since Michael Jordan did it in 1991-92. They belonged to LeBron James, Stephen Curry and Kevin Durant.
+
+Your mileage may vary on his chances at Most Improved Player, but it has to be noted that SGA went from an exciting young talent who'd never made an All-Star team to a short-list MVP candidate this season.
+
+Forward: Jimmy Butler, Miami Heat
+
+Inexplicably excluded from the 2023 All-Star Game, Butler gets some redemption by making the All-NBA second team for the first time in his career. His previous four nods were all of the third-team variety.
+
+Though he's still allergic to three-point shots, Butler is averaging 22.7 points per game on a career-high 64.0 true shooting percentage. The latter ranks seventh among players averaging at least 22 points this season. Throw in rock-solid defensive work, an assist percentage that ranks in the 98th percentile among forwards and a staunch refusal to turn the ball over, and you have one of the most complete players around—minus the deep range you'd want from a primary scoring option, of course.
+
+The catch-all metrics could hardly be higher on Butler. He's third in EPM behind only Nikola Jokić and Joel Embiid, and he sits at No. 8 in RAPTOR. The Heat have performed below expectations on offense this season, but that has little to do with Butler, who improves the team's attack by 7.8 points per 100 possessions when he's on the floor.
+
+Forward: Kawhi Leonard, Los Angeles Clippers
+
+Leonard has almost no margin for error to reach the 50-game mark, but if anyone deserves consideration for coming close enough, it's him. When he's been on the floor, the two-time Finals MVP has played like one of the league's half-dozen most dominant forces. Look no further than his tie for fourth place in RAPTOR as validation.
+
+Though he's been even hotter of late, Leonard's full-season numbers—23.8 points, 6.3 rebounds and 3.8 assists on a 51.2/41.5/87.9 shooting split are undeniable. In fact, his overall efficiency, as measured by true shooting percentage, has never been higher. When a player who's finished in the top 10 in MVP voting five different times is scoring the ball more effectively ever, you have to look past the availability concerns.
+
+About those: Since Dec. 5, Leonard has rested on one end of back-to-back sets but has otherwise been in the lineup for all but two games. In that span, he's averaged 35.1 minutes per game and played more contests than Luka Dončić, Lauri Markkanen, Ja Morant, Tyrese Haliburton, LeBron James, Bradley Beal, Stephen Curry and plenty of other big names.
+
+Center: Joel Embiid, Philadelphia 76ers
+
+If Joel Embiid had entered the NBA five years earlier or later, he'd probably already have an MVP or two and a handful of All-NBA first-team nods. Thanks to the unfortunate timing of his prime overlapping with that of Nikola Jokić, the Philadelphia 76ers' superstar big man is still without an MVP award and has to settle for his fifth second-team honor here.
+
+We could spend this section pointing out the differences between Embiid and Jokić, trying to justify putting the league's leading scorer (33.5 points per game) and most physically dominant force behind his two-time MVP counterpart. But this isn't a time for nitpicking or minimizing. You can't quibble with a resumé like his.
+
+Embiid sits third in the league in RAPTOR, second in EPM and third in box plus/minus. If his numbers hold, he'll wind up with two straight seasons averaging at least 30 points, 10 rebounds and four assists with a true shooting percentage north of 60. Kareem Abdul-Jabbar is the only other player with a year like that in NBA history, although Giannis Antetokounmpo is likewise threatening to join that club.
+
+Embiid is legitimately great. It just so happens that he shares a position with someone slightly greater. Those are the breaks.
+
+First-Team Guard: Luka Dončić, Dallas Mavericks
+3 OF 7
+Luka Dončić
+Luka DončićGlenn James/NBAE via Getty Images
+Luka Dončić made the All-NBA first team in each of the last three years, posting combined per-game averages of 28.3 points, 8.8 rebounds and 8.7 assists with a 58.1 true shooting percentage from 2019-20 to 2021-22.
+
+Though his rebound and assist numbers are respectively down to 8.6 and 8.0 per game this season (what a slacker!), Dončić has clearly leveled up overall. He's giving the Dallas Mavericks a career-high 33.0 points on 61.3 percent true shooting, goosing his volume and efficiency with a massive leap in foul-drawing craft.
+
+After peaking at 13.3 free-throw attempts per 100 possessions in his second season and getting to the line 10.7 times per 100 possessions last year, Dončić is parading to the stripe a whopping 15.2 times per 100 possessions in 2022-23. That extreme foul-drawing is the result of Dončić learning to exercise a level of control over games that few players ever manage.
+
+Even as a rookie, Dončić's genius mental processing made it seem like the action was unfolding at half-speed for him. Now, his control is total. His ability to manipulate defenders all over the floor sometimes gives the impression that he can see five seconds into the future and adjust his plans accordingly. That clairvoyance leads to passes no one else in the arena could have imagined and foul-baiting trickery that borders on cruel.
+
+Dallas is 7.4 points per 100 possessions better with Dončić on the floor than off, a positive differential that dwarfs his previous career high of plus-2.0 in 2019-20. Some of that even owes to defense, where Dončić has been more consistently active than ever before, which shows up in the Mavs only being 0.6 points per 100 possessions worse on that end when he plays. That still isn't great, but it's the best such figure Dončić has ever produced. He is also above the 70th percentile at his position in steal and block rate for the first time in his career.
+
+We don't usually have to compare players to past versions of themselves to illustrate an All-NBA case. But Dončić has so clearly outstripped the competition that there's no one else to use as a measuring stick.
+
+
+First-Team Guard: Stephen Curry, Golden State Warriors
+4 OF 7
+Stephen Curry 
+Stephen Curry Adam Pantozzi/NBAE via Getty Images
+Other than the first-team center spot, this was the most difficult All-NBA decision.
+
+If you'd prefer Damian Lillard here over Stephen Curry, more power to you. And if Curry goes down with another injury between now and the end of the season, he may fall short of the 50-game mark.
+
+As of now, it seems likely he'll get to 50 games (though with little room to spare). So the only question left is whether he has the statistical profile to earn this spot.
+
+The answer has to be a resounding yes.
+
+Curry, inarguably one of the greatest offensive players of all time, has only had one other scoring season like this one. Yes, he's bested his current 66.6 true shooting percentage twice—when he won MVP unanimously in 2015-16 at 66.9 percent and when he set a career high with 67.5 percent in 2017-18. That first season is basically untouchable, but Curry is averaging 3.4 more points per contest this season (29.8) than he did in that 51-game effort in 2017-18 (26.4).
+
+At 49.9 percent from the field, 43.5 percent from deep and 91.3 percent from the foul line, he has a terrific shot to secure his second 50/40/90 split. If he pulls it off, he'll join Steve Nash and Larry Bird as the only players to do it more than once.
+
+It's true that Curry's on-off splits aren't quite as absurd as they've typically been. The Warriors are "only" 7.9 points per 100 possessions better with him on the floor than off, his lowest such differential in a full season since 2012-13. He remains a positive defensive influence, which is something Lillard can't say, and he's still the same defense-bending havoc-wreaker that he's always been. He and Lillard are similar on the ball, but Steph is a full-blown emergency off of it, relentlessly sprinting around and opening up gaps for teammates to attack.
+
+Maybe it doesn't decisively make his case for a first-team spot, but Curry's singular willingness to keep moving sets him apart from every other high-volume scorer in league history. Force the ball out of Lillard's (or your lead guard of choice's) hands, and it's a defensive success. Force it out of Curry's, and all you've done is set off a chain of events that will likely result in a teammate cutting for a dunk or him getting it back for a clean look at a three.
+
+When Curry gives up the rock, what looks like success is actually just failure postponed.
+
+
+First-Team Forward: Giannis Antetokounmpo, Milwaukee Bucks
+5 OF 7
+Giannis Antetokounmpo
+Giannis AntetokounmpoBarry Gossage/NBAE via Getty Images
+Is it really a "down year" if a player is on track to become the first since Kareem Abdul-Jabbar in 1972-73 to average at least 30 points, 11 rebounds and five assists per game? Asking for a friend.
+
+OK, asking for Giannis Antetokounmpo, who happens to be on a historical track in what most would agree hasn't been anything close to the best season of his career. Those per-game averages are stunning, but they come with Antetokounmpo's lowest true shooting percentage, player efficiency rating and defensive box plus/minus since 2017-18.
+
+That he'll finish no worse than third in MVP voting says everything about the standard Giannis has set in a career that already includes four straight first-team All-NBA honors. And depending on how the votes shake out this year, we could see Antetokounmpo extend his dominance at the forward spot to new extremes. Remember, he already made history last season by becoming the first player to secure four straight unanimous first-team selections.
+
+
+Maybe he won't win his third MVP or second Defensive Player of the Year trophy. But Antetokounmpo is at worst a serious candidate for both awards and is leading the team with the best record in the NBA. He's easily the biggest lock for a first-team spot.
+
+
+First-Team Forward: Jayson Tatum, Boston Celtics
+6 OF 7
+Jayson Tatum 
+Jayson Tatum Jordan Johnson/NBAE via Getty Images
+Though he's no longer among the realistic candidates for MVP, and though his Boston Celtics have slipped from their pedestal atop the Eastern Conference standings in recent weeks, Jayson Tatum has done more than enough to land on the All-NBA first team for the second year in a row.
+
+Tatum has nothing to apologize for here. He's going to finish this season with his best-ever counting stats and continue his remarkable streak of increasing his points, rebounds and assists per game in every year of his career. Averages of 30.0 points, 8.9 boards and 4.7 assists aren't all that far off the numbers ironclad-lock Antetokounmpo is posting, and Tatum is producing those stats with the added bonus of a viable three-point shot.
+
+They're different players, and they aren't even really in competition with one another in this context. But just for some fun perspective, Antetokounmpo's career high for made triples in a season is 89 in 2019-20. Tatum blew past that number in his 28th game of 2022-23...on Dec. 13.
+
+Tatum's status as one of only two players this season to average at least seven free throws and three made triples per contest (Damian Lillard is the other) illustrates the completeness of his offensive game. Few scorers in NBA history have ever matched the combination of size, physicality, self-creation and perimeter accuracy Tatum has showcased in 2022-23.
+
+It's not like he's expending all his energy on offense, either. Tatum rarely fouls, rates in the 98th percentile at his position on the defensive glass and rates above average among forwards in both block and steal rate.
+
+As top options go, Tatum is merely passable in isolation (53rd percentile in scoring efficiency). But he's a highly dangerous off-ball threat whose length and defensive versatility make him one of the most well-rounded players in the league. Improved foul-drawing guile and the long-awaited reduction in off-arm shoves leading to offensive fouls have pumped up his efficiency to career-best levels.
+
+We've reduced the value of availability throughout this exercise, but Tatum earns bonus points (that he doesn't really need) by ranking fourth in the league in minutes. That helps him rank second overall in Estimated Wins Added, per Dunks and Threes.
+
+
+First-Team Center: Nikola Jokić, Denver Nuggets
+7 OF 7
+Nikola Jokic
+Nikola JokicChris Schwegler/NBAE via Getty Images
+Excluding the "will they, won't they" races to 50 games that affect a few of our second and third-team picks, this is the most tenuous spot of all. Arguments favoring Embiid here and in the MVP discussion are not unfounded.
+
+"And speaking of double negatives, how about Nikola Jokić's weak effort and limited physical tools on defense," Embiid's advocates would shout.
+
+It's true. Jokić is an average defender on his very best nights. Examples of his worst ones are making the rounds lately, and they're straight-up tough to watch. It always feels icky to echo the blustery, surface-level talking heads that get attention by shouting on TV. But if Jokić grades out well in so many defensive metrics, which he absolutely does, we need to question the worth of those numbers.
+
+With that said, Jokić is flirting with averaging a triple-double while shooting 63.4 percent from the field and 39.4 percent from deep, all without dominating the ball. Yes, Jokić leads the league in frontcourt touches per game, but he's not even in the top 50 in time of possession per game. Even more incredible—and most indicative of the way he keeps the ball moving in service of offensive flow—he's outside the top 200 in average seconds per touch.
+
+His refusal to dominate the ball while also, yes, dominating makes him one of one. And his deferential style is most certainly a choice. When he wants to, Jokić can get his own buckets en masse. He's the most efficient high-volume post-up scorer in the game. No one who uses at least 20.0 percent of his possessions on the block tops his 1.21 points per play—not Embiid, not anybody.
+
+His on-off differential stats, which show the Denver Nuggets are 27.2 points per 100 possessions better with him on the floor, are almost too cartoonish to reference. They largely reflect the Nuggets' lack of bench depth. However, Denver has a plus-12.7 net rating with Jokić in the game, which tops the Philadelphia 76ers' plus-8.8 mark with Embiid on the court.
+
+Stats courtesy of NBA.com, Basketball Reference and Cleaning the Glass. Accurate entering games March 20. Salary info via Spotrac.
+
+Grant Hughes covers the NBA for Bleacher Report. Follow him on Twitter (@gt_hughes), and subscribe to the Hardwood Knocks podcast, where he appears with Bleacher Report's Dan Favale.
+

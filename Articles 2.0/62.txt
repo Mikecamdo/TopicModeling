@@ -1,1 +1,66 @@
-This is file number 62
+Clearview AI scraped 30 billion images from Facebook and other social media sites and gave them to cops: it puts everyone into a 'perpetual police line-up'
+
+Hoan Ton-That, CEO of Clearview AI, demonstrates the company's facial recognition software using a photo of himself in New York on Tuesday, Feb. 22, 2022. In a Monday, May 9, 2022 legal filing, the company has agreed to restrict the use of its massive collection of face images to settle allegations that it collected people's photos without their consent. AP Photo/Seth Wenig, File
+
+A controversial facial recognition database, used by police departments across the nation, was built in part with 30 billion photos the company scraped from Facebook and other social media users without their permission, the company's CEO recently admitted, creating what critics called a "perpetual police line-up," even for people who haven't done anything wrong. 
+
+The company, Clearview AI, boasts of its potential for identifying rioters at the January 6 attack on the Capitol, saving children being abused or exploited, and helping exonerate people wrongfully accused of crimes. But critics point to privacy violations and wrongful arrests fueled by faulty identifications made by facial recognition, including cases in Detroit and New Orleans, as cause for concern over the technology. 
+
+Clearview took photos without users' knowledge, its CEO Hoan Ton-That acknowledged in an interview last month with the BBC. Doing so allowed for the rapid expansion of the company's massive database, which is marketed on its website to law enforcement as a tool "to bring justice to victims."
+
+Ton-That told the BBC that Clearview AI's facial recognition database has been accessed by US police nearly a million times since the company's founding in 2017, though the relationships between law enforcement and Clearview AI remain murky and that number could not be confirmed by Insider. 
+
+
+In a statement emailed Insider, Ton-That said "Clearview AI's database of publicly available images is lawfully collected, just like any other search engine like Google."
+
+The company's CEO added: "Clearview AI's database is used for after-the-crime investigations by law enforcement, and is not available to the general public. Every photo in the dataset is a potential clue that could save a life, provide justice to an innocent victim, prevent a wrongful identification, or exonerate an innocent person."
+
+What happens when unauthorized scraping happens
+The technology has long drawn criticism for its intrusiveness from privacy advocates and digital platforms alike, with major social media companies including Facebook sending cease-and-desist letters to Clearview in 2020 for violating their user's privacy.
+
+"Clearview AI's actions invade people's privacy which is why we banned their founder from our services and sent them a legal demand to stop accessing any data, photos, or videos from our services," a Meta spokesperson said in an email to Insider, referencing a statement made by the company in April 2020 after it was first revealed that the company was scraping user photos and working with law enforcement.
+
+Since then, the spokesperson told Insider, Meta has "made significant investments in technology" and devotes "substantial team resources to combating unauthorized scraping on Facebook products."
+
+
+When unauthorized scraping is detected, the company may take action "such as sending cease and desist letters, disabling accounts, filing lawsuits, or requesting assistance from hosting providers" to protect user data, the spokesperson said. 
+
+However, even despite internal policies, once a photo has been scraped by Clearview AI, biometric face prints are made and cross-referenced in the database, tying the individuals to their social media profiles and other identifying information forever — and people in the photos have little recourse to try to remove themselves.
+
+Residents of Illinois can opt out of the technology (by providing another photo that Clearview AI claims will only be used to identify which stored photos to remove) after the ACLU sued the company under a statewide privacy law, and succeeded in banning the sale of Clearview AI technology nationwide to private businesses. However, residents of other states do not have the same option and the company is still permitted to partner with law enforcement.
+
+'A perpetual police line-up'
+"Clearview is a total affront to peoples' rights, full stop, and police should not be able to use this tool," Caitlin Seeley George, the director of campaigns and operations for Fight for the Future, a nonprofit digital rights advocacy group, said in an email to Insider, adding that "without laws stopping them, police often use Clearview without their department's knowledge or consent, so Clearview boasting about how many searches is the only form of 'transparency' we get into just how widespread use of facial recognition is."
+
+
+CNN reported Clearview AI last year claimed the company's clients include "more than 3,100 US agencies, including the FBI and Department of Homeland Security." BBC reported Miami Police acknowledged they use the technology for all kinds of crimes, from shoplifting to murder.
+
+The risk of being included in what is functionally a "perpetual police line-up" applies to everyone, including people who think they have nothing to hide, Matthew Guariglia, a senior policy analyst for the international non-profit digital rights group Electronic Frontier Fund, told Insider.
+
+"You don't know what you have to hide," Guariglia told Insider. "Governments come and go and things that weren't illegal become illegal. And suddenly, you could end up being somebody who could be retroactively arrested and prosecuted for something that wasn't illegal when you did it."
+
+"I think the primary example that we're seeing now is abortion," he continued, "in that people who received abortions in a state where it was legal at the time, suddenly have to live in fear of some kind of retroactive prosecution — and suddenly what you didn't think you had to hide you actually do have to hide."
+
+
+Photos can come from anywhere on the web
+Even people who are concerned about the risk of their photos being added to the database may end up included through no fault of their own, both Seeley George and Guariglia said. That people may end up in Clearview's database, despite Facebook's policies against scraping or their own personal security measures, is an indicator that privacy "is a team sport," Guariglia told Insider.
+
+"I think that's one of the nefarious things about it," Guariglia said. "Because you might be very aware of what Clearview does, and so prevent any of your social media profiles from being crawled by Google, to make sure that the picture you post isn't publicly accessible on the open web, and you think 'this might keep me safe.' But the thing about Clearview is it recognizes pictures of you anywhere on the web."
+
+That means, he said, that if you are in the background of a wedding photo, or a friend of yours posts a picture of you together at high school, once Clearview has snapped a picture of your face, it will create a permanent biometric print of your face to be included in the database.
+
+Clearview and law enforcement
+Searching Clearview's database is just one of many ways law enforcement can make use of content posted to social media platforms to aid in investigations, including making requests directly to the platform for user data. However, the use of Clearview AI or other facial recognition technologies by law enforcement is not monitored in most states and is not subject to nationwide regulation — though critics like Seeley George and Guariglia argue it should be banned.
+
+
+Representatives for the FBI, Department of Homeland Security, Los Angeles Police Department, and New York Police Department did not immediately respond to Insider's requests for comment.
+
+"This is part of the opacity of both police departments and Clearview. We have no idea if they have to enter a warrant in order to run a query, which they probably don't; we have no idea if their queries are overseen by a supervisor," Guariglia told Insider, adding that the program is often directly loaded onto officer's phones, often without their department's knowledge or approval.
+
+Following the Illinois lawsuit brought by the ACLU, Clearview said it would end its practice of offering free trial accounts to individual police officers.
+
+Guariglia added: "I think we really need to ask: how strictly are the queries they put through being monitored? You live in fear all the time of a police officer pulling their phone out at a protest, scanning the faces of the crowd, all of a sudden getting their social media profiles, every picture they've ever been in, their identities — and the threat that poses to civil liberties and the vulnerability that opens up to people in terms of retribution or reprisal."
+
+
+April 3, 2023: This story has been updated to include Clearview's response to Insider. The story's headline has been clarified to reflect that other social media companies were also scraped by Clearview. 
+

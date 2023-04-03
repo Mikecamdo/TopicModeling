@@ -1,1 +1,32 @@
-This is file number 65
+The Surprising Consequences of Every Other App Copying TikTok
+What happens when all the social networks look the same.
+BY ALEX KANTROWITZ
+APRIL 01, 202310:00 AM
+
+Social media feeds are blurring together. Instead of using separate apps for friends, family, news, culture, and entertainment, you can now see it all on Facebook, YouTube, TikTok, and Instagram. Open any of those and you’ll likely be watching vertical looping videos, almost assuredly from people you don’t follow. The content is so similar it’s easy to forget which app you’re on.
+
+The homogenization of social media is a testament to TikTok’s success—A.I.-based content recommendations simply crush the “follow” model—but when apps look so uniform, the status quo can’t persist for long. Creators will have a window to assert their value, governments can grow emboldened to crack down, and, eventually, a winner will dominate. Some of this is already underway. The rest is likely coming.
+
+A Winner Will Take the Market
+The follow model, for all its faults, let you build distinct feeds on different apps. You could build a news and culture feed on Twitter, a friends and family feed on Facebook, a celebrity and interest feed on Instagram, and an entertainment feed on YouTube. The companies buld algorithms to show you this familiar content in an optimal order, and recommendations of content you didn’t follow were generally secondary within each app. Now these apps are replacing, or at least pairing, the follow model with a different kind of algorithm, ones that consider all the content on an app and serve you what they think you’ll like. The purpose-built feed is dying.
+
+So we’re in a testing-out phase for A.I.-based recommendations. Every app is unleashing its algorithm on (effectively) the same pool of content, and a winner will eventually emerge. A marginally better app will attract more users, which will give it more data to make its feed better, which will attract more creators to pump it with content, which will open its lead. It’s a flywheel. And eventually, the lesser apps will get worse and fall off.
+
+“There’s a very real possibility that using artificial intelligence, some or generally one of these companies will walk away with the everything app,” Instagram and Artifact founder Kevin Systrom told me on Big Technology Podcast last week. “The benefit you get of having a large user base, of having the best artificial intelligence for recommendations, is enormous.”
+
+A Ban Becomes Plausible
+
+Ahead of his testimony before Congress last week, TikTok CEO Shou Chew shared that 150 million Americans and 5 million businesses use his app. The implication was that banning TikTok would hamper these businesses’ ability to reach customers. But U.S. government officials are wise to the fact that companies on TikTok could migrate to YouTube or Instagram. This factors into their consideration of TikTok’s place in the United States.
+
+“TikTok is uniquely replaceable,” FCC Commissioner Brendan Carr told me via text. “TikTok’s algorithm is not built on the social graph. That means people can switch to other platforms with similar approaches to serving up short-form videos and gain traction faster than it would have taken them on a legacy social graph application [like Facebook]. So this element of replaceability certainly makes it relatively easier to get a TikTok ban across the finish line.”
+
+Carr supports a TikTok ban. And though the U.S. has more to debate on its advisability, he’s spot-on regarding how the state of social media will factor.
+
+More Revenue Will Pour In
+Advertisers love standardization. It helps them know how much to pay, what to create, and how to measure. And when they can do all three things, they spend. On its own, TikTok didn’t merit the full attention of ad agencies because it was just one format in one place, albeit a very popular one. But when the same format appears on TikTok, Instagram (in the form of Reels, Facebook (also Reels, and YouTube (with YouTube Shorts), that type of standardization is appealing.
+
+“It is a multiyear effort for spend to hit scale when any new format is released,” one media buyer told me. In time, the platforms whose users have gravitated to Reels, Shorts, and the like and away from the traditional social feeds will see more and more of that money migrate, too.
+
+Top Creators in Control 
+Finally, when all platforms index the same content, they’ll be desperate to differentiate. So they’ll bid for creator exclusivity. Millions of dollars will head to creators who promise to post on only one platform—or even delete their accounts on others. The apps will be programmers, not just builders, using human taste, judgment, and dealmaking skills alongside their AI. That’s the great wildcard in this competition.
+
