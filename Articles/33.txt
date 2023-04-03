@@ -1,0 +1,39 @@
+The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has released eight Industrial Control Systems (ICS) advisories on Tuesday, warning of critical flaws affecting equipment from Delta Electronics and Rockwell Automation.
+
+This includes 13 security vulnerabilities in Delta Electronics' InfraSuite Device Master, a real-time device monitoring software. All versions prior to 1.0.5 are affected by the issues.
+
+"Successful exploitation of these vulnerabilities could allow an unauthenticated attacker to obtain access to files and credentials, escalate privileges, and remotely execute arbitrary code," CISA said.
+
+Top of the list is CVE-2023-1133 (CVSS score: 9.8), a critical flaw that arises from the fact that InfraSuite Device Master accepts unverified UDP packets and deserializes the content, thereby allowing an unauthenticated remote attacker to execute arbitrary code.
+
+
+Two other deserialization flaws, CVE-2023-1139 (CVSS score: 8.8) and CVE-2023-1145 (CVSS score: 7.8) could also be weaponized to obtain remote code execution, CISA cautioned.
+
+Piotr Bazydlo and an anonymous security researcher have been credited with discovering and reporting the shortcomings to CISA.
+
+Another set of vulnerabilities relates to Rockwell Automation's ThinManager ThinServer and affects the following versions of the thin client and remote desktop protocol (RDP) server management software -
+
+6.x – 10.x
+11.0.0 – 11.0.5
+11.1.0 – 11.1.5
+11.2.0 – 11.2.6
+12.0.0 – 12.0.4
+12.1.0 – 12.1.5, and
+13.0.0 – 13.0.1
+The most severe of the issues are two path traversal flaw tracked as CVE-2023-28755 (CVSS score: 9.8) and CVE-2023-28756 (CVSS score: 7.5) that could permit an unauthenticated remote attacker to upload arbitrary files to the directory where the ThinServer.exe is installed.
+
+Even more troublingly, the adversary could weaponize CVE-2023-28755 to overwrite existing executable files with trojanized versions, potentially leading to remote code execution.
+
+WEBINAR
+Discover the Hidden Dangers of Third-Party SaaS Apps
+Are you aware of the risks associated with third-party app access to your company's SaaS apps? Join our webinar to learn about the types of permissions being granted and how to minimize risk.
+
+RESERVE YOUR SEAT
+"Successful exploitation of these vulnerabilities could allow an attacker to potentially perform remote code execution on the target system/device or crash the software," CISA noted.
+
+Users are advised to update to versions 11.0.6, 11.1.6, 11.2.7, 12.0.5, 12.1.6, and 13.0.2 to mitigate potential threats. ThinManager ThinServer versions 6.x – 10.x are retired, requiring that users upgrade to a supported version.
+
+As workarounds, it is also recommended that remote access of port 2031/TCP is limited to known thin clients and ThinManager servers.
+
+The disclosure arrives more than six months after CISA alerted of a high-severity buffer overflow vulnerability in Rockwell Automation ThinManager ThinServer (CVE-2022-38742, CVSS score: 8.1) that could result in arbitrary remote code execution.
+

@@ -1,0 +1,29 @@
+Aimed to gain insights into organizational structure, resources and cybersecurity strategies, the results contextualize challenges across core functions including gaps in toolkits, planning, staffing, security awareness training and difficulty to secure cybersecurity insurance.
+
+Mid-sized businesses cybersecurity challenges
+49% of mid-sized businesses plan to budget more for cyber security in 2023
+In the last twelve months, 24% of mid-sized businesses have suffered a cyber attack or are unsure if they have suffered a cyber attack
+61% of mid-sized businesses do not have dedicated cybersecurity experts in their organization
+47% of mid-sized businesses do not currently have an incident response plan
+27% of mid-sized businesses reported having no cyber insurance coverage
+“In some regards, this research tells a virtual ‘Tale of Two Cities’ for mid-size and smaller businesses. Many report solid progress in strengthening their cyber defenses, while others acknowledge they face significant gaps in resources and talent that substantially increases their cyber risk,” commented Kyle Hanslovan, CEO of Huntress.
+
+
+The struggle of implementing security basics
+Mid-sized businesses are increasingly aware of the need for layered cybersecurity strategies. However, more tools doesn’t necessarily equal more protection.
+
+Research showed a large portion of respondents weren’t deploying threat monitoring, endpoint detection and response, vulnerability scanning, patch management or network detection and response.
+
+Perhaps most alarming, 47% of respondents reported their organization does not currently have an incident response plan, which puts the organization at a severe disadvantage for quickly and effectively fighting off security incidents when they occur.
+
+Beyond lacking necessary security solutions, mid-sized businesses also struggled to implement basic training measures and recruit the necessary staff. In fact, 61% of respondents say they do not have dedicated cybersecurity experts in their organization and only 9% say their workers adhere to security best practices.
+
+These gaps create major obstacles when fighting off cyberattacks in today’s advanced threat landscape as the fewer defenders there are to bolt the door shut, the more paths there are for cybercriminals to get through the defenses.
+
+While this challenge permeates businesses of all sizes, mid-sized companies are often strapped for money and resources, making it more difficult to effectively recruit and retain the talent they desperately need.
+
+Cyber insurance difficulties
+Mid-sized organizations are feeling the residual effects of their security gaps when going through the process of securing cyber insurance. While the demand for cyber insurance is increasing, it’s becoming harder to secure because the fundamentals aren’t being adequately met.
+
+Findings showed that while 69% of respondents reported they are required to carry some form of cyber insurance, nearly 30% reported having no cyber insurance coverage, highlighting the immediate need to shore up cyber hygiene in order to lock in protection.
+

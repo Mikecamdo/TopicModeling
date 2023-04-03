@@ -1,0 +1,41 @@
+As OpenAI technology matures, ChatGPT could help close cybersecurity's talent gap and alleviate its rampant burnout problem. Learn about these and other potential benefits.
+By
+Ashwin Krishnan, StandOutin90Sec
+ChatGPT counted 100 million active users within just two months of its official launch, according to researchers at UBS, making it one of the fastest growing apps in history. The cybersecurity implications are mixed: While cybercriminals will certainly use ChatGPT's powers for bad, security teams can also use them for good -- namely, to more efficiently and effectively manage cyber-risk.
+
+
+As the technology matures and improves, expect to see the following beneficial ChatGPT cybersecurity use cases emerge in the enterprise.
+
+1. Cyberdefense automation
+ChatGPT could support overworked security operations center (SOC) analysts by automatically analyzing cybersecurity incidents and making strategic recommendations to help inform both immediate and long-term defense measures.
+
+For example, rather than analyzing the risk of a given PowerShell script from scratch, a SOC analyst could lean on ChatGPT's assessment and recommendations. SecOps teams could also ask OpenAI broader questions, such as how to prevent dangerous PowerShell scripts from running or loading files from untrusted sources, to improve their organizations' overall security postures.
+
+Such ChatGPT cybersecurity use cases could lead to substantial relief for chronically burned out and understaffed SOC teams and, in turn, reduce an organization's overall cyber-risk exposure levels. The technology might also prove useful for educating and training entry-level security analysts and getting them up to speed faster than was previously possible.
+
+2. Adversary simulation
+ChatGPT's parameters mean it won't respond to requests it recognizes as suspicious, but users continue to discover loopholes. For example, ask ChatGPT to write ransomware code and it will decline to do so. But many cybersecurity researchers have reported that by describing relevant tactics, techniques and procedures -- without using red-flag words such as malware or ransomware -- they can trick the chatbot into producing malicious code.
+
+While ChatGPT's creators will likely try to close such loopholes as they emerge, it seems plausible attackers will continue to find workarounds. The good news is penetration testers can also use these loopholes to simulate realistic adversary behavior across diverse attack vectors with the goal of improving defensive controls.
+
+3. Cybersecurity reporting
+Detailed cybersecurity incident reports play a critical role in helping key stakeholders -- i.e., SecOps teams, security leaders, business executives, auditors, corporate board members and lines of businesses -- understand and improve an organization's security posture.
+
+Producing incident reports, however, is time-consuming and tedious work. Cybersecurity practitioners might be able to use ChatGPT to draft reports by feeding the application details such as the following:
+
+The target of compromise or attack.
+The scripts or shells the attackers used.
+Relevant data from the IT environment.
+By offloading some cybersecurity reporting tasks onto ChatGPT, incident responders would free up time for other critical activities. In this way, generative AI could further ease cybersecurity's ongoing issues with burnout and understaffing.
+
+4. Threat intelligence
+Threat researchers today have access to an unprecedented breadth and depth of cybersecurity intelligence from sources such as their enterprise's own infrastructure, external threat intelligence feeds, publicly available data breach reports, the dark web and social media. While knowledge is power, humans can't consistently analyze and synthesize such a wealth of information in a meaningful way.
+
+Generative AI, on the other hand, might soon do the following nearly instantaneously:
+
+Consume vast volumes of threat intelligence data from diverse sources.
+Identify patterns in the data.
+Create a cheat sheet of new adversarial tactics, techniques and procedures.
+Recommend relevant cyberdefense strategies.
+With ChatGPT, cybersecurity teams might eventually be able to obtain a full, accurate and up-to-the-minute understanding of the threat landscape at a moment's notice so they can adjust their security controls accordingly.
+

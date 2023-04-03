@@ -1,0 +1,36 @@
+CEOs and their boards must now own cybersecurity. CEOs need to establish the right culture to protect against cyber risk. Boards need to establish cyber as a material business financial risk and need to better understand the potential of its material impact on business.
+
+getty
+gettyGETTY
+The United States Securities and Exchange Commission (SEC) proposed new rules on cyber-risk management, strategy, governance, and incident disclosure are coming. Public disclosure of director experience in cybersecurity and risk oversight practices will go into effect shortly. A plethora of data indicates that most boards are not ready to meet these new standards.
+
+New cyber reporting will require a deeper focus on material business, operational and financial impacts. According to Cybersecurity Ventures, cybercrime damages are expected to reach $8 trillion this year. As a result, boards will need to substantively address cyber investments and the risks of business interruption, remediation costs, lost revenue, litigation, the erosion of competitiveness, and long-term shareholder value.
+
+PROMOTED
+
+
+
+
+Cyber risk reporting and business resilience planning must now become a key component of effective board governance. While it’s possible to add a cyber expert or technology expert to your board, having an independent voice now, providing on-demand support to expand your board’s cyber expertise is both smart and timely.
+
+Here are a few of the many ways to effectively expand your board cybersecurity expertise and ownership. Make sure that you understand the new SEC and investor community expectations and what regulatory oversight support is needed. Make sure that your board understands the latest trends and cyber risk factors as well as your responsibilities as a board member. Consider finding experts to support your board in exercising their cyber risk oversight responsibilities. Make sure that your board is preparing to ask proper questions of management in terms of business strategy, financial planning and capital allocations in the cyber area. Review materials and presentations provided to the board to ensure the right documents are in place. Ensure that safety in technology becomes a key driver in addition to cost, capability, performance and speed to market.
+
+MORE FROMFORBES ADVISOR
+Best Travel Insurance Companies
+ByAmy DaniseEditor
+Best Covid-19 Travel Insurance Plans
+ByAmy DaniseEditor
+Don’t forget that effective communication is a cornerstone of positive outcomes in business. The CEO plays a major role in creating the organizational culture that will properly address cyber risk. Developing a common language for discussing the complex issues of cyber risk is essential to achieving business resilience. This requires simplifying confusing, technical discussions loaded with nuanced security terms into understandable financial exposure analysis which sheds light on the potential of how cyber-attacks endanger organizations financially in the short and long term. People and processes must be part of ensuring that your culture understands cyber risk.
+
+According to the NCC, National Cybersecurity Center, 2023 will see the Great Resignation phenomenon in which Chief Information Security Officers (CISO) resign. Job stresses and impact on work-life balance has led to a statistic that shows between 32% and 44% of CISOs were either considering or open to leaving their jobs. Increasing liability, the potential for negative public press, and frequents changes in regulations and customer expectations is requiring significant time both on and off the job to manage effectively. Concealing information about breaches, with Uber’s former security officer being convicted, puts CISOs on the hot seat. Liability insurance is typically only now covering directors and named corporate officers, which adds additional pressures and stresses.
+
+At a minimum, boards need to ask questions of management that include: What is our potential financial exposure to cyber threats? What cyber threats are most likely to have a major financial impact on our business? How much financial exposure are we willing to accept across our enterprise and digital supplier ecosystem? How can we align our budget, implement controls, develop strategy and optimize risk transfer to address our cyber risk exposure? And are our digital initiatives being developed in a cyber-resilient way?
+
+Looking forward over the next decade, Protiviti has defined several of the top 10 global risks through 2031 to include the following: Adopted digital technologies may require significant and frequent efforts to upskill and reskill employees; Changes in the overall work environment such as shifts to a hybrid environment and evolving labor markets with changes in the nature of work, may lead to challenges to sustaining organizational culture and operations. All of this leads to increasing strategic and operational risks and a disruptive risk landscape that is here to stay and requires board and CEO attention.
+
+Cybersecurity in healthcare has become a national priority according to Gail R. Wilensky, PhD, senior fellow at Project HOPE, former administrator of the Health Care Financing Administration, now CMS, and former chair of the Medicare Payment Advisory Commission. Attacks have reached a high prevalence, causing delays in procedures and tests, with the potential to negatively affect patient health including increased patient mortality rates.
+
+Hacks on hospital records are surging and medical data is now vulnerable. A most recent ransomware incident impacting health information of approximately 624,000 patients disrupted CommonSpirit’s operations for at least a month last fall costing the organization $150 million in lost revenue, remediation and other expenses so far. This chain, operating 138 hospitals in twenty-one states, stated that the proposed class action litigation filed over the attack may affect its financial condition and operations as a whole. Securing and protecting your organization, whether it be healthcare or otherwise is now becoming critically important. Investing heavily in cybersecurity protection and augmenting the board’s cyber expertise is now no longer a choice, it is an imperative.
+
+Unfortunately, 90% of boards today are not ready for the new SEC cyber regulations. Most boards are unprepared to fully meet the upcoming SEC cyber risk disclosure requirements and many still lack the ability to contextualize cyber threats to business, operational, and financial exposures including the erosion of shareholder value. Getting a team in place to create the requisite culture of responsible stewardship, combined with in-boardroom support, board oversight reinforcement, independent strategic cyber governance analysis, and timely regulatory guidance will help to protect your organization against major financial and operational disruptions.
+

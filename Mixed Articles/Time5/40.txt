@@ -1,0 +1,44 @@
+European ports are preparing for a major regulatory change next year in how the hundreds of companies in their global supply chains address cybersecurity as ports have become a target for criminal hacker groups and state-sponsored attacks. 
+
+Cybersecurity rules approved by the European Union for pharmaceuticals, transportation, energy and other critical infrastructure companies are set to take effect in 2024 and will require hundreds of firms that operate out of Europe’s big ports to use basic security measures and report hacks to cybersecurity authorities. The regulation will be the first such cybersecurity requirements for many companies that provide services to critical sectors. Violators face fines of up to 10 million euros, equivalent to roughly $10.7 million, or up to 2% of global revenue, whichever is higher. 
+
+The war in Ukraine, rising energy prices and supply-chain disruptions during the pandemic have put port authorities on high alert for a rising number of cyberattacks. Ports in cities such Rotterdam in the Netherlands and Antwerp in Belgium, Europe’s two largest ports by cargo volume, are hubs for energy infrastructure and other critical sectors. A cyberattack three weeks before Russia invaded Ukraine in February 2022 disrupted operations at energy storage and distribution companies and a large terminal operator in Antwerp and other Belgian and Dutch ports.
+
+
+
+Energy storage tanks at the Antwerp port.
+PHOTO: NATHAN LAINE/BLOOMBERG NEWS
+For port authorities that ensure cargo moves safely through harbors, the coming rules could simplify their jobs because it can be difficult to nudge port-based companies, such as storage providers for oil and goods, terminal operators or logistics firms, to voluntarily adopt cybersecurity protections, said Athanasios Drougkas, a security expert at Enisa, the European cybersecurity agency. “It will make their lives easier,” he said.
+
+The rules will apply to critical infrastructure operators and companies in their supply chains, including technology service providers. A growing number of cyber threats have targeted critical infrastructure companies during the war in Ukraine, highlighting the vulnerability of supply chains. “We felt that there was a bull’s-eye on the company,” said Yannick Herrebaut, chief information security officer at Belgium’s Port of Antwerp-Bruges NV, referring to the port authority. 
+
+Companies based at the Port of Antwerp-Bruges were hit with ransomware in February 2022 at the same time that cyberattacks disrupted German energy storage companies and firms at Dutch ports. The victims suspended some operations and tankers crowded outside the port of Antwerp-Bruges waiting to unload.
+
+“It’s getting more and more important that you need to have control over this supply chain,” he said.
+
+Over time, the coming European cybersecurity law for critical infrastructure will likely have a similar effect as the European Union’s broad privacy rules known as the General Data Protection Regulation, said Deepak Mehta, an ecosystem developer at the Maritime Campus Antwerp, which works on technology innovation with maritime companies including ports and shipowners. 
+
+A prior version of the coming EU cyber law mandated fewer safeguards than does the finalized one and applied only to large companies in a handful of critical sectors. Starting next year, the expanded cyber rules will apply to a larger pool of companies, including many medium-size firms, and to sectors including waste management, space and technology providers that previously didn’t fall under the 2018 law. EU countries have until October 2024 to start implementing the requirements and ensuring national regulators enforce the rules.
+
+NEWSLETTER SIGN-UP
+WSJ Pro
+Cybersecurity
+Cybersecurity news, analysis and insights from WSJ's global team of reporters and editors.
+
+PREVIEW
+SUBSCRIBE
+Around five companies in the port of Rotterdam fall under the jurisdiction of the earlier law, said Marijn van Schoote, head of cybersecurity at the Port of Rotterdam. That number will jump to around 200 when the updated version is in effect, he said. 
+
+The new law requires critical infrastructure companies to make sure they carry out cyber risk assessments, use technical protections such as encryption and measures to prevent and respond to cyberattacks, and due diligence for the cybersecurity protections that service providers have in place.  
+
+
+“A lot of work has to be done in the upcoming years,” Mr. van Schoote said.
+
+The expansion will push companies to improve cybersecurity measures they have neglected, said Rob Nijman, spokesman for FERM, a group that shares cybersecurity intelligence from government bodies among around 50 member companies at the Port of Rotterdam. “There’s of course opportunities for companies to get their stuff in order because they have to,” he said. 
+
+The port of Rotterdam is assessing whether it could set up a security operations center modeled on a similar initiative at the port of Los Angeles, Mr. van Schoote said. His office will decide before the summer whether to go ahead. 
+
+The Los Angeles port shares information about threats through a cyber defense center with around 20 members including companies and groups such as the port’s dockworkers. A separate security operations center at the port runs around the clock and stops about 40 million attempted cyberattacks a month, said Gene Seroka, the port’s executive director.
+
+More than 200,000 companies use the Port of Los Angeles every year, with shipping lines, trucks and railways transporting cargo there. “It’s a really complex set of participants,” he said.
+

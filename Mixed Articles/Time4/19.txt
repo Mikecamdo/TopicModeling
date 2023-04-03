@@ -1,0 +1,56 @@
+CRIPPLED BY WAR and sanctions, Russia now faces evidence that its already-struggling space program is falling apart. In the past three months alone, Roscosmos has scrambled to resolve two alarming incidents. First, one of its formerly dependable Soyuz spacecraft sprang a coolant leak. Then the same thing happened on one of its Progress cargo ships. The civil space program’s Soviet predecessor launched the first person into orbit, but with the International Space Station (ISS) nearing the end of its life, Russia’s space agency is staring into the abyss.
+
+“What we’re seeing is the continuing demise of the Russian civil space program,” says Bruce McClintock,  a former defense attaché at the US embassy in Moscow and current head of the Space Enterprise Initiative of the Rand Corporation, a nonprofit research organization. Around 10 years ago, Russian leaders chose to prioritize the country’s military space program—which focuses on satellite and anti-satellite technologies—over its civilian one, McClintock says, and it shows.
+
+ADVERTISEMENT
+
+Russia’s space fleet is largely designed to be expendable. The history of its series of Soyuz rockets and crew capsules (they both have the same name) dates back to the Soviet era, though they’ve gone through upgrades since. Its Progress cargo vessels also launch atop Soyuz rockets. The cargo ships, crewed ships, and rockets are all single-use spacecraft. Anatoly Zak, creator and publisher of the independent publication RussianSpaceWeb, estimates that Roscosmos launches about two Soyuz vehicles per year, takes about 1.5 to 2 years to build each one, and doesn’t keep a substantial standing fleet.
+
+FEATURED VIDEO
+
+
+Astronaut Chris Hadfield on 13 Moments That Changed His Life
+
+While Roscosmos officials did not respond to interview requests, the agency has been public about its recent technical issues: The Soyuz MS-22 docked at the ISS suffered a coolant leak on December 14, 2022, and astronauts inspected it with the space station’s robotic arm, Canadarm2. The incident canceled a planned spacewalk by Russian cosmonauts, and the agency later blamed the leak on a micrometeoroid impact. 
+
+On February 11, the agency reported another coolant leak, this time on a Progress MS-21 cargo ship, that caused it to depressurize. Roscosmos also attributed the leak to an “external impact.” That spacecraft cast off from the ISS in late February, and Roscosmos disposed of the ship, allowing it to burn up over the Pacific Ocean.
+
+Micrometeoroid strikes can be a danger to any spacecraft, no matter who operates them or what shape they’re in. But experts remain unconvinced by Russia’s explanation for the incidents—and worry that Roscosmos is hiding deeper problems. McClintock calls the agency’s explanation plausible but points out that it hasn’t been confirmed. And these are not Russia’s only malfunctions: In 2018, a Soyuz crew spacecraft sprang a tiny hole, which astronauts patched up. Two months later, a Soyuz rocket suffered a booster failure in an unrelated incident. The three leaks within a few years, says McClintock, “point to an overall decline of the Russian civil space program.”
+
+ADVERTISEMENT
+
+Zak points out that micrometeoroid impacts in Earth orbit have been exceedingly rare. He thinks the odds of meteors damaging two spacecraft cooling systems—but nothing else on the ISS—in such a short period of time are “very close to zero.”
+
+ADVERTISEMENT
+
+Roscosmos has also considered bringing down the Soyuz currently docked at the ISS earlier than planned and replacing it with yet another Soyuz, according to a Russian newspaper. This could be a sign of technical worries behind the scenes.
+
+For nine years after the final space shuttle flight, NASA depended on Russia to carry astronauts to the ISS—Soyuz offered the only ride to space. But in 2020, NASA began using SpaceX Crew Dragon spacecraft. Soon, Boeing will start providing rides too. NASA still relies on Russia for some cargo deliveries and a few astronaut flights, but that may soon change, McClintock says. “I think it’s likely—and it would be prudent—for NASA to be conducting a similar analysis to see if they can maintain resupply and astronaut transfers to the station without depending on the Russians,” he says. 
+
+NASA could already be moving in that direction; on March 2 the agency extended cargo contracts with SpaceX, Northrop Grumman, and Sierra Space. This development will add to Russia’s economic woes by reducing its already limited space revenue. Roscosmos has no commercial space program to support or fall back on.
+
+For crewed launches, Russia has long depended on its Baikonur spaceport in neighboring Kazakhstan. But the nation has charged costly annual fees, and in March Kazakhstan seized Russian spaceport assets, reportedly due to Roscosmos’ debt. Russia has sought to reduce its dependence on Baikonur by building a new spaceport, the Vostochny Cosmodrome in eastern Russia near the Chinese border, but the project has been bogged down by construction problems, delays, and corruption scandals. 
+
+See What’s Next in Tech With the Fast Forward Newsletter
+From artificial intelligence and self-driving cars to transformed cities and new startups, sign up for the latest news.
+Your email
+Enter your email
+
+SUBMIT
+By signing up you agree to our User Agreement (including the class action waiver and arbitration provisions), our Privacy Policy & Cookie Statement and to receive marketing and account-related emails from WIRED. You can unsubscribe at any time.
+Beyond launch problems and coolant leaks, Russia’s civil space program faces another problem: the ISS. For the past quarter of a century, the station has provided a critical tie between the US and Russian space programs, but that’s winding down, along with plans to retire the giant structure altogether. NASA is investing in next-generation commercial space stations, with modules scheduled to arrive in orbit as early as 2030. Russia has no role in those commercial concepts, nor in China’s new Tiangong station.
+
+Last July, Yuri Borisov, the head of Roscosmos, claimed that Russia would withdraw from the ISS—effectively ending the station’s lifetime—in 2028, when Russia would launch its own space station. And this February, the state-owned TASS news agency confirmed that Russia plans on supporting the ISS through 2028, timing that depends on the deployment of a “new Russian Orbital Station.”
+
+Pavel Luzin, senior fellow at the Jamestown Foundation, a think tank focused on China, Russia, and Eurasia, is skeptical; he’s not aware of new space station models, crewed spacecraft, or launch vehicles in the works. It would be optimistic for Russia to even launch a new station in the 2030s, he adds. “Russia is not the Soviet Union,” says Luzin, who is also a visiting scholar at the Tufts University’s Fletcher School of Law and Diplomacy. “Russia will be able to make some large vehicles and Soyuz spacecraft. Russia will be able to launch some satellites. But it will not be an advanced space power. It will not be making steps beyond low Earth orbit.”
+
+ADVERTISEMENT
+
+Yet through the support of an emerging space superpower, Russia still has plans for the moon. In 2021, Chinese and Russian officials announced that they would partner to set up a research station on the lunar south pole in the 2030s. Lots of work will precede that base, though. First, China has embarked on a series of robotic missions to collect data and scope out potential landing spots. The next of those, Chang’e 6, includes a lander and sample return mission and is planned for 2025. Russia’s first robotic mission for the program, Luna 25, has been delayed for years but could finally launch in July. That lander will prove a crucial test for Roscosmos, whose handful of missions beyond Earth orbit since the late 1980s have fared poorly. Those mostly Mars-focused probes either failed to leave Earth orbit or didn’t reach their destinations.
+
+That track record, compared to the successes of China’s ramped-up space program, is a reason for skepticism about the Chinese-Russian collaboration, says Zak. “Why would China cooperate with Russia when the Russian space program is in a weaker state?” he says. “The mismatch in technical capabilities is so huge that I don’t see what China can get from this.” While China may have political reasons for collaborating with Russia, Zak says, its space program has little to gain from working with its Russian counterpart.
+
+As its civil space program collapses, Russia has been heavily investing in its military one. The country has highly developed anti-satellite weapons, including a missile system tested in November 2021 that generated thousands of bits of debris in orbit. (So have previous tests by the US, China, and India, leading to an international call for a moratorium on them.) Russia has also used electronic weapons against space systems and has been testing laser weapons that could be used against satellites. Russia appears to have tested a potential weapon prototype in 2019 and 2020, with a “nesting doll”-like spacecraft, Cosmos 2543, which released a sub-satellite in orbit, says Victoria Samson, the Washington office director for the Secure World Foundation, a nonpartisan think tank.
+
+Like McClintock, Samson says Russia’s back-to-back technical issues are a worrisome sign for its civil space program, and so is the likelihood that it may soon be without a space station. “There is a national prestige factor for countries with space programs,” she says. The Soviet Union may have put the first human into space—but now, 60 years later, Russia faces a near-future in which it is no longer able to do that. “That’s a slide,” says Samson.
+

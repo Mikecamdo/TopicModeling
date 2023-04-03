@@ -1,0 +1,33 @@
+Washington — General Motors Co. Chief Cybersecurity Officer Kevin Tierney has been appointed to a panel within the U.S. Department of Homeland Security that provides recommendations to improve the nation's cybersecurity.
+
+Tierney is one of 13 new appointees to the Cybersecurity and Infrastructure Agency's (CISA) Cybersecurity Advisory Committee (CSAC), created in 2021 to advise the agency on "policies, programs, planning, and training to enhance the nation’s cyber defense."
+
+General Motors Co. Chief Cybersecurity Officer Kevin Tierney
+Tierney will be the only one of the 34-member committee who works in the automotive industry or in transportation more generally. Other appointees come from tech, banking, energy. education, pharmaceutical and other industries; academic institutions and state and local governments.
+
+General Motors is at an "inflection point" as it moves into building electric vehicles and charging infrastructure at scale, Tierney told reporters following his first meeting with the group Tuesday.
+
+
+"We are really becoming more of an infrastructure company very quickly, and we have a lot of dependencies as you might expect on software and systems," he said. "It's a tremendous honor and I'm pretty humbled to be a part of that group and represent the automotive industry."
+
+GM said in a statement that Tierney's appointment will allow the company to "play a key role in shaping strategy for national EV and energy security infrastructure."
+
+
+The auto industry is a piece of the nation's critical infrastructure, he said, because of its large manufacturing presence and role in transportation. If those systems are disrupted, the nation's security is at risk.
+
+Tierney has worked on cybersecurity at General Motors since early 2013. He also serves as the vice chair of Auto-ISAC, an industry group for sharing information on cyber threats within connected vehicles. At GM, he focuses on ensuring the company's security and developing systems to keep drivers' data private and safe, he said.
+
+Get the COVID-19 Update newsletter in your inbox.
+Updates on how the coronavirus is affecting your community and the nation
+
+Delivery: Varies
+Your Email
+He will serve a two-year term and expects to serve on a subcommittee focused on corporate governance and cybersecurity responsibility within the private sector. CISA Director Jen Easterly asked Tierney to join the committee after she visited GM's manufacturing facilities and learned what the company is doing in cybersecurity.
+
+CSAC also expects to discuss the implications of artificial intelligence tools like ChatGPT, a chatbot developed by OpenAI that has raised new questions about technology advances and security in autos.
+
+
+GM executives have said the company is exploring using ChatGPT in its vehicles, but Tierney said it's not yet clear how or whether it would be used.
+
+"We're going to look at it for what are the concerns? What are the benefits? How can we use it? Can it be a benefit to our drivers in some constrained way?" he said. "Those are all things that every company is working through right now in a pretty expedited way because this is coming out very quickly."
+

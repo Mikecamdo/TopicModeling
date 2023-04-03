@@ -1,0 +1,121 @@
+Good morning! This is David, Tim’s researcher for The Cybersecurity 202. I’m anchoring today’s newsletter. (Yes, I am nervous). I also research The Technology 202 with Cristiano Lima. Send tips, scoops, exclusives and nut-free banana bread recipes to david.dimolfetta@washpost.com.
+
+Get the full experience.
+Choose your plan
+Reading this online? Sign up for The Cybersecurity 202 to get scoops and sharp analysis in your inbox each morning.
+
+Below: A pair of senators re-up civilian cyber workforce legislation, and the number of zero-day exploits in 2022 reportedly drops. First:
+
+Credit ratings increasingly looking at cybersecurity
+
+Credit ratings can be important as companies try to borrow money amid high interest rates and turmoil in the banking sector. (Franck Robichon/EPA-EFE/Shutterstock)
+U.S. companies face a wide array of issues potentially impacting their ability to borrow money. In recent months, a banking crisis and high interest rates have stretched some companies thin, leading to layoffs and decreases in spending.
+
+Story continues below advertisement
+At the same time, credit rating agencies, which assess companies’ ability to pay back borrowed money, are increasingly factoring in cybersecurity as part of their credit assessment criteria as they try to get a handle on the risks companies face. 
+
+Companies are dedicating more resources to protecting their assets because the potential risk that cyberattacks have against their credit is “real and significant,” said Scott Kessler, the global sector lead for technology, media and telecommunications at Third Bridge, an investment research firm. 
+
+Despite an uncertain global economic backdrop, Kessler consistently sees companies devoting resources toward cybersecurity. 
+
+Story continues below advertisement
+“It’s almost a requirement now to have certain protections in place to ensure your valuable assets are safeguarded,” he said.
+To be sure, cybersecurity is still a small piece of the puzzle for credit rating agencies, and boosting cyber defenses is not always the top issue on many corporate executives’ minds. But experts say that companies need to be focused on cybersecurity as they try to mitigate risks — and assure lenders that they’re doing so.
+
+For companies that deal with any type of risk in their business model, what they do from a cyber policy and staffing standpoint is crucial to how attractive they are for investments and doing business, said Colby Stilson, a partner, portfolio manager and co-head of the global taxable fixed income team at Brown Advisory.
+
+“If you have a breach, but you don't have the right governance in place to avoid risk like that, there are very real monetary damages associated with that kind of event,” Stilson said. If an event is catastrophic enough, that may facilitate the downgrade of a company’s credit rating, he added. That has massive implications for the company’s cost of capital and investors in its bonds.
+
+Story continues below advertisement
+Despite a recent emphasis on cybersecurity by credit rating agencies, there’s no one-size-fits-all approach for an organization to earn a good rating through their cyber posture, experts told The Cybersecurity 202. That makes it difficult for ratings agencies and analysts to predict the credit outlook for organizations and governments as they brace for potentially destructive cyberattacks in a tense geopolitical situation, especially if they have smaller budgets.
+
+Smaller entities are not investing as much in cybersecurity as their larger counterparts, said Lesley Ritter, a vice president and senior credit officer leading cyber risk for Moody’s Investors Service, a major credit ratings agency.
+
+“Company size seems to be a very detailed driver to the level of investment in cybersecurity and the sophistication of the overall cyber governance structure,” she said.
+Credit rating agencies also look at organizational issues and priorities, like whether a company has a chief information security officer who has a seat at the table during important discussions.
+Complicating matters, the most significant sources of risk for cyber incidents are humans, said Gerry Glombicki, a senior director at Fitch Ratings’s insurance group.
+
+Story continues below advertisement
+To prevent a hack, a company can enable multi-factor authentication, give staff awareness training or buy anti-virus software, “but if you have the wrong person click on the wrong link, all of that stuff doesn’t matter,” he said.
+Some companies’ credit ratings have suffered after major cyberattacks. But recent victims say that they’ve been able to bounce back by focusing on cybersecurity investments.
+
+Equifax, whose credit outlook was downgraded by Moody’s in 2019 following its 2017 data breach, said the incident was a “catalyst for change” at the company. (U.S. prosecutors have accused Chinese military hackers of stealing the company’s data.) 
+
+And SolarWinds, which was hit by Russian hackers, rebounded in 2022 with a stable credit outlook. The investments in cyber after the incident “have enabled us to retain the vast majority of our customers while also returning to our historically high customer retention rates and strong public sector business,” a spokesperson said.
+
+Staying ahead of geopolitics
+The war in Ukraine isn’t significantly factoring into cyber-related credit ratings — for now, said Jon Bateman, a senior fellow in the Technology and International Affairs Program at the Carnegie Endowment for International Peace.
+
+Story continues below advertisement
+So far, cyber risks from Russia and Ukraine have not significantly materialized in the United States. That could change if the United States enters into a direct conflict with a country with significant cyber capabilities, like Russia or China.
+
+Even then, there might be bigger problems at hand for U.S. businesses besides wanting a good credit rating, he said.
+
+The keys
+Rosen, Blackburn introduce cybersecurity workforce legislation package
+
+A related bill was introduced last Congress by Sen. Jacky Rosen (D-Nev.). (Jabin Botsford/The Washington Post)
+Sens. Jacky Rosen (D-Nev.) and Marsha Blackburn (R-Tenn.) introduced a pair of bills today that would create civilian cyber reserve pilot programs in the Defense Department and Department of Homeland Security, according to a release shared exclusively with The Cybersecurity 202.
+
+Story continues below advertisement
+The Civilian Cybersecurity Reserve Act would allow the agencies to recruit civilian cybersecurity personnel to serve in reserve capacities in the event that the United States needs to respond to large-scale malicious cyber incidents.
+
+Participation in the programs would be voluntary and would not include Selected Reserve military members, the release notes.
+
+A similar bill that passed in the Senate last Congress was introduced by Rosen with the support of Blackburn, but only directed the creation of a cyber reserve program in the Defense Department. The release for the new pair of bills does not mention any new cosponsors.
+
+The news comes amid continued concerns over a growing gap in the U.S. cyber workforce. The Government Accountability Office in January said the federal government should work to address the shortage, calling it a risk to national security.
+
+Greek authorities reportedly spied on and wiretapped Meta manager
+
+The spyware was manufactured in Athens, though the Greek government denied its use and had previously banned it. (Louisa Gouliamaki/AFP/Getty Images)
+The Greek national intelligence service placed an American and Greek national who worked for Meta under year-long wiretap surveillance, Matina Stevis-Gridneff reports for the New York Times.
+
+Story continues below advertisement
+The report, citing documents and people familiar with the matter, is “the first known case of an American citizen being targeted in a European Union country” with advanced surveillance technology, Stevis-Gridneff writes.
+
+Artemis Seaford from 2020 to 2022 worked as a trust and safety manager at Meta and lived part-time in Greece. Her phone was hacked by Predator spyware for at least 2 months beginning in September 2021.
+
+The spyware was manufactured in Athens, though the story notes the Greek government denied its use and had previously banned it.
+
+“The Greek authorities and security services have at no time acquired or used the Predator surveillance software. To suggest otherwise is wrong,” government spokesman Giannis Oikonomou told the New York Times in an email. “The alleged use of this software by nongovernmental parties is under ongoing judicial investigation.”
+
+Zero-day vulnerability exploits dipped in 2022, but were most linked to China
+
+Chinese state-sponsored hackers continued to leverage zero-day attacks the most. (Kiichiro Sato/AP)
+Researchers spotted fewer previously-unknown software vulnerabilities known as “zero-days” being exploited in 2022 than in 2021, though hackers linked to China continued to carry out the majority of the exploits, according to reports citing Google-owned Mandiant data.
+
+Story continues below advertisement
+Last year “was largely a story of consistency,” Mandiant principal analyst James Sadowski told CyberScoop’s Elias Groll.
+
+Last year, zero-days were used against the three largest software vendors by market size: Apple, Microsoft and Alphabet, the parent company of Google, Matt Kapko from Cybersecurity Dive reports.
+
+Government scan
+OPM gives agencies guidance for a new program to rotate cybersecurity employees across agencies (Federal Computer Week)
+
+Securing the ballot
+CISA: Election security still under threat at cyber and physical level (Nextgov)
+
+Industry report
+Insurer spots cybersecurity weakness with model simulating catastrophic attacks (Bloomberg News)
+
+National security watch
+BBC advises staff to delete TikTok from work phones (BBC News)
+
+Global cyberspace
+Millions in Punjab still without mobile internet as shutdown extended to fourth day (The Record)
+
+Cyber insecurity
+Google flags apps made by popular Chinese e-commerce giant as malware (TechCrunch)
+
+Clop ransomware claims Saks Fifth Avenue, retailer says mock data stolen (Bleeping Computer)
+
+Ferrari discloses data breach after receiving ransom demand (Bleeping Computer)
+
+Privacy patch
+Why you should opt out of sharing data with your mobile provider (Krebs on Security)
+
+Daybook
+CISA CIO Robert Costello delivers remarks at Thales Group’s 2023 Cipher Summit beginning at 7 a.m.
+CISA CSO Valeri Cofield provides the opening keynote at a Travelers Institute cybersecurity webinar beginning at 12 p.m.
+Integrity Institute founders Sahar Massachi and Jeff Allen speak with the Stanford Cyber Policy Center at 3 p.m.

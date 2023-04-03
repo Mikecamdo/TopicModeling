@@ -1,0 +1,40 @@
+Companies continue to value cybersecurity skills, but many have moved their focus from hiring cybersecurity professionals to training up in-house staff on needed cybersecurity skills.
+
+
+The monthly number of cybersecurity-related job postings plummeted by nearly a third (31%) in the last month, compared with its peak a year ago, according to employment services firm Indeed.com. Yet cybersecurity is the No. 1 desired skill set that companies would like their employees to learn, with 59% of technology leaders rating cybersecurity as a top-three topic for training, ahead of both data science and cloud skills, according to training firm Pluralsight.
+
+For companies that need to fill gaps in their employee's technical skills, training employees in new skill sets — "upskilling" in the industry parlance — is a relative bargain, compared with the cost of hiring a new employee, says Gary Eimerman, chief product officer at Pluralsight.
+
+"Given the level of risk, cybersecurity hacks are a boardroom conversation across organizations," he says. "Upskilling internally for cybersecurity talent is significantly more cost effective than hiring externally for cybersecurity skills."
+
+
+Companies would both hire and train cybersecurity professionals, but given the shortage in available skilled workers, training has taken precedence, says Bill Reynolds, research director at Foote Partners, a workforce research firm. The average estimate to hire a technology workers, such as a full-time developer, is about $32,000.
+
+ADVERTISING
+
+"They are absolutely doing both, but with the significant shortfall in the marketplace for skilled cybersecurity professionals, the sense I'm getting by talking to hundreds of employers ... is that they're focusing more right now on training and developing talent from within," he says. "And it is not just technical skills — they want a whole market basket of soft nontech skills [as well]."
+
+Cybersecurity Skills as Layoff Protection?
+As recession fears continue to roil the technology industry, on March 20 Amazon announced its second tranche of layoffs — this time, planning to cut 9,000 corporate and technology workers, bringing the total number of job affected to 27,000. Cybersecurity vendors have not been spared, shedding thousands of employees in the last three quarters, with some companies cutting more than a quarter of their workforce, according to tracking site Layoffs.fyi.
+
+Chart of employer-specified tech skill preferences for workers.
+Cybersecurity takes the top spot among skills preferred by employers for training purposes. Source: Pluralsight
+Yet, overall, workers with cybersecurity skills have largely been protected from layoffs, due to the relative difficulty in hiring or replacing them. Only 10% of C-level executives intend to lay off cybersecurity staff, much lower than other departments, such as human resources (30%), finance (24%), and even information technology (14%).
+
+As another metric, two-thirds of tech executives have been asked to reduce costs, but 72% still plan to increase investments in the development of technology skills, according to Pluralsight's "2023 State of Upskilling" report. 
+
+"When layoffs are on the table for an organization, where the cuts are made is highly individualized based on business need," Pluralsight's Eimerman says. "Among layoffs that have been done in the tech industry, few have focused on technology-specific roles." 
+
+Cybersecurity as the Most-Wanted Tech Skill
+Among technology skills, cybersecurity is most often in the top-three skills demanded by technology leaders. Overall, if employees had a weekly sprint for learning, 59% of executives would want them to learn cybersecurity skills, while 44% preferred data-science skills, and 42% selected cloud skill sets, according to Pluralsight's report.
+
+But learning such skills has gained priority for employees, too, who list their top reasons for upskilling as salary growth, personal development, and job security. 
+
+Across the 53 noncertified cybersecurity skills tracked by Foote Partners, the average worker commands a 12.3% base-salary cash premium. Skills such as security auditing, penetration testing, vulnerability scanning and management, DevSecOps, and cyberthreat intelligence all have significant premiums, Reynolds says.
+
+Some combinations of skills are in even greater demand, such as cloud and cybersecurity, he says. With companies focused on shrinking their attack surface area and putting more security capabilities into a very small footprint, for example, workers with cybersecurity, embedded OS, optimizing, and threat detection skills together would garner even greater premiums. 
+
+"From a career perspective, there is so much opportunity for cybersecurity professionals," he says.
+
+While a lack of time and budget has undermined upskilling efforts in the past, workers have new incentives in the tighter employment market: Almost half say that a hiring freeze or pause has resulted in them doing more duties outside their job function. In 2022, 60% of workers cited "I'm too busy" as the top barrier to gaining new technology skills, according to Pluralsight. In 2023, that number dropped to 42%, while 30% cited uncertainty in where to focus their efforts as a top barrier.
+

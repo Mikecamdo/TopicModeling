@@ -1,0 +1,38 @@
+Last summer, the US Transportation Security Administration (TSA) rolled back some of its rules governing cybersecurity for oil and natural gas pipelines. While the oil and gas industry welcomed the changes, and the new rules marked a promising step toward public-private collaboration, there's still more work to be done. Particularly now, following the newly released National Cybersecurity Strategy, information sharing and collaboration are key to effectively protecting our critical infrastructure.
+
+
+To start, the TSA's rollback — or some revision at least — was necessary. The TSA issued an initial directive in 2021, in the wake of the Colonial Pipeline hack, which exposed vulnerabilities to cyberattackers in a core component of the nation's energy infrastructure. But these rules were not well received by the industry. Pipeline operators were concerned about the directive's "aggressive" timelines. Some claimed that "the directive could require them to replace thousands of pieces of equipment all over the country," according to Tennessee Sen. Marsha Blackburn. Operators expressed concerns that the overhaul of so much equipment so quickly might itself create even worse security issues by introducing new technologies that hadn't yet been fully vetted into systems that had been running stably for decades.
+
+The new rules, issued through a pair of directives (in June and July), and enhanced toward the end of the year, simultaneously extend and ease the TSA's cybersecurity requirements, bringing them more in line with what the industry was asking for. The new guidelines focus on more performance-based measures, rather than the prescriptive measures issued in 2021.
+
+Progress, right? It depends on who you ask.
+
+Prescriptive vs. Pragmatic Rules
+The TSA's new pipeline rules are more pragmatic and more suited to the oil and gas industry's needs, but there's a trade-off: They are weaker.
+
+The prescriptive nature of the first memo was out of touch with the reality of operational technology (OT). Many of the requirements were reasonable for the IT networks used by pipeline operators but were either not useful or directly unhelpful for the OT world, which has different technologies and different requirements, and operates in different environments.
+
+The new memo effectively reduces the prescriptiveness to more realistic standards, so pipeline operators won't be penalized for failing to meet impossible requirements.
+
+On the other hand, the new rules may be too loose to make any drastic improvements in our pipeline security. They are extremely simplified best practices, and it's difficult to see how anyone can be held accountable to them. For example, phrases like "timely manner" and "risk-based methodology" are qualitative measurements. Is a pipeline operator truly responding in a timely manner or not? Is their methodology risk-based or not? It's a judgment call.
+
+So while this memo gives more flexibility for operators to enact reasonable changes, it may also leave too much wiggle room to pipeline operators.
+
+The Challenge of Patching OT Systems
+The reality is that ironclad regulation is nearly impossible. It's difficult for the government to push prescriptive guidelines with binary outcomes ("secure" or "not secure") in complex environments.
+
+For example, many pipeline operators are running OT systems that are 30 or 40 years old. Some of these systems have been running continuously for decades and have never been connected to the Internet. The people who wrote the site-specific code are long since retired, and those who wrote the operating system are probably dead. Who are you going to call if something goes wrong?
+
+The fact is, patching very old OT systems is riskier than leaving them unpatched. Regulation of any kind is not well suited to handling such situations — what's needed is deep local knowledge of the systems, complete awareness of what components are involved (especially any that connect to the Internet in any way) and what data they are transmitting (and to where), and a willingness to maintain security to the best of one's ability.
+
+Embracing Public-Private Cybersecurity Partnerships
+However, the TSA's new pipeline rules do show a way forward. While imperfect, the new rules are more reflective of public-private partnership than the initial directive, and that collaborative approach is reason to be hopeful.
+
+When preparing their directive, the TSA asked for and received extensive input from industry stakeholders, as well as federal partners, including the Department's Cybersecurity and Infrastructure Security Agency (CISA).
+
+The TSA has stated that it will continue to propose regulations to codify a number of cybersecurity requirements for pipelines over the year, and we hope that will continue to be done in partnership with the industry.
+
+In short, the TSA should be commended for its multistakeholder approach. The type of industry consultation and review that went into the newer directives should be part of any future cybersecurity regulations affecting critical infrastructure. This is especially true given that 80% of critical infrastructure is run by the private sector.
+
+When it comes to infrastructure, the government should not, and cannot, issue regulations without the active involvement of the industries it's regulating. True public sector cybersecurity depends on more public-private partnerships like this.
+
