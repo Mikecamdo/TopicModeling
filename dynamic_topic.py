@@ -1,13 +1,23 @@
-#First topic: Marvel
-#Second topic: Russia
-#Third topic: NFL
-#Fourth topic: Cybersecurity
-#Fifth topic: Morgan Wallen
-#Sixth topic: 
-#Seventh topic: 
-#Eighth topic: 
-#Ninth topic: 
-#Tenth topic: 
+#First topic: NFL
+#Second topic:  XFL
+#Third topic: NBA
+#Fourth topic: Facebook
+#Fifth topic: Twitter
+#Sixth topic: France
+#Seventh topic: Mexico
+#Eighth topic: World War II
+#Ninth topic: Cybersecurity
+#Tenth topic: Marvel
+#Eleventh topic: Virtual Reality
+#Twelfth topic: Easter
+#Thirteenth topic: Star Wars
+#Fourteenth topic: The Office
+#Fifteenth topic: Chemistry
+#Sixteenth topic: Space Travel
+#Seventeenth topic: SMU
+#Eighteenth topic: Joe Biden
+#Ninteenth topic: Donald Trump
+#Twentieth topic: COVID-19
 
 import os, glob
 from gensim.models import LdaSeqModel
