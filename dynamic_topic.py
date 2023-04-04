@@ -140,12 +140,10 @@ pprint(topics)
 print('------------------------------------------------')
 print('Document topic vectors:')
 
-counter = 1
-for doc in corpus:
-    print('Document', counter)
+for doc in range(200):
+    print('Document', doc + 1)
     document_topics = ldaseq.doc_topics(doc)
     pprint(document_topics)
-    counter += 1
 
 print('------------------------------------------------')
 print('Relevant words for each timeslice:')
