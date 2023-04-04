@@ -1,1 +1,574 @@
-This is file number 174
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The impact of Quantum Computing on cybersecurity | Tripwire
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    Skip to main content
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Email Us 800-328-1000
+
+
+
+Secondary Navigation
+
+
+Customer Portal
+
+
+Partner Portal
+
+
+GET A DEMO
+
+
+
+
+
+
+
+
+
+
+Products
+
+Toggle Dropdown
+
+
+
+Tripwire Enterprise
+
+
+Tripwire ExpertOps
+
+
+Tripwire IP360
+
+
+Tripwire Industrial Visibility
+
+
+Tripwire LogCenter
+
+
+View All Products
+
+
+
+
+
+
+Solutions
+
+Toggle Dropdown
+
+
+
+Security Configuration Management
+
+
+File Integrity and Change Monitoring
+
+
+Vulnerability Management
+
+
+Cloud
+
+
+Compliance
+
+
+Industries
+
+
+
+
+
+Services
+
+
+
+Resources
+
+Toggle Dropdown
+
+
+
+Upcoming Events
+
+
+On-Demand Webinars
+
+
+Datasheets
+
+
+Case Studies
+
+
+Guides
+
+
+Training
+
+
+View all Resources
+
+
+
+
+
+Blog
+
+
+
+About
+
+Toggle Dropdown
+
+
+
+Careers
+
+
+Leadership
+
+
+Newsroom
+
+
+Partners
+
+
+Contact Us
+
+
+
+
+
+
+
+
+
+
+
+Keywords
+
+
+
+Sort
+Newest firstOldest firstBest matchTitle A-ZTitle Z-A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+
+
+Blog
+
+
+          The impact of Quantum Computing on cybersecurity
+        
+
+
+
+
+The impact of Quantum Computing on cybersecurity
+
+
+
+Posted on April 3, 2023
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Image
+ 
+
+
+Quantum computers can solve highly complex problems faster than any of its predecessors. We are currently in a period of a quantum revolution. Many organizations are currently investing in the quantum computer industry, and it is predicted that the quantum computing market may increase by 500% by 2028.
+Due to their powerful computing capabilities, the Cloud Security Alliance (CSA) has estimated that by April 2030, RSA, Diffie-Hellman (DH), and Elliptic-Curve Cryptography (ECC) algorithms will become vulnerable to quantum attacks. This makes many organizations vulnerable to “harvest now, decrypt later” (HNDL) attacks, where attackers harvest data from organizations to decrypt when quantum computing reaches its maturity and the cryptographic algorithms become obsolete. In a new Deloitte Poll, 50.2% of the respondents believe that their organizations are at risk for HNDL attacks.
+The quantum threat towards cryptography
+In quantum computing, the basic unit is qubits (quantum bits), but, more than the classical computing bits which exist in 0 or 1 states, qubits can exist in 0, 1, or in both combinations. Through manipulation of the information in the qubits, high-quality solutions can be provided for difficult problems. The IBM report on security in the quantum computing era states that all Public Key Cryptography (PKC) standards could become vulnerable in the next few years. The exposure of sensitive data will most likely escalate to other risk scenarios, and this will affect communication networks, electronic transaction verifications, and the security of digital evidence as well.
+Quantum-resistant or quantum-safe cryptography standards are currently being implemented and the National Institute of Standards and Technology (NIST) has already chosen the first group of encryption tools that would withstand quantum attacks. This was the result its six-year-long competition. They have also initiated a Post-Quantum Cryptography Standardization project to produce quantum-resistant algorithms.
+Quantum Key Distribution (QKD)
+Quantum Cryptography, more accurately described as Quantum Key Distribution (QKD), is a quantum-safe method introduced to exchange key exchange between two entities. It works by transmitting photons, which are polarized light particles, over a fiber optic cable. QKD protocols are designed according to the principles of quantum physics. Hence, observation or eavesdropping on a quantum state causes perturbation because the unique and fragile properties of photons prevent passive interception. This perturbation will lead to transmission errors. This will be detected by the endpoints, and the key will be discarded. This is used as a verification of the distributed keys. Currently, QKD is just limited to distances of less than 100 kilometers, but satellite proof-of-concept suggests that it can be expanded to more distances over the next few years.
+The quantum future
+There is an ongoing quantum revolution that will transform entire computer processes, enhancing the security and privacy of communications. However, this may also introduce many new cybersecurity threats. According to the Deloitte poll, organizations are preparing for quantum computing cybersecurity risks. 45% of the respondents are almost complete with their assessments of post-quantum encryption vulnerabilities, and only 11.7% are reported to be taking a “wait and see” approach for a cyber incident to take place.
+There are many Quantum-as-a-Service (QaaS) providers that offer quantum services for researchers, scientists, and developers. Since threat actors might target the QaaS providers and their users, these providers should deploy stringent security protocols in order to access the services. The emerging field of quantum machine-learning could also produce more effective algorithms for identifying and detecting new cyber-attack methods.
+The following practices can help your organization prepare for quantum computing cybersecurity:
+Engaging with standard organizations – Organizations such as NIST, and CISA, provide updates of new standards.
+Inventory critical data – Crucial for future analysis to plan which data would be most at risk in a post-quantum environment.
+Inventory cryptographic technologies in your environment – Knowing which technologies use cryptographic functions will enable your organization to address potential risks and impacts.
+Many are curious about the revolution of quantum computing and its post-quantum effects. Currently, researchers and scientists are still carefully studying the topic. It is always best to approach the quantum threat as much as any other vulnerability, and prepare for quantum-safe protection.
+About the Author:
+Dilki Rathnayake is a Cybersecurity student studying for her BSc (Hons) in Cybersecurity and Digital Forensics at Kingston University. She is also skilled in Computer Network Security and Linux System Administration. She has conducted awareness programs and volunteered for communities that advocate best practices for online safety. In the meantime, she enjoys writing blog articles for Bora and exploring more about IT Security. 
+Editor’s Note: The opinions expressed in this guest author article are solely those of the contributor, and do not necessarily reflect those of Tripwire, Inc.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+Tripwire Guest Authors
+
+
+
+
+
+
+View Profile 
+
+
+
+
+
+
+
+
+
+
+
+
+              Related Content
+            
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+3 Emerging Innovations in Technology that Will Impact Cyber Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+Quantum Computing to Protect Data: Will You Wait and See or Be an Early Adopter?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+Is Quantum Networking The End of Man-in-the-Middle Attacks?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Footer menu
+
+
+ Products & Services
+ 
+
+Tripwire Industrial Visibility
+
+
+Tripwire IP360
+
+
+Tripwire LogCenter
+
+
+Tripwire ExpertOps
+
+
+Services
+
+
+View All Products
+
+
+
+
+ Solutions
+ 
+
+By Security Need
+
+
+By Compliance Need
+
+
+By Industry
+
+
+
+
+ Resources
+ 
+
+Upcoming Events
+
+
+On-Demand Webinars
+
+
+Datasheets
+
+
+Training
+
+
+
+
+ About
+ 
+
+Fortra
+
+
+Patents
+
+
+Customer Support
+
+
+Report a Vulnerability
+
+
+
+
+
+
+
+
+
+
+
+
+Contact Information
+Privacy Policy
+Cookie Policy
+Impressum
+                        Copyright © Fortra, LLC and its group of companies. All trademarks and registered trademarks are the property of their respective owners.
+                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

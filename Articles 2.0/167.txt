@@ -1,1 +1,660 @@
-This is file number 167
+
+
+
+
+
+
+  
+
+
+
+
+5 strategies to manage cybersecurity risks in mergers and acquisitions | CSO Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Close Ad
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cso online
+
+UNITED STATES 
+
+
+United States 
+
+
+ASEAN 
+
+
+Australia 
+
+
+India 
+
+
+United Kingdom 
+
+
+Germany 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More from the Foundry Network
+
+
+
+
+
+
+
+
+About Us |
+Contact |
+Republication Permissions |
+Privacy Policy |
+Cookie Policy |
+European Privacy Settings |
+Member Preferences |
+Advertising |
+Foundry Careers |
+Ad Choices |
+E-commerce Links |
+California: Do Not Sell My Personal Info |
+
+
+Follow Us
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+Top cybersecurity M&A deals for 2022
+
+
+
+
+
+				RELATED STORIES
+			
+
+
+
+
+How to survive below the cybersecurity poverty line
+
+
+
+
+SPONSORED BY Advertiser Name Here
+Sponsored item title goes here as designed
+
+
+
+
+New CISO appointments, February 2023
+
+
+
+
+Mergers create greater security risk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Home
+Industry
+Mergers and Acquisitions
+
+
+Feature
+5 strategies to manage cybersecurity risks in mergers and acquisitions
+
+Mergers and acquisitions offer benefits to both buyer and those being bought, brining new synergies and energizing both sides while creating a newer, bigger, stronger entity. But a new addition to the corporate family can bring with it a host of cybersecurity risks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+By Linda Rosencrance
+
+
+						
+							Contributing Writer, 
+								
+									
+								
+
+
+
+
+
+
+
+
+
+
+
+
+CSO |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+					    					
+							    				
+							    				Shutterstock
+						    				
+				
+							    			
+							    				
+							    				
+							    				
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+												  	
+												
+							    				
+							    				
+												
+											
+									
+										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mergers and acquisitions (M&A) have the potential to introduce significant cybersecurity risks for organizations. M&A teams are generally limited in size and focused on financials and business operations, with IT and cybersecurity taking a back seat early in the process, according to Doug Saylors, partner and co-lead of cybersecurity with global technology research and advisory firm ISG.  “Assumptions about connecting networks, ‘rationalizing’ IT and cybersecurity platforms and staff are generally made with limited knowledge of the actual functions and work performed in each organization,” Saylor says.A company merging, being acquired, or undergoing any other M&A activity must be able to evaluate security requirements that could affect the business strategy and risks of the future entity, according to a report on cybersecurity in the M&A and due diligence process from Gartner. “This results in an understanding of the state of security in the acquired company (to the extent possible pre-deal) to ensure that there are no rude shocks and in a plan for how to address the integration aspect safely and securely,” the report noted.For example, in 2017 Verizon knocked $350 million off its deal to acquire Yahoo’s operating business after Yahoo disclosed two massive data breaches that compromised all three billion of its user accounts. Yahoo initially said the breaches only affected over one billion user accounts. Verizon ultimately paid $4.48 billion for the company.
+Here are five strategies to help organizations manage cybersecurity risks during the merger and acquisition process that can help avoid buyer’s remorse.Require a security assessment of the target firmBefore the acquisition, an acquiring organization needs to have a current or recent assessment of the target company — whether that’s a specific audit, security posture assessment, or enterprise assessment — and consider when that assessment was performed, says Vladimir Svidesskis, head of security, compliance and risk at Vaco Holdings, a global professional services firm.“Ideally, you want this assessment to have been done in the last nine months,” he says. “Anything over a year old isn’t as valid. Balance this information with what policies and procedures are in place as well as the latest strategic goals. Do their policies, procedures, and processes line up with that? Does the assessment support a level of assurance that those policies and procedures are being complied with?” The acquiring company should also be provided with any information regarding both suspected and confirmed security or compliance incidents, exposures, compromises, cyber-related insurance activity, etc., Svidesskis says. “This should include things that might not have been legally required to be disclosed. Even if it was just an internal incident that wasn’t reportable to a government entity, for instance, that’s still relevant information to know in advance.”
+Ensure the target company has designed security into its softwareIn tech deals where technology is the target’s product or an important part of it, cybersecurity is a particular focus, said Philip Odence, general manager of Black Duck Audit Business at Synopsys, who specializes in due diligence in M&A transactions. As such, the acquiring company must determine if the target company has designed security into its software. If not, the acquiring company is buying into a bunch of unplanned future remediation work to address, he says. “As excessive problems will mean a heightened chance of getting breached, the buyer might want some portion of funds to be escrowed against such an eventuality,” Odence says. “It’s also not highly unusual for valuation to be negotiated if software is significantly not up to industry norms.”Buyers don’t expect perfection, but if there are more than an expected number of issues to address, the buyer’s perspective on the deal might change, Odence says. It’s rare for due diligence discoveries to kill a deal, but they could impact deal terms, timing, or valuation. “The bottom line is that knowledge is power and buyers need to take good advantage of the due diligence process to gain as much insight as possible into targets’ software security pre-close, so they can protect themselves against the risks.”Involve cybersecurity and IT teams early in the processCybersecurity and IT teams are rarely involved prior to mergers and acquisitions, as the aim is to keep the circle small, according to Chris Clymer, director and CISO at Inversion6. It's not uncommon to find that a strategic business acquisition or merger target is riddled with poor IT and security, which can cost many millions of dollars to remediate, he says. It's essential to get these groups involved as early as possible and to identify key weaknesses. “In lightly regulated sectors, such as manufacturing, I’ve seen companies acquired that lack basic patching and endpoint security, let alone more advanced controls, such as security information and event management,” Clymer says. Ultimately, he says, one of the best ways companies can mitigate cybersecurity risks is to make IT and/or security part of the team vetting acquisitions to avoid expensive surprises later. “In addition, the IT teams should have a structured process for exactly how they onboard new acquisitions, which includes performing early assessments, immediately educating employees on who to contact verbally for questions about financial transaction changes as well as including changing admin passwords to all key systems on day one,” Clymer says.Organizations often don't have a process for including security when they do their due diligence, says Frank Kim, a fellow at the SANS Institute and CISO in residence at YL Ventures. Including the cybersecurity team in the process from the outset can avoid many headaches down the road. “In the worst case, the security team or the CISO might be brought in very late and the [acquisition or merger team] will say, ‘Hey, we're very close to finalizing this merger or acquisition. It's going to happen next week. Can you get your security review done before we close on it?’”However, if the cybersecurity team or the CISO always has a seat at the table — and is not brought in only when an issue arises — then they can evaluate the security of the target company and raise questions about potential cybersecurity risks, Kim says.Understand the risk of the data environmentAcquiring or merging companies that don't conduct due diligence from day one likely won't understand the types of data environments they're getting involved with, says Gartner analyst Sam Olyaei. “You could be dealing with personal information, you could be dealing with identifiable information, you could be dealing with healthcare information that has regulatory requirements like HIPAA, you could be dealing with payments information that has regulatory requirements like PCI, or geographic regulations like GDPR,” he says. “So, you're not really going to get a good understanding of what you've got from an information perspective or an environment perspective.” The issue with not understanding the risk of data environments is that the acquiring organizations don't know what types of security controls the target companies have implemented and whether their environments are fully secure, Olyaei says. The same holds true for companies that are merging. “You have to try to come up with at least a good idea of the data environment that you're dealing with and determine the potential risks. A SWOT [strengths, weaknesses, opportunities, and threats] analysis of the company that you're going after or looking to merge with will give you a good idea of what information and assets you're dealing with.”Conduct a skills analysis of the target company's employeesIt's important to remember that in addition to acquiring the target company's technology, acquiring organizations are also acquiring their employees, says Joe McMorris, CISO and CIO at Planview, which has made a number of acquisitions including three from January 2021 to June 2022. “Organizations need to do a complete skills analysis of the staff that's being onboarded because at the end of the day you not only have the new employees, you also have the existing staff who are being stretched thin,” he says. “And during the integration, there may be knowledge and skills gaps on both sides because maybe you have some legacy tech that's meeting new tech and there's not subject matter expertise there.”During any integration, these employees must do a tremendous amount of work and that's on top of the day-to-day work of running the business, which can lead to burnout, low morale, and turnover, McMorris says. “And during an integration is arguably the time of highest risk, because you're merging networks, you're merging technologies, you're making changes to processes,” he says. “And during that time if you're losing staff or they're stretched thin, things can be overlooked, and real vulnerabilities and risks can surface that wouldn't ordinarily surface. A skills analysis [can help ensure that the company] has a full staff who are operating at full steam during the integration.”Get the cybersecurity lowdown before the purchaseFor organizations considering an acquisition, it’s important to take a broader view and develop a baseline M&A protocol with processes to cover all aspects of current risks, potential risks, and a post-acquisition review, says Svidesskis. This should be finalized with a report culminating in an updated risk posture and associated residual risks as well as an assessment of risk appetite.In other words, it’s about looking at the big picture, and moving through the process systematically, he says. “You need to assess the security landscape, posture, and policies and you need to protect both the acquiring company and the company being acquired,” Svidesskis says. “You need to educate the other company about what standards and policies are in place, and you also need to ask them to reciprocate so the acquisition isn’t hostile. From there, you need to adopt something that’s finalized between the two, and — most importantly — you need continuous monitoring and auditing throughout the entire process. There are key steps to follow and all of them should be addressed to mitigate risk.”
+
+
+
+Next read this
+
+The 10 most powerful cybersecurity companies
+7 hot cybersecurity trends (and 2 going cold)
+The Apache Log4j vulnerabilities: A timeline
+Using the NIST Cybersecurity Framework to address organizational risk
+11 penetration testing tools the pros use
+
+
+
+
+
+
+Related: 
+
+Mergers and Acquisitions
+Data and Information Security
+
+
+
+
+Linda Rosencrance is a freelance writer/editor/author who has written about information technology since 1999.
+
+
+Follow
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Copyright © 2023 IDG Communications, Inc.
+
+
+
+
+
+ 7 hot cybersecurity trends (and 2 going cold)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSO Online
+ CSO provides news, analysis and research on security and risk management
+
+Follow us
+
+
+
+
+
+
+
+
+
+
+
+
+About Us
+Contact
+Republication Permissions
+Privacy Policy
+Cookie Policy
+European Privacy Settings
+Member Preferences
+Advertising
+Foundry Careers
+Ad Choices
+E-commerce Links
+California: Do Not Sell My Personal Info
+
+
+
+
+
+
+
+Copyright © 2023 IDG Communications, Inc.
+
+
+Explore the Foundry Network descend
+
+CIO
+Computerworld
+CSO Online
+InfoWorld
+Network World
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

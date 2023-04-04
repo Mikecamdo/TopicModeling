@@ -1,1 +1,694 @@
-This is file number 165
+
+
+
+
+  
+
+
+
+
+
+Zero trust for web and application access: Developing a cybersecurity playbook for BYOD and beyond | VentureBeat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+Skip to main content
+
+
+
+
+Events
+Special Issues
+
+
+
+
+VentureBeat Homepage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Artificial Intelligence                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            View All                        
+
+
+
+                            AI, ML and Deep Learning                        
+
+
+
+                            Auto ML                        
+
+
+
+                            Data Labelling                        
+
+
+
+                            Synthetic Data                        
+
+
+
+                            Conversational AI                        
+
+
+
+                            NLP                        
+
+
+
+                            Text-to-Speech                        
+
+
+
+
+                Security                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            View All                        
+
+
+
+                            Data Security and Privacy                        
+
+
+
+                            Network Security and Privacy                        
+
+
+
+                            Software Security                        
+
+
+
+                            Computer Hardware Security                        
+
+
+
+                            Cloud and Data Storage Security                        
+
+
+
+
+                Data Infrastructure                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            View All                        
+
+
+
+                            Data Science                        
+
+
+
+                            Data Management                        
+
+
+
+                            Data Storage and Cloud                        
+
+
+
+                            Big Data and Analytics                        
+
+
+
+                            Data Networks                        
+
+
+
+
+                Automation                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            View All                        
+
+
+
+                            Industrial Automation                        
+
+
+
+                            Business Process Automation                        
+
+
+
+                            Development Automation                        
+
+
+
+                            Robotic Process Automation                        
+
+
+
+                            Test Automation                        
+
+
+
+
+                Enterprise Analytics                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            View All                        
+
+
+
+                            Business Intelligence                        
+
+
+
+                            Disaster Recovery Business Continuity                        
+
+
+
+                            Statistical Analysis                        
+
+
+
+                            Predictive Analysis                        
+
+
+
+
+                More                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            Data Decision Makers                        
+
+
+
+
+
+                            Virtual Communication                        
+
+
+
+                                    Team Collaboration                                
+
+
+
+                                    UCaaS                                
+
+
+
+                                    Virtual Reality Collaboration                                
+
+
+
+                                    Virtual Employee Experience                                
+
+
+
+
+
+                            Programming & Development                        
+
+
+
+                                    Product Development                                
+
+
+
+                                    Application Development                                
+
+
+
+                                    Test Management                                
+
+
+
+                                    Development Languages                                
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Subscribe
+Events
+Special Issues
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zero trust for web and application access: Developing a cybersecurity playbook for BYOD and beyond
+
+
+
+Louis Columbus@LouisColumbus 
+
+April 3, 2023 1:37 PM
+
+
+
+
+
+Share on Facebook
+
+
+
+
+Share on Twitter
+
+
+
+
+Share on LinkedIn
+
+
+
+
+
+
+
+Image Credit: Getty Images 
+
+
+
+
+
+
+Join top executives in San Francisco on July 11-12, to hear how leaders are integrating and optimizing AI investments for success. Learn More
+
+
+One compromised browser session on a remote device connected to an organization’s network can shut an entire business down. As one CISO confided to VentureBeat in a recent interview, “Recessions make the revenue risk aspects of a zero-trust business case real, showing why securing browsers deserves urgency.” More than anything else, CISOs from the banking, financial services and insurance industries fear inbound attacks aimed at exploiting browsers’ weaknesses to launch sophisticated phishing and social engineering attacks. 
+Attackers can quickly identify and hack even security administrators’ browsers — any CISOs’ worst nightmare. Many CISOs recall the CNA Financial Corporation breach that started with a phishing email browser update. Once an attacker gains admin rights, they can quickly take control of the identity access management (IAM) systems and create new admin credentials to lock out anyone trying to stop them. 
+CISOs’ highest priority: Securing how work gets done 
+Protecting bring-your-own-device (BYOD) environments and unmanaged devices is one of CISOs’ and CIOs’ biggest challenges in 2023. Virtual employees and third-party contractors are using personal devices for work at record rates. Gartner forecasts that up to 70% of enterprise software interactions will take place on mobile devices this year. 
+Ponemon Institute and Mastercard’s RiskRecon found that only 34% of organizations are confident their vendors would notify them of a data breach. Their study also found that 54% of organizations have been breached through third parties in the last 12 months. A recent research study by Enterprise Strategy Group (ESG) found that more than three-quarters of organizations reported having experienced at least one (43%) or several (34%) cyberattacks allowed by unknown, unmanaged or poorly managed endpoint devices. As they use more third-party resources, 35% of companies say they struggle to secure non-corporate-owned devices.
+
+
+
+
+
+
+
+
+
+
+
+Event
+Transform 2023
+
+
+
+
+
+
+
+Join us in San Francisco on July 11-12, where top executives will share how they have integrated and optimized AI investments for success and avoided common pitfalls.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                Register Now            
+
+
+Given the proliferation of endpoint and edge devices and the need to secure remote workers and contractors using their own devices, clientless ZTNA is now a must-have to secure corporate networks and infrastructure. Source: Managing the Endpoint Vulnerability Gap: The Convergence of IT and Security to Reduce Exposure, from Enterprise Strategy Group
+A playbook to deal with browser attacks 
+CISOs urgently need a playbook that addresses the risk of compromised browser sessions on remote devices connected to their organization’s network. Not having a plan ready could disrupt operations and cost millions of dollars in operating costs and revenue.
+A playbook describes the company’s workflows, policies and roles. It’s a comprehensive guide that ensures smooth operation and coordinated response to threats. Microsoft provides examples of incident response playbooks that can be tailored to an organization’s specific needs.  
+A well-crafted playbook outlines the IT team’s roles and responsibilities; implements strict access controls; and educates employees on phishing and social engineering best practices to manage these risks.
+The playbook should also emphasize a zero-trust cybersecurity approach, where no user or device is trusted by default, regardless of location or status in the organization.
+CISA provides a helpful guide to creating playbooks in its Cybersecurity Incident & Vulnerability Response Playbooks document. The document describes a standardized cybersecurity incident response process based on NIST Special Publication (SP) 800-61 Rev. 2. The process includes preparation, detection and analysis, containment, eradication, recovery and post-incident activities.
+CISA’s incident response process is a helpful framework for creating an incident and vulnerability response playbook to secure an organization against browser-based attacks. Source: CISA Cybersecurity Incident & Vulnerability Response Playbooks
+Securing where work gets done with zero trust  
+Zero trust seeks to eliminate trusted relationships across an enterprise’s technology stack — because any trust gap is a significant liability. Clientless zero-trust network access (ZTNA) takes a zero-trust approach to connecting devices, whether managed or unmanaged, to enterprise applications and corporate data. And when it uses isolation-based technologies to enable these connections, it brings the additional benefit of protecting key applications from anything that might be malicious on unmanaged endpoints of third-party contractors or employees’ BYOD devices. 
+For example, clientless ZTNA based on browser isolation is a core component of Ericom’s ZTEdge secure services edge (SSE) platform. The platform combines network, cloud and secure application access security controls in a single cloud-based system.
+This type of ZTNA uses a network-level isolation technique that does not require any agent to be deployed and managed on a user’s device. That greatly simplifies the challenging task of providing secure access to distributed teams. 
+Ericom’s platform also includes a secure web gateway (SWG) with built-in remote browser isolation (RBI) to provide zero-trust security for web browsing. RBI assumes that all websites may contain malicious code and isolates all content from endpoints to prevent malware, ransomware and malicious scripts or code from impacting an organization’s systems. All sessions are run in a secure, isolated cloud environment, enforcing least-privilege application access at the browser session level. 
+A reseller’s perspective on clientless ZTNA and isolation-powered web security  
+Rob Chapman, managed services sales director at Flywheel IT Services Limited, a cybersecurity services reseller based in the U.K., told VentureBeat of one CISO who “is even saying that he needs to use remote browser isolation because the only safe alternative would be to chop every user’s fingers off!” 
+Chapman sees RBI as where the market is going when it comes to  protecting end users. He said that Ericom’s approach to securing browsers is helpful for the consultancy’s clients from the banking, financial services and education industries, among others.
+When asked what differentiates Ericom from other vendors providing zero trust-based solutions, he said Ericom’s approach “effectively removes risk because you are containerizing the user.”
+Getting scalability right is vital for an SSE provider that wants to stay competitive in a fast-moving cybersecurity market. Building an underlying architecture that supports the fast access that business users require can make or break an implementation opportunity, especially for resellers.
+On this topic, Chapman told VentureBeat that one global customer “decided to go with [browser isolation] because they’ve got a set of 600 users and 20 different sites around the world, and it’s just very, very difficult to know that you’re securing them as well as possible with historical … or legacy solutions. Going to advanced web security that includes browser isolation gives people the confidence that their users are not going out and being exposed to malicious code attacks on the internet.”
+Configuring zero trust security in the browser — without agent sprawl
+When using browser isolation to deliver clientless ZTNA, IT teams can set policy across a number of configurable security controls.
+In addition to permitting or denying application-level access based on identity, a team can control a user’s ability to upload or download content, copy data, input data or even print information.
+Data loss prevention (DLP) can scan files to ensure compliance with information security policies. They can also be analyzed by content disarm and reconstruction (CDR) — a type of next-generation sandboxing — to make sure malware is not brought onto endpoints or uploaded into applications.
+CISOs tell VentureBeat of the cost, speed and zero-trust security advantages of deploying these types of solutions across distributed, virtual workforces.
+Cybersecurity vendors offer solutions that vary by underlying technologies, user experience and other factors. Broadcom/Symantec, Cloudflare, Ericom, Forcepoint, Iboss, Menlo Security, McAfee, NetSkope and Zscaler are the leading providers.
+Ericom’s ZTEdge uses web application isolation as a clientless ZTNA approach that secures BYOD and unmanaged device access to corporate web and SaaS apps. Source: Ericom
+The bottom line: Instituting zero trust to secure how and where work gets done 
+The proliferation of remote devices used by virtual workforces and heavy reliance on third-party contractors accentuate the need for more efficient, agentless approaches to achieving zero trust at the browser level.
+CISOs need to consider how their teams can respond to a browser-based breach, and a great way to start is by creating a playbook specifically focused on compromised browser sessions.
+Clientless ZTNA strategies like those used in Ericom’s ZTEdge SSE platform isolate applications and corporate data from the risks associated with unmanaged devices.
+Security teams that are already stretched thin and facing chronic time shortages need a more efficient way to secure every device and browser. Clientless ZTNA secures web apps at the browser and session levels and eliminates the need for agents on every device, while SWGs with isolation built in help protect organizations from advanced web threats, even zero-days.
+These approaches can help IT teams bring zero-trust security to some of the biggest risk areas they face — general web/internet access, and connecting users to corporate apps and data. 
+
+VentureBeat's mission is to be a digital town square for technical decision-makers to gain knowledge about transformative enterprise technology and transact. Discover our Briefings.
+ 
+
+
+
+
+
+
+
+Sign up for VB Daily
+Want must read news straight to your inbox?
+ 
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VentureBeat Homepage
+
+
+
+
+Follow us on Facebook
+
+
+
+
+Follow us on Twitter
+
+
+
+
+Follow us on LinkedIn
+
+
+
+
+Follow us on RSS
+
+
+
+
+
+Press Releases
+
+
+Contact Us
+
+
+Advertise
+
+
+Share a News Tip
+
+
+Contribute to DataDecisionMakers
+
+
+
+
+Careers
+
+
+Privacy Policy
+
+
+Terms of Service
+
+
+Do Not Sell My Personal Information
+
+
+© 2023 VentureBeat. All rights reserved.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Want must-read news straight to your inbox?
+Sign up for Security Weekly
+
+View Briefings
+No thanks
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
