@@ -1,0 +1,41 @@
+Facebook Today and Tomorrow
+March 7, 2023
+By Tom Alison, Head of Facebook
+
+Takeaways
+We reached a major milestone on Facebook: 2 billion daily actives — the highest it’s ever been. 
+Our focus this year is on artificial intelligence, messaging, creators and monetization.
+Facebook is off to a great start this year. Contrary to reports otherwise, Facebook is not dead nor dying, but in fact alive and thriving with 2 billion daily active users. People are using Facebook for more than connecting with friends and family, but also to discover and engage around what is most important to them. Today, I want to share more about what we are doing to deliver the best Facebook experience to people using AI and the opportunities we’re creating for creators.
+
+AI-Powered Discovery
+Over the last nearly 20 years, people have come to Facebook for lots of things, including to see what’s going on with their friends, family and groups where meaningful connection happens. There has been a shift the last couple years with people coming to Facebook more to be entertained, discover something new or see what’s going on in the world. These new reasons are why we are investing in AI-powered discovery. 
+
+There are billions of people on Earth doing interesting things at any given time and we’re working on opening up that world for more people by showing you content you’re likely interested in. We aim to give everyone tools to express themselves in the format that works best for them: whether it’s text, photo or video. And we make it easy for people to share with the audience that matters most to them. Sometimes that’s with friends, sometimes with a group, and increasingly many people want to share publicly. We believe our combination of simple-to-use formats, easy access to your most important audiences and world class AI that can deliver content to the people who will appreciate it the most — will make Facebook the best place for social discovery and sharing. 
+
+This work is especially key for Reels, which continue to grow quickly across our apps both in production and consumption. I’m optimistic about the trends we’re seeing here, with more than 140 billion Reels plays across Facebook and Instagram each day. At Facebook, we’re using AI to recommend all types of content beyond Reels: photos, text, groups, short- and long-form videos and more.  This is a massive technological undertaking and AI-powered recommendations are delivered and refined in response to people’s direct feedback through tools like our Show More or Show Less feature.  We also have safeguards to make sure that recommendations are not harmful and don’t go against our community standards.
+
+I want to share one example of how this work is providing a new experience on Facebook. Let’s use Groups. Previously, you might be invited to a Group by a friend, search for a Group based on a specific need or interest or see a Groups you should join suggestion. Using AI to find public Group content based on your interests, we can now show you highly relevant content from public Groups in your Feed– without you having to do any searching or depending on word of mouth to uncover a Group.
+
+Creators and Monetization
+An important part of our work on AI-powered recommendations to connect you to people you want to know or should know is fueling creator discovery on Facebook. It’s a great time to be a creator. Creators have a lot of options these days, and while Facebook isn’t always creators’ primary platform, it’s an important app for creators to be on as they continue their journey — offering the opportunity to reach a large global audience, to connect safely and more deeply with their communities and to access one of the most effective slate of monetization offerings of any creator app. 
+
+We use AI to identify creators who may appeal to your interests and to improve how we recommend Reels and other great content from creators in your Feed. Beyond recommendations, we’ve introduced several features to make it easier to find creators you’ll love: a rising creator label for popular creators, a suggestion unit in Feed recommending creators you should follow and a more consistent Follow action to help you follow creators you discover in recommendations or in comments on Facebook. 
+
+We’re heavily invested in building tools for creators. We’ve been working to greatly simplify the Facebook experience for creators, rolling out more formats for creative expression, providing tools to help grow and manage fan communities, and expanding ways to earn income as a creator on Facebook. 
+
+For example, at the end of last year we expanded Professional Mode for Profiles globally, a simplified profile experience for creators to access monetization opportunities and professional tools. Since then, tens of millions of people have adopted it, unlocking increased engagement between creators and their fans. We’ve seen creators like Edith Galvez, a food lover and creator, who started with professional mode — just six months ago — grow her Facebook to over 650,000 followers. 
+
+Parker Pannell, a rising creator and actor, has seen massive growth in his reach and audience. He has reached more than 30 million people in just the last month and has grown his followers from 13,000 to 118,000 over the last year — all on Facebook. He’s been sharing Reels of comedic skits, pranks, etc. that have helped him reach new audiences. He shared that “on Facebook, I feel like my videos are getting more exposure and my entire audience is seeing it.”
+
+Over the years we’ve built one of the most robust monetization offerings of any creator app so that  creators can earn money in ways that make the most sense for them. This year, we’re focused on adapting and enhancing these tools for short-form video. We’ll continue expanding our ads on Facebook Reels tests to help more creators earn ad revenue for their Reels and grow virtual gifting via Stars on Reels.
+
+Messaging
+Another part of delivering the best experience to people using AI is to make it easier for people to share what they discover on Facebook via messaging, when, where and how it suits their needs, without needing to switch to another app. Private conversations are a big way that people share and connect on our apps. Today, over 140 billion messages are sent across our apps every day. On Instagram, people already reshare Reels nearly 1 billion times daily through DMs and on Facebook we see private sharing of Reels growing strongly as well. We are testing the ability for people to access their Messenger inbox within the Facebook app and you’ll see us expand this testing soon. 
+
+We’re also seeing more people turning to messaging as a way to build community. We started introducing community chats to some Facebook Groups last year as a way for people to connect more deeply with their online communities in real time around the topics they care about. And, the early results are promising. Across Facebook and Messenger, we saw the number of people trying community chats increase by 50% in December 2022. 
+
+Over the coming year, we’ll build more ways to integrate messaging features in Facebook. Ultimately, we want it to be easy and convenient for people to connect and share, whether in the Messenger app or directly within Facebook. 
+
+Looking Forward
+At Meta, we pride ourselves in putting people at the center of new technology trends. Our investments in AI are unlocking new ways for people to discover great new content on Facebook and share it with the people they care about. As our world class Meta AI research teams continue to make advancements in AI, particularly generative AI, Facebook — and Meta more broadly — will look to bring this transformative technology to billions of people and allow them to create and share in new ways. Stay tuned. 
+

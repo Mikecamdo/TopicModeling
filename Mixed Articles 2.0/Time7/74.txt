@@ -1,0 +1,27 @@
+RIP Facebook Instant Articles: 2015-2023
+Facebook's pivot towards video and a deprioritization of political content led the platform to kill the fast loading article format once crucial to news sites.
+By
+Mack DeGeurin
+
+Meta’s finally shutting down its Instant Articles service after seven years of dutifully serving up fast news and meandering listicles. The departure marks the clearest sign yet of Meta’s pivot towards video and away from hard news.
+
+A Meta spokesperson confirmed the move in an email to Gizmodo Friday and said it had notified publishers it will stop supporting Instant Articles by mid April 2023. That gives publishers roughly six months to figure out alternative strategies. Traffic that would have otherwise stayed on Facebook as part of Instant Articles will reportedly go to the publisher’s web pages.
+
+For anyone unaware, Facebook Instant Articles were Facebook native HTML documents intended to load especially quickly on mobile. When Facebook launched the format, it claimed Instant Articles would, “load and display 4 times faster than the standard mobile web.” That sounded particularly attractive to news publishers back in 2015 when Facebook’s mobile app was one of the biggest names in town for reading news.
+
+Facebook billed Instant Articles as a potential boon for publishers who wanted access to the platform’s immense audience and didn’t want to deal with slow loading mobile pages. That proposition, however, came at a price. In exchange for quicker load times, partners needed to host their content on Facebook’s servers and post directly to the site. Facebook immediately benefited from a groundswell of content and user engagement and news publishers, so the pitch went, would enjoy the scale and additional eyeballs from appearing on Facebook’s mobile app. When it launched, Instant Articles gave publishers the ability to insert their own ads or have Facebook’s highly coveted ad network called “Audience Network” automatically place ads.
+
+ADVERTISEMENT
+
+That arrangement no longer makes business sense for Facebook.
+
+“Currently less than 3% of what people around the world see in Facebook’s Feed are posts with links to news articles,” the spokesperson told Gizmodo. “And as we said earlier this year, as a business it doesn’t make sense to over invest in areas that don’t align with user preferences.”
+
+ADVERTISEMENT
+
+TikTok’s meteoric ascension to the top of the social media ecosystem has shown users’ increasing appetite for short form video content over text based articles, something Meta’s learned the hard way. Meanwhile Facebook has shown less and less interest in supporting news on its platform, particularly after weathering years of criticism from activists and academics for fueling a wave of misinformation and noxious political content following the 2016 U.S. presidential election. That trend continued earlier this year, with Axios reporting Facebook no longer plans to pay publishers for content appearing on its News Tab.
+
+Like many aging Facebook products though, Instant Articles were lingering on life support long before Meta decided to pull the plug. Though most major news providers banned the format when it first launched, it started losing popularity in 2017 when Facebook unanimously announced its first major pivot to video. The ensuing reorientation led to what some called a “media bloodbath” as publishers fought for scraps of digital advertising revenue. By early 2018, more than half of the publications listed as original partners with Facebook Instant Articles three years earlier had abandoned the format, according to the Columbia Journalism Review.
+
+With authoritative news sites leaving Instant Article for other distribution methods, other, less reputable sites quickly jumped in to fill some of the gaps. A 2018 BuzzFeed News investigation found 29 Facebook pages and associated websites that allegedly used Instant Articles to push out blatantly false news stories.
+

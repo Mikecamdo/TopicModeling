@@ -1,0 +1,40 @@
+Meta
+New Analysis Shows News Industry Reaps Considerable Economic Benefit from Facebook
+March 27, 2023
+
+Takeaways
+New research by NERA Economic Consulting shows that claims from news publishers that Facebook benefits unfairly at their expense are wrong.
+Publishers make a business decision and choose to share links to their content because they benefit from traffic from social media platforms. Facebook does not actively scrape for links or news content from the internet. 
+NERA’s global report found that news content from traditional publishers is of low value to Meta and declining, and posts with links to news articles are less than 3% of what people see in their Facebook feeds.
+The way we consume news is always changing. First radio, then television and now the internet have changed people’s habits and had an impact on traditional news publishing. Data from S&P Global Market Intelligence shows the decline in daily newspaper circulation began long before the widespread adoption of the internet in the mid-1990s. In the US, classified ad revenue peaked in 2000, the same year Craigslist expanded to cover the entire country.
+
+The relationship between traditional news publishers and social media platforms has been the subject of much debate in recent years, with publishers often asserting that Meta benefits unfairly from links to news stories being shared on Facebook. This has influenced policymakers in a number of countries, where laws have been proposed or enacted requiring internet-based companies to pay news publishers. But new research published today shows that these assertions are wrong.  
+
+A new global report by NERA Economic Consulting, commissioned by Meta, found:
+
+The current market bargain is fair: News content from traditional publishers is of low value to Meta and declining, while publishers benefit from traffic from social media apps. 
+Publishers reap “considerable economic benefits” from their use of Facebook, constituting approximately 1% to 1.5% of their revenues.
+Globally, 90% of organic views on article links from news publishers are on links posted by the publishers themselves, not by Facebook users. 
+Habits are changing: the proportion of adults using Facebook for news fell by about a third between 2016-2022 from 45% to 30%.
+Only 13% of US adults prefer to use social media for news, with 33% preferring television, 23% news websites or apps, 7% radio, and 5% print. 
+Many Facebook users think there is “too much” news on Facebook, including 21% of UK users, 22% of Americans, 20% of Australians, and 20% of Canadians. 
+News is not a substantial part of Facebook globally: less than 3% of what people see in their Facebook Feeds are posts with links to news articles. 
+More than 92% of organic Facebook Feed items in the US contained no links to any external content in the third quarter of 2022.  
+The report, authored by NERA’s Dr. Jeffrey Eisenach, an Adjunct Professor at George Mason University Law School who previously held senior policy positions at the US Federal Trade Commission and the White House Office of Management and Budget, makes clear there is “no economic foundation for news publishers’ contentions that Facebook is a ‘must have’ platform for publishers or that it possesses an ‘imbalance of bargaining power’.”
+
+The paper also states: “Proposed government interventions designed to force Meta to provide monetary compensation to publishers based on allegations of market power or disproportionate bargaining power are not thus justified by the available evidence.”
+
+NERA’s findings are in line with another recent report by British think-tank the IEA, which stated: “More generally, just because digital platforms have benefited from the digital revolution does not make them responsible for newspapers’ struggles. Google and Meta did not take publishers’ money any more than Henry Ford stole from the horse and carriage industry. New technology emerged, consumer preferences changed, and the previous business models fell apart.”
+
+At a time when we face stiff competition and global economic headwinds, our focus is on our core business and responding to what our users want. For most of our users, that’s not news links. Facebook users are increasingly interested in creator-driven content, especially video. 
+
+That’s why last year, we began to end support for some tools used by publishers, including Instant Articles, Bulletin and breaking news indicators. We don’t expect to offer new Facebook products specifically for news publishers in the future, because, as this research demonstrates, accessing news is simply not the reason why most people use our apps. Of course, publishers will still be able to post links to their stories and direct people to their websites in the way any other individual or organization can.
+
+In Canada, where the proposed Online News Act would require Meta to pay for links or content that we do not post, and which are not the reason the vast majority of people use our apps, we have said that we will end the availability of news content on Facebook and Instagram for people in Canada if the law is passed in its current form. We took a similar position in the US last year. 
+
+Of course, the internet has been disruptive for the news industry. When ads started moving from print to digital, the economics of news changed and the industry was forced to adapt. Some have made this transition to the online world successfully, while others have struggled to do so.
+
+But, as this research demonstrates, to argue that platforms like Facebook are benefiting unfairly at the expense of news publishers is a fundamental misunderstanding of the value exchange between the two. Facebook does not actively scrape for links or news content from the internet and place it in people’s feeds. In the vast majority of instances, it’s the publishers themselves who choose to share links to their stories on social media, or make them available to be shared by others, because they get value from doing so. That’s why they have buttons on their pages encouraging readers to share them. And if you click a link that’s shared on Facebook, you are directed to the publisher’s website, where they keep 100% of any revenue generated from that visit.
+
+The relationship between traditional publishers and Facebook represents a fair market bargain. The evidence shows that news publishers, on their own arguments, obtain considerable value from links to news content they have voluntarily posted on Facebook.
+

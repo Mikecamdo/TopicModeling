@@ -1,0 +1,32 @@
+The Cybersecurity Advantages Of The CloudSubscribe Sign InBETAThis is a BETA experience. You may opt-out by clicking hereEdit StoryInnovationThe Cybersecurity Advantages Of The CloudSAPBRANDVOICEStorytelling and expertise from marketers| Paid ProgramApr 3, 2023,08:00am EDT|Share to FacebookShare to TwitterShare to LinkedinBy Gabriele Fiata, SAP
+
+The character and significance of cyberattacks are becoming increasingly sophisticated – and inflicting severe financial and reputational damage. Hackers use artificial intelligence and machine learning to expose and exploit vulnerabilities. Social media scams, including realistic deep fake videos or audio messages, are more challenging to detect.
+
+Security remains a shared responsibility between vendors and their customers. Companies must exercise their due diligence to create and maintain a secure environment for their sensitive data with accountability.getty
+There’s so much at stake – and executives know it. Threats such as geopolitical instability, rapidly maturing and emerging technologies, talent shortages, and shareholder and regulatory expectations may raise cyber risks. But even more concerning is the fact that the most important asset – data – is in peril.
+
+It’s no wonder that cybersecurity has become a key factor when considering a move to the cloud. Companies, without question, want to give their employees, partners, and customers consistent access to data and applications through a Web browser or mobile app to stay competitive. But they must also protect a larger perimeter of digital assets stored in multiple locations and accessed through different channels and devices by a global workforce and with different workloads operating in the cloud.
+
+A balance of security, access and agility
+According to G2, the global ERP software market is projected to reach $78.4 billion by 2026. This means most enterprises will likely implement ERP as an effective central nervous system, which can be an attractive target for bad actors.
+In response, cloud ERP providers have invested heavily in capabilities and experts to protect their systems. Their customers can then confidently rely on cybersecurity services and technologies, including disaster recovery, business continuity, physical security, data encryption, patching, identity authentication, and access management. In addition, providers must demonstrate their capabilities are compliant with multiple regulations and pass audits conducted throughout the year.
+
+Security, however, remains a shared responsibility between vendors and their customers. Companies must exercise their due diligence to create and maintain a secure environment for their sensitive data with accountability.
+The critical qualities of cybersecurity
+Business success in balancing security, access, and agility depends on a mutual understanding between the vendor and the customer of the six critical qualities that should be included in the desired cloud environment.
+Business resilience
+Natural disasters, earthquakes, floods, fires, and widespread network outages can result in more severe data loss and business disruption when data servers are on premise. But the cloud offers more options to mitigate those risks with improved disaster recovery management and business continuity. For example, the cloud distributes data across multiple data centers – so even if one goes down, data is automatically transferred to another.
+Physical security
+Physical security of on-premise systems can be a laborious and expensive effort. Yet, in a cloud environment, data-center access is protected at scale and continuously monitored and tested. As a result, data and applications comply with high physical security standards that leverage industry and best-practice measures.
+Comprehensive data encryption
+Encryption can be challenging to implement across the entire on-premise IT landscape. However, by offering innovative encryption capabilities, cloud providers can substantially reduce the impact of data breaches. Key technologies include extensive data encryption, security intelligence, key management, and secure access controls, offering a layered security approach.
+Trusted cybersecurity expertise
+Cloud ERP providers have built their business on the creation and development of teams of security professionals and consistent funding of security research, innovation, and protection. Through those efforts, companies can optimize the value of their cloud investments by taking advantage of that skilled talent, which is incredibly scarce in the current labor market.
+Automated security monitoring and prioritization
+Cloud ERP providers that have built cyber centers can better prevent, detect, and defend against security threats by centralizing overwhelming volumes of information collected by security incident event management systems (SIEMs). Moreover, their scoring systems provide clear insight into which data is vulnerable and should be remediated or mitigated. Advisory services are used to monitor national vulnerability databases and track emerging threats continuously.
+Centralized patching, testing, and auditing
+Patch management in on-premise systems often leaves organizations with outdated software and highly vulnerable to security breaches. In contrast, the cloud environment is very effective because providers conduct patch management with purpose-built tools, automated and manual penetration testing, software security reviews, and external audits. Plus, cloud ERP providers offer centralized mechanisms for patching and security administration – which sometimes do not require additional customer intervention.
+Cloud ERP solves legacy security challenges
+Data is protected by distributed cloud storage, physical security, certified cybersecurity professionals, and cloud security capabilities that are designed to safeguard data against attacks. For instance, only authorized users can access data based on their specific job profile, and cyber centers help ensure visibility across multiple environments is centralized. Furthermore, cloud ERP providers help their customers stay compliant with changing regulations.
+Find out how SAP can protect your data and business systems as your cloud provider. Visit the SAP Trust Center site to explore our security, compliance, privacy, and service performance capabilities.
+SAPEditorial StandardsPrintReprints & Permissions

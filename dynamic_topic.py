@@ -1,5 +1,5 @@
 #First topic: NFL
-#Second topic:  XFL
+#Second topic: XFL
 #Third topic: NBA
 #Fourth topic: Facebook
 #Fifth topic: Twitter
@@ -8,57 +8,72 @@
 #Eighth topic: World War II
 #Ninth topic: Cybersecurity
 #Tenth topic: Marvel
-#Eleventh topic: Virtual Reality
-#Twelfth topic: Easter
-#Thirteenth topic: Star Wars
-#Fourteenth topic: The Office
-#Fifteenth topic: Chemistry
-#Sixteenth topic: Space Travel
-#Seventeenth topic: SMU
-#Eighteenth topic: Joe Biden
-#Ninteenth topic: Donald Trump
-#Twentieth topic: COVID-19
 
 import os, glob
 from gensim.models import LdaSeqModel
 
-path1 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//Project//Mixed Articles//Time1//'
-path2 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//Project//Mixed Articles//Time2//'
-path3 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//Project//Mixed Articles//Time3//'
-path4 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//Project//Mixed Articles//Time4//'
-path5 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//Project//Mixed Articles//Time5//'
+path1 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time1//'
+path2 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time2//'
+path3 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time3//'
+path4 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time4//'
+path5 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time5//'
+path6 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time6//'
+path7 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time7//'
+path8 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time8//'
+path9 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time9//'
+path10 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time10//'
+
 def extract_documents():
     folder1 = os.listdir(path1)
     folder2 = os.listdir(path2)
     folder3 = os.listdir(path3)
     folder4 = os.listdir(path4)
     folder5 = os.listdir(path5)
+    folder6 = os.listdir(path6)
+    folder7 = os.listdir(path7)
+    folder8 = os.listdir(path8)
+    folder9 = os.listdir(path9)
+    folder10 = os.listdir(path10)
 
-    for i in range(10):
+    for i in range(20): #Time 1
         with open(path1 + folder1[i], 'rb') as file:
             yield file.read().decode('utf-8', errors='replace')
     
-    for i in range(10):
+    for i in range(24): #Time 2
         with open(path2 + folder2[i], 'rb') as file:
             yield file.read().decode('utf-8', errors='replace')
 
-    for i in range(10):
+    for i in range(24): #Time 3
         with open(path3 + folder3[i], 'rb') as file:
             yield file.read().decode('utf-8', errors='replace')
 
-    for i in range(10):
+    for i in range(20): #Time 4
         with open(path4 + folder4[i], 'rb') as file:
             yield file.read().decode('utf-8', errors='replace')
 
-    for i in range(10):
+    for i in range(21): #Time 5
         with open(path5 + folder5[i], 'rb') as file:
             yield file.read().decode('utf-8', errors='replace')
 
-    #print(folder1)
-    #print(folder2)
-    #print(folder3)
-    #print(folder4)
-    #print(folder5)
+    for i in range(22): #Time 6
+        with open(path6 + folder6[i], 'rb') as file:
+            yield file.read().decode('utf-8', errors='replace')
+    
+    for i in range(17): #Time 7
+        with open(path7 + folder7[i], 'rb') as file:
+            yield file.read().decode('utf-8', errors='replace')
+
+    for i in range(18): #Time 8
+        with open(path8 + folder8[i], 'rb') as file:
+            yield file.read().decode('utf-8', errors='replace')
+
+    for i in range(16): #Time 9
+        with open(path9 + folder9[i], 'rb') as file:
+            yield file.read().decode('utf-8', errors='replace')
+
+    for i in range(18): #Time 10
+        with open(path10 + folder10[i], 'rb') as file:
+            yield file.read().decode('utf-8', errors='replace')
 
 
 docs = list(extract_documents())
@@ -112,54 +127,30 @@ id2word = dictionary.id2token
 print('Making Dynamic Topic Model')
 ldaseq = LdaSeqModel(
     corpus=corpus, 
-    time_slice=[10, 10, 10, 10, 10], 
+    time_slice=[20, 24, 24, 20, 21, 22, 17, 18, 16, 18], 
     id2word=id2word,
-    num_topics=5, 
+    num_topics=10, 
     chunksize=1)
 
+print('Topic word vectors:')
 from pprint import pprint
-topics = ldaseq.print_topics(top_terms=25)
+topics = ldaseq.print_topics(top_terms=10) #Most common words for each topic
 pprint(topics)
 
-for i in range(5):
+print('------------------------------------------------')
+print('Document topic vectors:')
+
+counter = 1
+for doc in corpus:
+    print('Document', counter)
+    document_topics = ldaseq.doc_topics(doc)
+    pprint(document_topics)
+    counter += 1
+
+print('------------------------------------------------')
+print('Relevant words for each timeslice:')
+
+for i in range(10): #Most common words for each topic, per each time slice
     topic_times = ldaseq.print_topic_times(i, top_terms=5)
     print('Topic', i + 1)
     pprint(topic_times)
-#for topic in topics:
-#    pprint(topic)
-
-'''
-import logging
-logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
-
-import io
-import os
-import re
-import tarfile
-
-import smart_open
-
-def extract_documents():
-    for filename in os.listdir(os.getcwd()):
-        with smart_open.open(os.path.join(os.getcwd(), filename), "rb") as f:
-            print('Success')
-            yield f
-
-#def extract_documents():
-#    for i in range (1, 51): 
-#        with open('./Articles/' + str(i) + '.txt') as file:
-#            print(i)
-#            yield file
-
-
-docs = list(extract_documents())
-#    with smart_open.open(url, "rb") as file:
-#        with tarfile.open(fileobj=file) as tar:
-#            for member in tar.getmembers():
-#                if member.isfile() and re.search(r'nipstxt/nips\d+/\d+\.txt', member.name):
-#                    member_bytes = tar.extractfile(member).read()
-#                    yield member_bytes.decode('utf-8', errors='replace')
-
-#docs = list(extract_documents())
-
-'''

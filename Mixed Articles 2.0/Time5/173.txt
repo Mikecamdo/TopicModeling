@@ -1,0 +1,473 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+People drive women’s feelings of exclusion in cybersecurity | Security Magazine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+This website requires certain cookies to work and uses other cookies to help you have the best experience.  By visiting this website, certain cookies have already been set, which you may delete and block. By closing this message or continuing to use our site, you agree to the use of cookies. Visit our updated privacy and cookie policy to learn more.  
+
+
+This Website Uses CookiesBy closing this message or continuing to use our site, you agree to our cookie policy. Learn More
+This website requires certain cookies to work and uses other cookies to help you have the best experience.  By visiting this website, certain cookies have already been set, which you may delete and block.  By closing this message or continuing to use our site, you agree to the use of cookies. Visit our updated privacy and cookie policy to learn more.  
+
+
+
+
+
+Security Magazine logo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+search
+
+Search
+
+
+      search
+    
+
+      close search
+    
+
+
+
+
+
+
+cartfacebook
+twitter
+linkedin
+youtubeSign InCreate AccountSign OutMy Account
+
+
+Security Magazine logo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEWSSecurity Newswire
+Technologies & SolutionsFeatured ProductsSecurity Blog
+NewsletterWeb Exclusives
+COLUMNSCyber Tactics
+Leadership & ManagementSecurity TalkCareer IntelligenceLeader to LeaderCybersecurity Education & Training MANAGEMENTLeadership Management
+Enterprise Services
+Security Education & Training
+MorePHYSICALAccess Management
+Video Surveillance
+Identity Management
+MoreCYBERCybersecurity NewsMoreSECTORSEducation: University
+Hospitals & Medical Centers
+Critical Infrastructure
+MoreEXCLUSIVESTop Cybersecurity LeadersThe Security Benchmark ReportMost Influential People in SecurityTop Guard and Security Officer CompaniesThe Security Leadership Issue
+Women in SecurityEVENTSIndustry Events
+Webinars
+Solutions by SectorSecurity 500 ConferenceMORECall for Entries PodcastsVideos
+Cybersecurity & Geopolitical VodcastPhoto GalleriesPolls
+Classifieds & Job Listings
+White Papers
+StoreSponsor Insights Continuing EducationINFOCENTERSPut the Smart In Building SecurityVideo Security You Can TrustEMAGAZINEeMagazineThis Month's ContentContact UsEditorial GuidelinesAdvertiseSubscribe
+
+
+
+
+
+CybersecuritySecurity NewswireSecurity Leadership and ManagementCybersecurity News
+People drive women’s feelings of exclusion in cybersecurity
+By Security Staff
+
+
+Image via Unsplash
+
+
+April 3, 2023
+
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A recent report on the state of inclusion of women in cybersecurity shows 68% cite leadership as a source of exclusion.The State of Inclusion of Women in Cybersecurity report, conducted by Women in CyberSecurity (WiCyS) in collaboration with the DEI firm Aleria, found that women faced numerous workplace experiences that contribute to their overall feeling of exclusion and consequently, their rates of satisfaction, productivity and retention. According to the report, women were especially impacted by a lack of career and growth opportunities, and by a lack of respect that stemmed from company leadership, direct managers and peers. “We know that the representation of women in cybersecurity hovers around 24%, far lower than it should be,” said Lynn Dohm, executive director of WiCyS. “We wanted to find out why this was the case and were somewhat — but not entirely — surprised that the most common source of women’s feelings of exclusion came from people, not company policies. This highlights the fact that we still have a long way to go when it comes to accepting women in the cybersecurity industry.”Key report highlights: 
+68% of participants cited leadership as being a source of experiences of exclusion, 61% cited managers and 52% cited peers. By comparison, workplace policies were cited as a source of exclusion by only 12% of the participants.
+83% of participants shared at least one experience of exclusion.
+The top two categories where participants reported exclusion were career and growth (reported by 57% of participants) and respect (reported by 56% of participants), which dominate the categories of workplace experiences of exclusion. Other frequently-cited categories include recognition and access, both cited by 41% of participants.
+New hires report exclusion levels that are 17% higher than those who have been with an organization for two to five years; however, the highest exclusion levels come after six years with the same organization.
+Larger organizations (5,000 or more employees) seem to be more inclusive than smaller companies.
+Cybersecurity firms have a higher level of exclusion than non-cybersecurity firms. This finding aligns with similar studies showing that technology companies tend to have higher overall exclusion scores than companies in other sectors, especially for women.
+The data for the report was gathered from a series of workshops in February attended by more than 300 women who anonymously entered information about themselves and their work, sharing uncomfortable workplace experiences and categorizing each experience into typical aspects of the workplace such as career and growth, respect and work-life balance. The data was then used to calculate an exclusion score, a numerical value that combines prevalence (the proportion of participants who shared at least one experience), severity (the average number of experiences shared per person) and frequency (one-time or recurring).Overall, nearly 500 experiences were collected, with women reporting incidents such as male coworkers viewing pornography in their presence, receiving less “pats on the back” than their male counterparts, and being asked to speak with a man in IT instead of them.“Our study makes it crystal clear that leaders of any organization must educate themselves about inclusion and must start treating inclusion as a key part of their business strategy,” said Paolo Gaudiano, co-founder and president of Aleria. “With cybersecurity facing a serious shortage of workers, it is essential to understanding the obstacles that prevent women — who have so much to offer the industry — from entering and advancing in the field. We hope our study is a much-needed wake-up call for business leaders to move beyond diversity as the sole metric, and to make inclusion a key part of their DEI strategy and objectives.”
+
+
+KEYWORDS:  career development talent gap women in cyber security workplace workplace culture
+
+
+Share This Story
+
+
+
+
+
+
+
+Print
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Restricted Content
+You must have JavaScript enabled to enjoy a limited number of articles over the next 30 days.
+Please click here to continue without javascript..
+
+
+
+
+
+
+
+
+Subscribe For Free!
+
+Security eNewsletter & Other eNews AlertsOnline RegistrationMobile AppSubscription Customer ServiceeMagazine SubscriptionsManage My Preferences  
+
+
+
+
+
+
+
+
+
+
+
+
+More Videos
+
+
+
+
+Sponsored Content
+
+
+
+
+
+
+                Sponsored Content is a special paid section where industry companies provide high quality, objective, non-commercial content around topics of interest to the Security audience. All Sponsored Content is supplied by the advertising company. Interested in participating in our Sponsored Content section? Contact your local rep.close
+
+Sponsored byAxisSustainably meeting the security and operational needs of solar farms
+
+
+Sponsored byMilestone SystemsSmaller School Districts are Facing Infrastructure Growing Pains
+
+
+Sponsored byExperianTaking a Personal Approach to Identity Will Mitigate Fraud Risk & Ensure a Great Customer Experience
+
+
+
+
+Popular Stories
+
+
+
+
+
+
+
+          Cyber risk is a business risk
+        
+
+
+
+
+
+
+
+
+          Cybersecurity threats to medical devices are a growing concern
+        
+
+
+
+
+
+
+
+
+          31% of organizations had users fall for phishing attack
+        
+
+
+
+
+
+
+
+
+          Ransomware attack exposed Ferrari customer data
+        
+
+
+
+
+
+
+
+
+          Experts warn of healthcare sector cybersecurity risks
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Events
+
+December 6, 2022
+
+Building a Resilient Enterprise
+
+ON DEMAND: Business-impacting events such as severe weather, man-made disasters, and supply chain disruption are increasing in frequency and making impacts around the globe. 
+
+
+
+April 6, 2023
+
+Do Employees Feel Safe at Work? New Data for 2023
+
+Employees don’t feel prepared to navigate an increasingly dangerous world, and they expect their employers to not only care about their personal safety, but to actively keep them safe. 
+
+
+View All
+Submit An Event
+
+
+
+
+Products
+
+
+
+
+
+
+Effective Security Management, 7th Edition
+
+
+ Effective Security Management, 5e, teaches practicing security professionals how to build their careers by mastering the fundamentals of good management. Charles Sennewald brings a time-tested blend of common sense, wisdom, and humor to this bestselling introduction to workplace dynamics. 
+
+
+See More Products
+
+
+
+
+
+
+
+
+
+
+
+
+Related Articles
+
+Half of women in cybersecurity report positive career impact from COVID-19See More
+
+
+Women Represent 24 Percent of Cybersecurity Workforce, (ISC)² ReportsSee More
+
+
+3 ways to support women in the cybersecurity fieldSee More
+
+
+
+×
+
+
+
+Get our new eMagazine delivered to your inbox every month.Stay in the know on the latest enterprise risk and security industry trends.SUBSCRIBE TODAY!Want MoreConnectPartnersSubscribePrivacyPRIVACY POLICYTERMS & CONDITIONSDO NOT SELL MY PERSONAL INFORMATIONPRIVACY REQUESTACCESSIBILITYUPDATE MY PREFERENCES ResourcesEditorial GuidelinesSecurity Group
+Market ResearchCustom Content & Marketing ServicesSurvey And SampleCopyright ©2023. All Rights Reserved BNP Media.Design, CMS, Hosting & Web Development :: ePublishing
+
+
+
+
+
+
+
+
+
+
+
+

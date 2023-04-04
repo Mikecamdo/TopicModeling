@@ -1,0 +1,1864 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cybersecurity unaligned with business goals is reactive and flawed
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+
+      TechRepublic    
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+Close
+
+
+
+
+    Search  
+
+
+
+
+
+
+
+
+
+
+
+Top Products Lists
+Developer
+5G
+Security
+Cloud
+Artificial Intelligence
+Tech & Work
+Mobility
+Big Data
+Innovation
+Cheat Sheets
+TechRepublic Academy
+CES
+
+
+
+
+
+
+Toggle TechRepublic mobile menu
+
+
+More
+
+
+
+
+
+
+TechRepublic Premium
+
+Top Products Lists
+Developer
+5G
+Security
+Cloud
+Artificial Intelligence
+Tech & Work
+Mobility
+Big Data
+Innovation
+Cheat Sheets
+TechRepublic Academy
+CES
+
+
+          See All Topics
+
+          
+
+
+
+
+
+
+
+Sponsored
+Newsletters
+Forums
+Resource Library
+
+
+
+
+      TechRepublic Premium
+    
+
+
+
+
+
+
+Join / Sign In
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Account Information
+
+
+TechRepublic close modal
+
+
+
+
+
+
+Image: Blue Planet Studio/Adobe Stock
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+Cybersecurity unaligned with business goals is reactive … and flawed: Study
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Account Information
+
+
+TechRepublic close modal
+
+
+
+
+Share with Your Friends
+Cybersecurity unaligned with business goals is reactive … and flawed: Study
+
+
+
+
+
+Check out this article I found on TechRepublic.
+
+Your email has been sent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+by
+
+
+Karl Greenberg
+
+
+in
+
+
+                    Security                  
+
+
+
+
+
+
+
+
+on
+
+                  April 3, 2023, 1:20 PM EDT                
+
+
+
+
+
+    Cybersecurity unaligned with business goals is reactive … and flawed: Study  
+ 
+
+
+    A new report for cybersecurity firm WithSecure suggests that most companies are investing in security solutions that are tactical and reactive, but not in line with strategic aims of an organization.  
+
+
+
+          We may be compensated by vendors who appear on this page through methods such as affiliate links or sponsored partnerships. This may influence how and where their products appear on our site, but vendors cannot pay to influence the content of our reviews. For more info, visit our Terms of Use page.
+          
+
+
+Image: Blue Planet Studio/Adobe Stock
+A new report by cybersecurity firm WithSecure, based on a survey of more than 400 global cybersecurity and IT decision-makers conducted by Forrester Consulting, suggests that many organizations are reactive in their approach to defending against threats, and piecemeal when it comes to cybersecurity investments.
+The result? Security goals become detached from business goals, resulting in organizations investing in defenses against threats that aren’t relevant to their business or goals.
+Outcome-based security versus reactive security
+According to Forrester, an outcome-based security supports business goals rather than merely reacting to perceived vulnerabilities. It enables business leaders to simplify cybersecurity by “Cultivating only those capabilities that measurably deliver their desired outcomes as opposed to traditional threat, activity-based, or ROI-based methods,” said WithSecure’s report.
+The report said a more holistic approach to cybersecurity should strive for outcomes related to risk management, customer experience, resilience, and visibility of the threat surface and risks. The outcomes should also pertain to skills, resources and response speed and agility (Figure A).
+Figure A
+Image: WithSecure. Business outcomes organizations hope to achieve with cybersecurity efforts.
+Paul Brucciani, cybersecurity adviser and head of product marketing for solutions at WithSecure, said that the concept of outcome-based cybersecurity constitutes both a way to make cybersecurity executions align with business goals, and to reduce clutter and redundancy of security solutions and tactics. This is a Marie Kondo-esque effort to throw objects on the floor and discard those layers of control that don’t strategically support business goals.
+SEE: Businesses whose goals include more clouds should expect rain.
+“Outcome based security is a way to make decisions about what you need to protect and how. But it’s a discipline: it’s very easy to buy and implement a new tool, much more difficult to switch off legacy systems. To turn things off [that aren’t useful],” Brucciani said.
+Even though 83% of respondents to the survey said they were interested in, planning to adopt, or expanding their adoption of outcome-based security solutions and services, 60% said their organizations are reactive, not proactive; they respond to individual cybersecurity problems as they arise.
+One-fifth of companies align cybersecurity with business priorities
+The study, which aimed to understand organizational cybersecurity priorities and business goals, found:
+
+Only 20% of respondents said their organization has complete alignment between cybersecurity priorities and business outcomes.
+75% of respondents said cyber-risk management is receiving increased attention from the board of their organizations.
+60% of firms are willing to spend 6% or more of their operational profit to achieve the benefits they see in adopting an outcome-based approach for cybersecurity investments.
+50% of firms struggle to measure cybersecurity value and have trouble articulating the contribution of security to business outcomes.
+
+‘Market of lemons’ paradigm complicates security investments
+Cybersecurity budgets are rising, but could the sheer size and scope of the cybersecurity service market be driving IT buyers to allocate budgets haphazardly?
+SEE: In this Q&A, an IT expert and consultant talks about how to prioritize security in budgets.
+Brucciani said this is probably the case, as the current market for cybersecurity Software as a Service itself constitutes a  “market for lemons,” a term coined by economist George Akerlof to describe a circumstance in which the market is peppered by good and bad products and the buyer is hobbled by an inability to discern which is which.
+
+Must-read security coverage
+
+
+
+            Top 10 open-source security and operational risks of 2023        
+
+
+
+            As a cybersecurity blade, ChatGPT can cut both ways        
+
+
+
+            Cloud security, hampered by proliferation of tools, has a “forest for trees” problem        
+
+
+
+            Electronic data retention policy (TechRepublic Premium)        
+
+
+
+“Cybersecurity is a massive business; depending on how you define the market there are 10,000 cybersecurity companies in the world which creates a noisy marketplace, and many of those companies are venture capital backed, so their job is to get to market as fast as possible. As a consequence it creates a market that is difficult to navigate, with the added challenge of measuring quality: Buyers have no way of assessing the quality of what they are being sold,” Brucciani said.
+What businesses seek from cybersecurity tools and services
+Survey respondents cited some of the biggest security challenges: visibility into cyber risks, finding the required skills and resources, and responding quickly and effectively (Figure B).
+Figure B
+Image: WithSecure. Cybersecurity challenges by industry.
+Outcomes that respondents said they sought from cybersecurity efforts include:
+
+44% of those polled want to reduce risk.
+40% want security to improve customer experience.
+34%  want security to support revenue growth.
+33%  want to increase operational resilience.
+32% want security to be aimed at governance and compliance.
+
+Getting meaningful metrics tying security to business outcomes is another challenge
+The executives polled by Forrester listed challenges to extracting useful metrics that tie security priorities to business outcomes:
+
+37% expressed difficulties in measuring cybersecurity value.
+36% said they could not capture consistent and meaningful data.
+28% found challenges in overcoming a paradox: investment in effective security results in fewer opportunities to demonstrate value.
+23% encountered challenges in translating cybersecurity metrics into something meaningful to the board.
+
+Additionally, 42% said they had an insufficient understanding of current and target-state maturity against which security value should be assessed. Brucciani explained that target state, in a security context, is an expression of an enterprise’s security goals and depends on such factors as:
+
+Impact of a cyber security attack on the enterprise.
+Risk tolerance — the impact an enterprise can absorb and function.
+Willingness to take security risks.
+Security that regulators and clients expect.
+
+“Generally businesses want a higher level of security than they have at present,” said Brucciani. “The question is, how much security is enough? Their cyber risk strategy — if it is coherent — will be driven by these factors.” He added that NIST offers a useful framework to support security decision-making.
+How to build business outcomes into security
+The study included recommendations on how to bring cybersecurity investments into strategic alignment with business goals:
+
+Business outcomes should be agreed on with stakeholders and mapped to your security investments, threat model, and security controls.
+Security outcomes should include business benefits (e.g. risk-based authentication in e-commerce improves CX by eliminating extra steps and friction from low-risk transactions).
+
+
+Security priorities should correlate to business outcomes, avoiding unnecessary investments in security that business outcomes don’t require.
+Procurement and legal teams should be prepared for outcome-based security purchasing.
+
+
+
+ 
+
+
+Cybersecurity Insider Newsletter
+Strengthen your organization's IT security defenses by keeping abreast of the latest cybersecurity news, solutions, and best practices.
+Delivered Tuesdays and Thursdays
+
+
+
+ Sign up today        
+
+
+
+
+
+
+
+
+
+Karl Greenberg
+
+
+
+Published: 
+
+      April 3, 2023, 1:20 PM EDT    
+
+
+Modified: 
+
+      April 3, 2023, 1:20 PM EDT    
+
+
+
+
+
+See more Security
+
+
+
+
+
+
+
+Also See
+
+
+
+                Using zero trust access to stay compliant & solve common MDM issues               
+(TechRepublic)
+
+
+
+                Hiring kit: Cybersecurity engineer              
+(TechRepublic Premium)
+
+
+
+                Gain an understanding of AI, cybersecurity and more with this $69 resource              
+(TechRepublic Academy)
+
+
+
+                Cybersecurity and cyberwar: More must-read coverage              
+(TechRepublic on Flipboard)
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Account Information
+
+
+TechRepublic close modal
+
+
+
+
+Share with Your Friends
+Cybersecurity unaligned with business goals is reactive … and flawed: Study
+
+
+
+
+
+Check out this article I found on TechRepublic.
+
+Your email has been sent
+
+
+
+
+
+
+
+
+
+Share: Cybersecurity unaligned with business goals is reactive … and flawed: Study    
+
+
+
+
+
+
+
+
+
+
+By
+
+
+            Karl Greenberg          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Account Information
+
+
+TechRepublic close modal
+
+
+
+
+Contact Karl Greenberg
+
+
+
+
+
+
+
+Your message has been sent
+
+
+
+
+
+
+
+|
+
+
+See all of Karl's content
+
+
+
+
+
+
+
+
+
+          Security      
+
+
+
+          Software      
+
+
+
+
+
+
+
+Editor's Picks
+
+
+
+
+
+   Image: Rawpixel/Adobe Stock
+
+
+
+
+
+
+
+
+
+
+            TechRepublic Premium      
+
+
+    TechRepublic Premium editorial calendar: IT policies, checklists, toolkits and research for download  
+ 
+
+
+    TechRepublic Premium content helps you solve your toughest IT issues and jump-start your career or next project.  
+
+
+
+
+
+TechRepublic Staff
+
+
+
+Published: 
+
+      March 14, 2023, 9:10 AM EDT    
+
+
+Modified: 
+
+      March 15, 2023, 9:16 AM EDT    
+
+
+Read More
+
+
+
+
+
+See more TechRepublic Premium
+
+
+
+
+
+
+
+
+
+
+
+
+   Image: Blue Planet Studio/Adobe Stock
+
+
+
+
+
+            Payroll      
+
+
+    The Best Human Resources Payroll Software of 2023  
+ 
+
+
+    With a lot of choices in the market, we have highlighted the top six HR and payroll software options for 2023.  
+
+
+
+
+
+Ali Azhar
+
+
+
+Published: 
+
+      February 28, 2023, 11:11 AM EST    
+
+
+Modified: 
+
+      March 20, 2023, 4:45 PM EDT    
+
+
+Read More
+
+
+
+
+
+See more Payroll
+
+
+
+
+
+
+
+
+
+
+
+
+   Image: Microsoft.
+
+
+
+
+
+            Software      
+
+
+    Windows 11 update brings Bing Chat into the taskbar  
+ 
+
+
+    Microsoft's latest Windows 11 allows enterprises to control some of these new features, which also include Notepad, iPhone and Android news.  
+
+
+
+
+
+Mary Branscombe
+
+
+
+Published: 
+
+      February 28, 2023, 2:59 PM EST    
+
+
+Modified: 
+
+      February 28, 2023, 2:59 PM EST    
+
+
+Read More
+
+
+
+
+
+See more Software
+
+
+
+
+
+
+
+
+
+
+
+
+   Image: tanatat/Adobe Stock
+
+
+
+
+
+            CXO      
+
+
+    Tech jobs: No rush back to the office for software developers as salaries reach $180,000  
+ 
+
+
+    Salaries for remote roles in software development were higher than location-bound jobs in 2022, Hired finds.  
+
+
+
+
+
+Owen Hughes
+
+
+
+Published: 
+
+      March 3, 2023, 3:12 PM EST    
+
+
+Modified: 
+
+      March 16, 2023, 12:56 PM EDT    
+
+
+Read More
+
+
+
+
+
+See more CXO
+
+
+
+
+
+
+
+
+
+
+
+
+   Image: Nuthawut/Adobe Stock
+
+
+
+
+
+            Software      
+
+
+    The 10 best agile project management software for 2023  
+ 
+
+
+    With so many agile project management software tools available, it can be overwhelming to find the best fit for you. We've compiled a list of 10 tools you can use to take advantage of agile within your organization.  
+
+
+
+
+
+Brenna Miles
+
+
+
+Published: 
+
+      December 27, 2022, 11:45 AM EST    
+
+
+Modified: 
+
+      March 16, 2023, 2:25 PM EDT    
+
+
+Read More
+
+
+
+
+
+See more Software
+
+
+
+
+
+
+
+
+
+
+
+
+   Image: Song_about_summer/Adobe Stock
+
+
+
+
+
+            Security      
+
+
+    1Password is looking to a password-free future. Here’s why  
+ 
+
+
+    With phishing-based credentials theft on the rise, 1Password CPO Steve Won explains why the endgame is to 'eliminate’ passwords entirely.  
+
+
+
+
+
+Karl Greenberg
+
+
+
+Published: 
+
+      March 2, 2023, 3:44 PM EST    
+
+
+Modified: 
+
+      March 7, 2023, 4:10 PM EST    
+
+
+Read More
+
+
+
+
+
+See more Security
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Cybersecurity Insider Newsletter
+Strengthen your organization's IT security defenses by keeping abreast of the latest cybersecurity news, solutions, and best practices.
+Delivered Tuesdays and Thursdays
+
+
+
+ Sign up today        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TechRepublic Premium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            TechRepublic Premium      
+
+
+    Interviewing guidelines policy  
+ 
+
+
+    PURPOSE This policy from TechRepublic Premium provides guidelines for conducting useful and appropriate interviews with potential new hires, both from a proper methodology perspective and a legal standpoint. These guidelines will help build a reproducible and consistent interview framework that can be applied to any open role. From the policy: INTERVIEWING GUIDELINES The first step ...  
+
+
+
+
+Published: 
+
+      April 3, 2023, 12:00 PM EDT    
+
+
+Modified: 
+
+      April 4, 2023, 11:12 AM EDT    
+
+
+Read More
+
+
+
+
+
+See more TechRepublic Premium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            TechRepublic Premium      
+
+
+    Hiring kit: Chief diversity officer  
+ 
+
+
+    PURPOSE The Chief Diversity Officer will develop, implement and monitor enterprise-wide programs that promote the hiring of employees with diverse cultural and educational experiences. This TechRepublic Premium Job Hiring Kit for a Chief Diversity Officer serves as a template you can use for your candidate recruitment search. From the hiring kit: DETERMINING FACTORS, DESIRABLE PERSONALITY ...  
+
+
+
+
+Published: 
+
+      April 2, 2023, 12:00 PM EDT    
+
+
+Modified: 
+
+      April 3, 2023, 11:15 AM EDT    
+
+
+Read More
+
+
+
+
+
+See more TechRepublic Premium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            TechRepublic Premium      
+
+
+    Hiring kit: Blockchain integration specialist  
+ 
+
+
+    PURPOSE Recruiting a blockchain integration specialist with the right combination of technical expertise and experience will require a comprehensive screening process. This Hiring Kit from TechRepublic Premium provides an adjustable framework your business can use to find, recruit and ultimately hire the right person for the job. From the hiring kit: DETERMINING FACTORS, DESIRABLE PERSONALITY ...  
+
+
+
+
+Published: 
+
+      April 2, 2023, 12:00 PM EDT    
+
+
+Modified: 
+
+      April 3, 2023, 11:34 AM EDT    
+
+
+Read More
+
+
+
+
+
+See more TechRepublic Premium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            TechRepublic Premium      
+
+
+    Media disposal policy  
+ 
+
+
+    PURPOSE This Media disposal policy from TechRepublic Premium provides specific instructions for ensuring organization data is properly protected when disposing of old storage media. From the policy: POLICY DETAILS When disposing of damaged, unusable, obsolete, off-lease, decommissioned, old, or end-of-service-life equipment and media, the organization requires that the guidelines outlined herein be followed: Hard drives, ...  
+
+
+
+
+Published: 
+
+      March 30, 2023, 12:00 PM EDT    
+
+
+Modified: 
+
+      March 31, 2023, 11:06 AM EDT    
+
+
+Read More
+
+
+
+
+
+See more TechRepublic Premium
+
+
+
+
+
+
+
+
+
+
+
+
+
+Services
+
+About Us
+Newsletters
+RSS Feeds
+Site Map
+Site Help & Feedback
+FAQ
+Advertise
+Do Not Sell My Information
+
+
+
+
+Explore
+
+Downloads
+TechRepublic Forums
+Meet the Team
+TechRepublic Academy
+TechRepublic Premium
+Resource Library
+Photos
+Videos
+ 
+
+
+
+
+
+
+
+
+TechRepublic
+
+
+
+
+
+
+
+TechRepublic on Twitter
+
+
+
+
+
+
+
+TechRepublic on Facebook
+
+
+
+
+
+
+
+TechRepublic on LinkedIn
+
+
+
+
+
+
+
+TechRepublic on Flipboard
+
+
+
+
+
+
+
+© 2023 TechnologyAdvice. All rights reserved.
+
+
+
+                Privacy Policy              
+
+
+
+                Terms of Use              
+
+Property of TechnologyAdvice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

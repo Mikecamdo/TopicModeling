@@ -1,0 +1,41 @@
+Facebook report disparages news: ‘Small and diminishing role’ for publisher content
+News links account for less than 3% of posts people see in their Facebook feeds.
+
+By Charlotte Tobitt
+
+A report commissioned by Meta about Facebook’s relationship with news providers argued the platform is not a “must-have” one for publishers.
+
+The report claimed links to news stories account for less than 3% of what Facebook users around the world see in their feeds and that publishers’ content therefore “plays an economically small and diminishing role” on the platform. It later described that role as “limited and falling” and said the proportion was so low because just 7.5% of all posts seen in US Facebook feeds even contain a link.
+
+“The fact that Meta derives little economic value from the sharing of news content on Facebook explains why its willingness to pay for news content is, in most cases, zero.”
+
+The report was produced by US-based economic consulting firm Nera for Meta in response to legislation being prepared in the UK, US and Canada to force the Facebook owner and Google to pay publishers for the use of their news content. Australia passed its News Media Bargaining Code in 2021.
+
+Facebook has already begun to distance itself from news, repeatedly altering its algorithm in a way that deprioritises publisher content, revealing last year it will no longer pay publishers in the US to feature their content in its Facebook News tab, and dropping Instant Articles.
+
+The report examined “news publishers’ contentions that they are undercompensated by Meta as a result of some form of market failure” and concluded that there is no imbalance of power in that relationship – something news publishers have maintained for years. Press Gazette launched its Duopoly campaign in 2017 arguing Google and Facebook should create a fairer relationship with the news industry that rewards the creators of the content they feature on their platforms.
+
+The report, authored by Dr. Jeffrey A. Eisenach, shared a “rough estimate” that publishers derive on average 1% to 1.5% of their total revenue from referrals back to their websites from content shared on Facebook. He described this as a “small, but not immaterial” portion of revenue.
+
+He wrote: “Thus, the evidence shows that publishers benefit at least as much as Meta and that there is thus no economic case for forcing Meta to pay additional compensation to the publishers.”
+
+The report claimed there is no “economic foundation” that Facebook is a “must-have” for publishers, citing data from the UK’s Competition and Markets Authority that 13% of publisher traffic came from the platform in 2019 and claiming this has since fallen further.
+
+“Thus, while exposure on Facebook is valuable to publishers, Facebook is not a ‘must-have’ platform for publishers and does not have sufficient bargaining leverage to impose unreasonable terms.”
+
+Eisenach also argued there is no evidence to support publishers’ contentions that they are harmed by links or snippets to their content posted on Facebook because people may not click through to their websites where they can earn revenue either by advertising or subscription sign-ups. On the contrary, he claimed publishers earn “considerable economic benefits” in advertising and reader revenue as a result of Facebook referrals.
+
+And he pointed to previous research conducted by Facebook that showed many users believe there is “too much” news content, especially political news, on the platform.
+
+The Reuters Institute for the Study of Journalism’s 2022 Digital News Report similarly found 21% of UK Facebook users in their survey felt there was too much news on the platform, compared to 11% who felt the same for Twitter, 9% for Tiktok and 8% for Instagram. Facebook users were least likely to say it felt “just right”,
+
+There were similar findings from other countries, with 22% of Americans, 20% of Australians and 20% of Canadians reporting seeing “too much” news.
+
+The report continued: “…the evidence also shows that the proportion of people who use Facebook to access news content is declining, and that Facebook has determined that its future success depends on alternative forms of content – including, in the immediate future, video and, in the longer-term future, the Metaverse.”
+
+Eisenach went on to argue with the findings of a report commissioned by the UK’s News Media Association last year that estimated news was worth about £235m to Facebook in the UK per year (and between £615m to £840m for Google). He said this calculation, which estimated people spend about 6% of their time on Facebook looking at news and worked out the value of this from the company’s revenues, ignored the “substitution effect” of people looking at other content if news was no longer featured on the platform, meaning it alone would not lead to a large drop in user engagement.
+
+“Second, Facebook advertisements – which are not linked to specific content being viewed but rather on user characteristics – would switch from being displayed near news content to being displayed near alternative content,” he wrote.
+
+“Given the limited interest Facebook users have demonstrated in news content, both forms of substitution are likely to substantially attenuate the economic impact of eliminating news sharing on Facebook.”
+

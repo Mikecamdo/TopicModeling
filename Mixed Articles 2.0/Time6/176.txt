@@ -1,0 +1,697 @@
+
+
+
+
+ 
+
+Cybersecurity Great Resignation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Security Intelligence 
+
+
+
+
+
+News
+Series
+Topics
+Threat Research
+Podcast
+
+
+
+
+
+
+News
+Series
+Topics
+Threat Research
+Podcast
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Application Security
+Artificial Intelligence
+CISO
+Cloud Security
+Data Protection
+Endpoint
+
+
+Fraud Protection
+Identity & Access
+Incident Response
+Mainframe
+Network
+Risk Management
+
+
+Intelligence & Analytics
+Security Services
+Threat Hunting
+Zero Trust
+Infographic: Zero trust policy
+Timeline: Local Government Cyberattacks
+
+
+Industries
+Banking & Finance
+Energy & Utility
+Government
+Healthcare
+Retail
+
+
+
+
+View All Topics
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News
+Series
+
+
+
+
+Topics
+
+
+All Categories
+Application Security
+Identity & Access
+Artificial Intelligence
+Incident Response
+CISO
+Mainframe
+Cloud Security
+Mobile Security
+Data Protection
+Network
+Endpoint
+Risk Management
+Fraud Protection
+Threat Hunting
+Security Services
+Security Intelligence & Analytics
+
+
+Industries
+Banking & Finance
+Energy & Utility
+Government
+Healthcare
+Retail
+
+
+
+
+Threat Research
+Podcast
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Home / &nbspNewsIs Cybersecurity Facing its Own Great Resignation? 
+
+
+
+ 
+
+
+
+
+
+
+
+News
+April 3, 2023
+
+
+
+Share 
+
+
+
+
+
+
+
+
+
+
+
+
+
+                  By Jennifer Gregory
+
+
+  4 min read
+
+
+
+
+
+
+
+There is little debate that cybersecurity jobs are very stressful. In addition, few people will argue that an organization’s growth and revenue depend on its cybersecurity team. However, recent research has shown that the stressful nature of our industry may be setting up organizations for increased cybersecurity vulnerabilities.
+A Third of Cybersecurity Leaders are Planning to Quit
+Research from BlackFog found that almost a third (32%) of CISOs or IT cybersecurity leaders in the U.K. and the U.S. are considering leaving their current organization. Among those with plans to leave, a third are hoping to quit within the next six months. Reasons for their dissatisfaction included a lack of work-life balance (30%) and too much time spent on firefighting rather than focusing on strategic issues (27%).
+The survey also found that frustration stemmed from the skills shortage and the many changes in cybersecurity. Many of the leaders (52%) reported struggling with new frameworks and models, such as zero trust. One in five leaders also found the skill level of their team to be a serious challenge. Staying on top of the rapidly changing industry was also stressful, with 54% saying keeping up with the latest on solutions was hard and 43% reporting it was difficult to keep pace with the innovations.
+Improving Retention for Cybersecurity Leaders
+When a CISO or IT cybersecurity manager leaves, organizations are often more vulnerable. Additionally, the time spent hiring and training new leaders takes away from protecting the organization. Other employees on the team often leave when a leader takes on a new job, further disrupting cybersecurity.
+One of the roles of a cybersecurity leader is to reduce attrition on their team. However, many organizations fail to ensure that cybersecurity leaders are engaged and satisfied with their jobs. Organizational leaders must prioritize retention at all levels of their cybersecurity team.
+Here are some ways to reduce stress and increase support for CISOs and security managers.
+Support Work/Life Balance
+Because cybercriminals work 24/7, so must your security team. Unfortunately, that often means that cybersecurity leaders are constantly on call, which is unhealthy and leads to burnout. Additionally, your cybersecurity leaders set the example for work/life balance for their team. If they do not show good boundaries, their team will do the same. This creates a vicious cycle: teams burn out faster, employees quit and the cybersecurity manager’s stress level rises.
+Provide Training and Support
+Many leaders find it challenging to keep up with the ever-evolving nature of cybersecurity. To that end, organizations should ensure that their cybersecurity leaders have the training they need to stay up to date. By setting a budget for training, cybersecurity leaders can stay educated on both current threats and strategies to reduce risk.
+When cybersecurity leaders feel confident in their knowledge and abilities, they often feel less stressed and burned out. Organizations should also consider how they can partner with cybersecurity experts, such as IBM X-Force, to get additional support and expertise when needed to further support their cybersecurity leader.
+Establish Backups for Cybersecurity Leaders
+Leaders often feel like they are always on call because that’s the reality. Therefore, it’s important to work with cybersecurity leaders to train other managers or team members to rotate being on call with the leader. Yes, they must be contacted if a breach or attack occurs. But beyond those emergencies, organizations can build backups so leaders can count on times when they are not the first line of defense.
+Make PTO Mandatory
+Consider requiring employees to use their PTO. At the same time, encourage them to fully disconnect by providing backup for their responsibilities while they are gone and not expecting them to check in or work remotely. According to SHRM, 78% of managers agree that vacation improves employees’ focus, and 81% say time off soothes burnout. But this only happens if employees actually take their vacation and don’t work remotely. Organizational leaders should also model this by taking their own PTO, which sets a good example.
+Offer Flexibility
+Cybersecurity leaders will often work overtime, weekends and nights, even with the best plans in place. Organizations need cybersecurity professionals to be flexible when an emergency arises. By showing them the same courtesy, you can reduce their stress and improve productivity. Offering leaders (and employees) as much flexibility as possible on when and where they get their work done can help balance the inevitable inconveniences of cybersecurity.
+In addition to the ability to work remotely, give leaders the flexibility to set their own hours. By providing this flexibility to both cybersecurity leaders and team members, you reduce the risk of burnout for everyone, which can significantly reduce your overall cybersecurity risk. When the cybersecurity team works overtime with emergencies, reward them with comp time or additional PTO to help offset the stress of the event.
+Foster a “When Not If” Approach to Breaches and Attacks
+Cybersecurity leaders are responsible for preventing attacks, and reducing the impact if an attack does occur. However, the increasing number and sophistication of attacks in recent years make the weight of this responsibility even more stressful. Organizational leaders should shift their thinking to assuming that an attack will occur and then give cybersecurity leaders the resources to minimize the disruptions. By reducing the responsibility for eliminating attacks from cybersecurity leaders and instead focusing on reducing the damage, cybersecurity leaders feel empowered instead of burdened.
+Cybersecurity is always going to be a high-stress job. But when organizations provide cybersecurity leaders with the tools and support needed, they can reduce attrition in leadership roles. When cybersecurity leaders are engaged and satisfied, their team is likely to be more productive and happy as well, which reduces overall turnover. With a well-functioning cybersecurity team, your organization can proactively reduce risk and attacks.
+
+
+
+retention | great resignation | attrition | Career | Cybersecurity
+
+
+Jennifer Gregory
+Cybersecurity Writer
+
+Jennifer Goforth Gregory is a freelance B2B technology content marketing writer specializing in cybersecurity. Other areas of focus include B2B, finance, tec...      
+
+
+
+
+Continue Reading
+
+
+
+
+
+POPULAR
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                              Software Vulnerabilities                        
+
+
+                        March 21, 2023                  
+
+
+Patch Tuesday -> Exploit Wednesday: Pwning Windows Ancillary Function Driver for WinSock (afd.sys) in 24 Hours
+
+  12 min read - ‘Patch Tuesday, Exploit Wednesday’ is an old hacker adage that refers to the weaponization of vulnerabilities the day after monthly security patches become publicly available. As security improves and exploit mitigations become more sophisticated, the amount of research and development…                        
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                              Intelligence & Analytics                        
+
+
+                        February 21, 2023                  
+
+
+Backdoor Deployment and Ransomware: Top Threats Identified in X-Force Threat Intelligence Index 2023
+
+  4 min read - Discover how threat actors are waging attacks and how to proactively protect your organization with top findings from the 2023 X-Force Threat Intelligence Index.                        
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+                              Intelligence & Analytics                        
+
+
+                        March 29, 2023                  
+
+
+Cyber Storm Predicted at the 2023 World Economic Forum
+
+  2 min read - According to the Global Cybersecurity Outlook 2023, 93% of cybersecurity leaders and 86% of business leaders think a far-reaching, catastrophic cyber event is at least somewhat likely in the next two years. Additionally, 43% of organizational leaders think it is likely…                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More from News
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    News  
+                              
+
+                              March 29, 2023                        
+
+
+
+
+
+                                    Hack-for-Hire Groups May Be the New Face of Cybercrime                              
+
+                                    Google’s Threat Analysis Group (TAG) recently released a report about growing hack-for-hire activity. In contrast to Malware-as-a-Service (MaaS), hack-for-hire firms conduct sophisticated, hands-on attacks. They target a wide range of users and exploit known security flaws when executing their campaigns. “We have seen hack-for-hire groups target human rights and political activists, journalists and other high-risk users around the world, putting their privacy, safety and security at risk,” Google TAG says. “They also conduct corporate espionage, handily obscuring their clients’ role.”…                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    News  
+                              
+
+                              March 27, 2023                        
+
+
+
+
+
+                                    More School Closings Coast-to-Coast Due to Ransomware                              
+
+                                    Instead of snow days, students now get cyber days off. Cyberattacks are affecting school districts of all sizes from coast-to-coast. Some schools even completely shut down due to the attacks. The federal government recently warned that K-12 schools face a growing threat from cyber groups. According to the FBI, school districts often have limited cybersecurity protections, which makes them even more vulnerable. The FBI also says it anticipates the number of threats to increase. In a recent warning, the nation’s…                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    News  
+                              
+
+                              March 22, 2023                        
+
+
+
+
+
+                                    Hackers are Increasingly Targeting Auto Dealers                              
+
+                                    Auto dealerships are increasingly concerned with cybersecurity in the face of new regulations and an alarming rise in cyberattacks. The Second Annual Global State of Cybersecurity Report by CDK Global found that 85% of dealerships say cybersecurity is very or extremely important relative to other operational areas. Additionally, 89% say cybersecurity is more important than last year, a 12% increase. Not surprisingly, only 37% of auto retailers are confident in the current protection, which is a 21% decrease from 2021.…                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                    News  
+                              
+
+                              March 20, 2023                        
+
+
+
+
+
+                                    LastPass Breaches Cast Doubt on Password Manager Safety                              
+
+                                    In 2022, LastPass suffered a string of security breaches which sparked concern among cyber professionals and those impacted by the intrusions. Some called into question the way LastPass handled and responded to the incident. In addition, the situation ignited a wider conversation about the risks linked to utilizing password managers. A password manager helps users generate strong passwords and safeguards them within a digital locker. A master password secures all data, which enables users to conveniently access all their passwords…                              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Analysis and insights from hundreds of the brightest minds in the cybersecurity industry to help you prove compliance, grow business and stop threats.
+
+
+
+Cybersecurity News
+By Topic
+By Industry
+Exclusive Series
+Threat Research
+Podcast
+Events
+Contact
+About Us
+
+
+
+Follow us on social
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2023 IBM
+Contact
+Privacy
+Terms of use
+Accessibility
+Cookie Preferences
+
+
+
+
+Sponsored by
+                                          
+
+
+
+si-icon-eightbarfeature
+
+
+
+
+
+
+
+
+
+
+
+
+
+

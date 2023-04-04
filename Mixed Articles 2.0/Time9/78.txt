@@ -1,0 +1,34 @@
+Fake news on Facebook increased 2020 election doubts, finds study
+
+Facebook users were more likely to read fake news about the 2020 U.S. presidential election than users of Twitter and other social media websites, a Washington State University-led analysis found.
+
+
+The study in Government Information Quarterly indicates that fake news consumption and political alignment were the primary forces driving doubt about the integrity of the vote counting process—and surprisingly not the method used to cast votes. The researchers also found that individuals who got election news by navigating directly to mainstream news websites rather than through social media were less likely to consume fake news. This in turn made them more likely to believe in the results of the election.
+
+"What we saw in this study is that if you aren't careful, the bias that you bring into your news consumption can be absolutely confirmed and supported if you are in a place like Facebook where the algorithms feed into that," said Robert Crossler, study co-author and an associate professor in the WSU Carson College of Business.
+
+On the other hand, Crossler added that individuals who get most of their news by directly navigating to mainstream news websites need to know the name of the website they are visiting, so well-known news sources that provide more credible information are more likely destinations.
+
+Previous research has investigated beliefs about fake news and its spread on social media platforms. But less attention has been given to the actual impact of fake versus mainstream news consumption on people's perceptions of reality.
+
+To address this challenge, Crossler, lead author Julia Stachofsky, a WSU Ph.D. business student, and Ludwig Christian Schaupp, a professor of accounting at West Virginia University, designed three surveys to analyze the impact of political alignment, fake news consumption and voting method on people's perceptions about the election's results.
+
+Two surveys were given to different groups of registered voters before the election. The first presented a scenario where people would either be voting in-person, via mail or online. The second survey contained a different scenario where all voters would use mail-in ballots which would be counted by a governor-appointed official, a neutral party selected through bipartisan agreement or by a voting machine.
+
+
+After reading the scenarios, participants answered questions about their political alignment, how concerned they were about votes being counted properly and how much news they consume from various web sources.
+
+The third survey was conducted after the election by actual voters. Participants selected their voting method and then answered the same questions as the pre-election surveys with one addition: They were asked to indicate what percentage of news they accessed through direct navigation, Twitter, Facebook or other platforms.
+
+For the study, fake news was defined as the spread of disinformation, rather than information perceived to be fake due to partisan bias. The researchers used a list of 60 mainstream, hyper-partisan and fake news websites identified in a previous study for their analysis.
+
+The results showed that by far the main driver of doubt in the election results was the consumption of fake news, which was primarily gleaned off Facebook.
+
+"I don't think that Facebook is deliberately directing people towards fake news but something about how their algorithm is designed compared to other algorithms is actually moving people towards that type of content," Stachofsky said. "It was surprising how hard it was to find the websites Facebook was directing people to when we looked for them in a web browser. The research shows that not all social media platforms are created equal when it comes to propagating intentionally misleading information."
+
+Surprisingly, the analysis revealed that the method participants used to cast their vote had little influence on concerns about votes being counted properly. Another interesting finding was that the ages of people consuming fake news were not significantly different, suggesting that fake news is more common with younger people than previously studies have indicated.
+
+Moving forward, the researchers hope that their work will spur new investigations into why and how the algorithms used by Facebook and other social media sites direct users to factually dubious content.
+
+"This supports the argument that people need to be encouraged to be information or news literate," Crossler said. "Right now, we are talking about the elections, but there are a lot of other issues, such as the war in Ukraine, that directing people to misinformation is not only misleading but also potentially dangerous."
+

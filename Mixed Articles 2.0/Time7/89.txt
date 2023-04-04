@@ -1,0 +1,750 @@
+
+
+
+Twitter's newly-released algorithm shows it specifically tracks how Elon Musk's tweets are doing | Mashable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mashable Voices
+Tech
+Science
+Life
+Social Good
+Entertainment
+Deals
+
+
+
+
+
+
+
+
+
+Search
+
+
+Cancel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mashable Voices
+
+
+Tech
+
+
+
+
+
+
+Apps & Software
+Cybersecurity
+Mobile
+Smart Home
+Social Media
+Tech Industry
+Transportation
+All Tech
+
+
+
+
+Science
+
+
+
+
+
+
+Space
+Climate Change
+Environment
+All Science
+
+
+
+
+Life
+
+
+
+
+
+
+Digital Culture
+Family & Parenting
+Health & Wellness
+Sex, Dating & Relationships
+All Life
+
+
+
+
+Social Good
+
+
+
+
+
+
+Activism
+Gender
+LGBTQ
+Mental Health
+Racial Justice
+Sustainability
+All Social Good
+
+
+
+
+Entertainment
+
+
+
+
+
+
+Games
+Movies
+Podcasts
+TV Shows
+All Entertainment
+
+
+
+
+SHOP THE BEST
+
+
+
+
+
+
+Home
+Tech
+Kitchen
+Fitness
+Sex Toys
+Apps & Software
+Dating
+
+Gift Guides
+
+Mashable Choice
+All Best Products
+
+
+
+Reviews
+
+
+
+DEALS
+
+
+
+
+
+
+Home
+Tech
+
+Mashable Shop(opens in a new tab)
+
+
+All Deals
+
+
+
+Newsletters
+
+
+
+VIDEOS
+
+
+
+
+
+
+Mashable Shows
+All Videos
+
+
+
+
+
+
+
+Tech
+Social Media
+
+Twitter's algorithm specifically tracks how Elon Musk's tweets are doing
+Musk said he had no idea it was doing that!
+
+
+By
+Matt Binder  on March 31, 2023
+
+
+
+
+Share on Facebook (opens in a new window)
+
+
+
+Share on Twitter (opens in a new window)
+
+
+
+Share on Flipboard (opens in a new window)
+
+
+
+
+
+
+
+Twitter has released part of its source code for its recommendation algorithm. It shows how it specifically tracks how Elon Musk's tweets are doing.
+Credit: Avishek Das/SOPA Images/LightRocket via Getty Images)
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
+Tech
+
+
+
+
+Twitter has just released – as promised by owner Elon Musk – the source code for its recommendation algorithm(Opens in a new tab), and there's already been a very interesting discovery in the code.After pouring through the code, multiple people found(Opens in a new tab) at least one really interesting portion of the code that shows Twitter is specifically tracking metrics(Opens in a new tab) for users broken up into four different groups:"power_user""republican""democrat"and"elon"That's right, Twitter is specifically tracking how Musk's tweets are performing, and it's been coded right into Twitter's algorithm.
+
+
+
+
+A screenshot of one of the relevant portions of the algorithm released by Twitter.
+Credit: Mashable Screenshot
+
+
+Following the release of the algorithm, a Twitter Spaces(Opens in a new tab) audio chat was set up by the company. Musk and a few of Twitter's developers took questions from listeners. A couple individuals brought this particular part of the algorithm up during the conversation."This is the first time I'm seeing this," Musk said when asked about the code that tracked accounts in these four groups including one just for his tweets. "There’s a ton of stupid and embarrassing things being shown by making the code open source."While Musk claims he did not know about the metric tracking portion of the algorithm, he has previously admitted that Twitter was reviewing his account's analytics. He did so in a tweet(Opens in a new tab) last month in order to push back against reports that he called an emergency Twitter meeting to boost his tweets in the algorithm, after a Super Bowl tweet from President Joe Biden performed better than Musk's own tweet about the game.When a guest speaker on the Twitter Space shared his concerns about grouping accounts into the categories "democrat" and "republican," one of Twitter's developers explained that this code was just for collecting stats. A note on the algorithm source code, however, states that the metric collecting was being used to ensure that changes to Twitter did not negatively affect any of these four groups.According to Twitter's own explanation of how this metric tracking is being used, if an algorithm change benefited an entire group of users, but negatively impacted the group made up solely of Elon Musk, it would not implement that algorithm change.Zoë Schiffer of Platformer reported(Opens in a new tab) that Twitter actually removed part of the source code that affected the reach of Musk's and other user's tweets before releasing the algorithm to the public.During the Spaces chat, Twitter explained that the metric tracking code was first developed into the algorithm years ago under the old Twitter regime. However, it was not explained why Musk's tweets were specifically being tracked, a part of the code that seemingly would've been added much more recently. Musk did respond that Twitter would remove it."It shouldn’t be there," Musk said. "Consider it gone."Musk also shared in a tweet(Opens in a new tab) following the Twitter Spaces chat that the company would make changes to the algorithm based on user feedback every one to two days.
+
+Tweet may have been deleted
+(opens in a new tab)
+(Opens in a new tab)
+
+Elon Musk did deliver what he said he would on Thursday. The owner of Twitter previously promised that the social media platform would be more transparent. Musk said Twitter would share its recommendations algorithm on March 31 at 3pm EST, and the company did just that.But, the release of this source code also comes days after Twitter forced Github to take down other parts of Twitter's source code that was allegedly posted by a former employee without the company's permission. So, clearly, there's still plenty of Twitter that Musk still doesn't want us to see.
+
+
+
+
+More in
+Social Media, Twitter, Elon Musk, Politics 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recommended For You
+
+
+
+
+
+Twitter broke after deploying 4,000-character Tweets
+Too many characters to handle for Twitter right now.
+
+
+02/08/2023
+
+
+By Cecily Mauran 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Republicans grilled ex-Twitter executives about censorship. They found out Trump requested takedowns.
+This hearing didn't go the way they thought it would.
+
+
+02/09/2023
+
+
+By Matt Binder 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'Succession' star Sarah Snook confirms there's a clue hiding in Season 4's poster
+"You won't know until you know."
+
+
+03/22/2023
+
+
+By Sam Haysom 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter hit with new lawsuits for not paying bills
+Two new lawsuits were filed this week.
+
+
+02/25/2023
+
+
+By Anna Iovine 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter welcomes everyone to Twitter as it goes down
+Not the best welcome, really.
+
+
+03/01/2023
+
+
+By Stan Schroeder 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Trending on Mashable
+
+
+
+
+
+'Wordle' today: Here's the answer, hints for April 4
+Here are some tips and tricks to help you find the answer to "Wordle" #654.
+
+
+14 hours ago
+
+
+By Mashable Team 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter changed its logo to Doge. The internet reacted by laughing at (not with) Elon Musk.
+Corporate cringe.
+
+
+23 hours ago
+
+
+By Tim Marcin 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apple's Weather app is not working. What we know.
+Is it raining outside? Who knows.
+
+
+8 hours ago
+
+
+By Stan Schroeder 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stunning Webb telescope photo shows actual bending of spacetime
+The universe is awfully psychedelic.
+
+
+04/03/2023
+
+
+By Mark Kaufman 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter cuts many app developers' API access, even those willing to pay $42,000 per month
+Developers doubt whether there's a future for Twitter's third-party app ecosystem under Elon Musk.
+
+
+3 hours ago
+
+
+By Matt Binder 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The biggest stories of the day delivered to your inbox.
+
+
+
+
+
+
+
+Loading...
+Subscribe
+
+
+
+
+
+
+
+
+
+By signing up to the Mashable newsletter you agree to receive electronic communications
+from Mashable that may sometimes include advertisements or sponsored content.
+
+
+
+Thanks for signing up. See you at your inbox!
+
+
+
+
+
+
+
+
+
+
+TECH
+SCIENCE
+LIFE
+SOCIAL GOOD
+ENTERTAINMENT
+BEST PRODUCTS
+DEALS
+
+
+About Mashable
+Contact Us
+We're Hiring
+Newsletters
+Sitemap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mashable supports Group Black and its mission to increase greater diversity in media voices and media ownership. Group Black's collective includes Essence, TheShadeRoom and Afro-Punk.
+
+©2005–2023 Mashable, Inc., a Ziff Davis company. All Rights Reserved.
+Mashable is a registered trademark of Ziff Davis and may not be used by third parties without express written permission.
+
+About Ziff Davis
+Privacy Policy
+Terms of Use
+Advertise
+Accessibility
+Do Not Sell My Personal Information
+
+
+
+
+
+
+
+
+
+
+
+AdChoices
+
+
+
+
+
+
+
+
+
+
+
+
