@@ -1,3 +1,8 @@
+from pprint import pprint
+with open('topic-word-vectors.txt', 'w') as f:
+    pprint.pformat('Hello', f)
+
+'''
 import os
 
 # Set the path to the folder where the files will be generated
@@ -12,3 +17,5 @@ for i in range(1, 401):
     # Create the file and write some data to it
     with open(filepath, "w") as f:
         f.write("This is file number " + str(i))
+
+'''

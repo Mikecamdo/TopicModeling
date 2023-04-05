@@ -132,23 +132,24 @@ ldaseq = LdaSeqModel(
     num_topics=10, 
     chunksize=1)
 
-print('Topic word vectors:')
 from pprint import pprint
-topics = ldaseq.print_topics(top_terms=10) #Most common words for each topic
-pprint(topics)
+with open('topic-word-vectors.txt', 'w') as f:
+    f.write('Topic word vectors:')
+    topics = ldaseq.print_topics(top_terms=10) #Most common words for each topic
+    f.write(topics)
 
 print('------------------------------------------------')
-print('Document topic vectors:')
-
-for doc in range(200):
-    print('Document', doc + 1)
-    document_topics = ldaseq.doc_topics(doc)
-    pprint(document_topics)
+with open('document-topic-vectors.txt', 'w') as f:
+    f.write('Document topic vectors:')
+    for doc in range(200):
+        f.write('Document', doc + 1)
+        document_topics = ldaseq.doc_topics(doc)
+        f.write(document_topics)
 
 print('------------------------------------------------')
-print('Relevant words for each timeslice:')
-
-for i in range(10): #Most common words for each topic, per each time slice
-    topic_times = ldaseq.print_topic_times(i, top_terms=5)
-    print('Topic', i + 1)
-    pprint(topic_times)
+with open('time-slice-relevance.txt', 'w') as f:
+    f.write('Relevant words for each timeslice:')
+    for i in range(10): #Most common words for each topic, per each time slice
+        topic_times = ldaseq.print_topic_times(i, top_terms=5)
+        f.write('Topic', i + 1)
+        f.write(topic_times)
