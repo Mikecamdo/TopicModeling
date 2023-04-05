@@ -21,11 +21,27 @@ with open ('doc_topic_vectors.txt') as file:
             number = number.replace('array([', '')
             number = number.replace(',', '')
             number = number.replace('])', '')
-            print(float(number), answer.get(doc_num))
             if float(number) > answer.get(doc_num):
                 answer.update({doc_num: float(number)})
                 answer_topic.update({doc_num: topic_num})
             topic_num += 1
 
-from pprint import pprint
-pprint(answer_topic)
+#from pprint import pprint
+#pprint(answer_topic)
+import xlwt
+from xlwt import Workbook
+
+wb = Workbook()
+
+sheet1 = wb.add_sheet('Sheet 1')
+sheet1.write(0, 0, 'Document')
+sheet1.write(0, 1, 'Topic')
+counter = 1
+
+for key in answer_topic:
+    sheet1.write(counter, 0, key)
+    sheet1.write(counter, 1, answer_topic[key])
+    counter += 1
+
+wb.save('highValue.xls')
+print('Done')
