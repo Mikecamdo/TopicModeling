@@ -24,6 +24,7 @@ path9 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mi
 path10 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time10//'
 
 def extract_documents():
+    print('Extracting documents')
     folder1 = os.listdir(path1)
     folder2 = os.listdir(path2)
     folder3 = os.listdir(path3)
@@ -81,23 +82,39 @@ docs = list(extract_documents())
 from nltk.tokenize import RegexpTokenizer
 
 # Split the documents into tokens.
+print('Splitting into tokens')
 tokenizer = RegexpTokenizer(r'\w+')
 for idx in range(len(docs)):
     docs[idx] = docs[idx].lower()  # Convert to lowercase.
     docs[idx] = tokenizer.tokenize(docs[idx])  # Split into words.
 
 # Remove numbers, but not words that contain numbers.
+print('Removing numbers')
 docs = [[token for token in doc if not token.isnumeric()] for doc in docs]
 
 # Remove words that are only one character.
+print('Remove single characters')
 docs = [[token for token in doc if len(token) > 1] for doc in docs]
 
 # Lemmatize the documents.
+print('Lemmatizing words')
 from nltk.stem.wordnet import WordNetLemmatizer
 
 lemmatizer = WordNetLemmatizer()
 docs = [[lemmatizer.lemmatize(token) for token in doc] for doc in docs]
 
+# Remove stop words.
+print('Removing stop words')
+from nltk.corpus import stopwords
+
+stopWords = set(stopwords.words('english'))
+
+for doc in docs:
+    for token in doc:
+        if token in stopWords:
+            doc.remove(token)
+
+'''
 # Compute bigrams.
 from gensim.models import Phrases
 
@@ -108,16 +125,19 @@ for idx in range(len(docs)):
         if '_' in token:
             # Token is a bigram, add to document.
             docs[idx].append(token)
+'''
 
 from gensim.corpora import Dictionary
-
 # Create a dictionary representation of the documents.
+print('Creating dictionary representation of the documents')
 dictionary = Dictionary(docs)
 
 # Filter out words that occur less than 5 documents, or more than 50% of the documents.
+print('Filtering out words that occur in less than 5 documents, or more than 50 percent of the documents')
 dictionary.filter_extremes(no_below=5, no_above=0.5)
 
 # Bag-of-words representation of the documents.
+print('Creating bag-of-words representation of the documents')
 corpus = [dictionary.doc2bow(doc) for doc in docs]
 
 # Make an index to word dictionary.
@@ -133,23 +153,40 @@ ldaseq = LdaSeqModel(
     chunksize=1)
 
 from pprint import pprint
+print('Writing to topic-word-vectors.txt')
 with open('topic-word-vectors.txt', 'w') as f:
     f.write('Topic word vectors:')
+    f.write('\n')
     topics = ldaseq.print_topics(top_terms=10) #Most common words for each topic
-    f.write(topics)
+    for topic in topics:
+        f.write(str(topic))
+        f.write('\n')
 
 print('------------------------------------------------')
+print('Writing to document-topic-vectors.txt')
 with open('document-topic-vectors.txt', 'w') as f:
     f.write('Document topic vectors:')
+    f.write('\n')
     for doc in range(200):
-        f.write('Document', doc + 1)
+        f.write('Document ')
+        f.write(str(doc + 1))
+        f.write('\n')
         document_topics = ldaseq.doc_topics(doc)
-        f.write(document_topics)
+        f.write(str(document_topics))
+        f.write('\n')
 
 print('------------------------------------------------')
+print('Writing to time-slice-relevance.txt')
 with open('time-slice-relevance.txt', 'w') as f:
     f.write('Relevant words for each timeslice:')
+    f.write('\n')
     for i in range(10): #Most common words for each topic, per each time slice
         topic_times = ldaseq.print_topic_times(i, top_terms=5)
-        f.write('Topic', i + 1)
-        f.write(topic_times)
+        f.write('Topic ')
+        f.write(str(i + 1))
+        f.write('\n')
+        for topic in topic_times:
+            f.write(str(topic))
+            f.write('\n')
+
+print('Done')
