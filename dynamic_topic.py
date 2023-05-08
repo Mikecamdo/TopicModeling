@@ -47,10 +47,12 @@ def extract_documents():
                     paragraphs.append(each_paragraph)
                     each_paragraph = ""
 
-    paragraphs.append(each_paragraph)
+        paragraphs.append(each_paragraph)
+        each_paragraph = ""
+
     return paragraphs
 
-
+print('Extracting documents')
 docs = list(extract_documents())
 
 from nltk.tokenize import RegexpTokenizer
@@ -88,7 +90,7 @@ for doc in docs:
         if token in stopWords:
             doc.remove(token)
 
-'''
+"""
 # Compute bigrams.
 from gensim.models import Phrases
 
@@ -99,7 +101,7 @@ for idx in range(len(docs)):
         if '_' in token:
             # Token is a bigram, add to document.
             docs[idx].append(token)
-'''
+"""
 
 from gensim.corpora import Dictionary
 # Create a dictionary representation of the documents.
@@ -121,9 +123,9 @@ id2word = dictionary.id2token
 print('Making Dynamic Topic Model')
 ldaseq = LdaSeqModel(
     corpus=corpus, 
-    time_slice=[20, 24, 24, 20, 21, 22, 17, 18, 16, 18], 
+    time_slice=[67, 77, 53, 139, 148, 156, 156, 103, 150, 129, 151, 155, 142, 149, 113, 123, 84, 129, 169, 153, 95, 101, 85, 206, 286, 205, 289, 171],
     id2word=id2word,
-    num_topics=10, 
+    num_topics=10,
     chunksize=1)
 
 from pprint import pprint
