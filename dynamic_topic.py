@@ -1,80 +1,54 @@
-#First topic: NFL
-#Second topic: XFL
-#Third topic: NBA
-#Fourth topic: Facebook
-#Fifth topic: Twitter
-#Sixth topic: France
-#Seventh topic: Mexico
-#Eighth topic: World War II
-#Ninth topic: Cybersecurity
-#Tenth topic: Marvel
-
 import os, glob
 from gensim.models import LdaSeqModel
 
-path1 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time1//'
-path2 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time2//'
-path3 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time3//'
-path4 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time4//'
-path5 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time5//'
-path6 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time6//'
-path7 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time7//'
-path8 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time8//'
-path9 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time9//'
-path10 = 'C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Mixed Articles 2.0//Time10//'
-
 def extract_documents():
-    print('Extracting documents')
-    folder1 = os.listdir(path1)
-    folder2 = os.listdir(path2)
-    folder3 = os.listdir(path3)
-    folder4 = os.listdir(path4)
-    folder5 = os.listdir(path5)
-    folder6 = os.listdir(path6)
-    folder7 = os.listdir(path7)
-    folder8 = os.listdir(path8)
-    folder9 = os.listdir(path9)
-    folder10 = os.listdir(path10)
+    files = [
+        "1969-70.txt",
+        "1970-71.txt",
+        "1971-72.txt",
+        "1972-73.txt",
+        "1973-74.txt",
+        "1974-75.txt",
+        "1975-76.txt",
+        "1976-77.txt",
+        "1977-78.txt",
+        "1978-79.txt",
+        "1979-80.txt",
+        "1980-81.txt",
+        "1981-82.txt",
+        "1982-83.txt",
+        "1983-84.txt",
+        "1984-85.txt",
+        "1985-86.txt",
+        "1986-87.txt",
+        "1987-88.txt",
+        "1988-89.txt",
+        "1989-90.txt",
+        "1990-91.txt",
+        "1991-92.txt",
+        "1992-93.txt",
+        "1993-94.txt",
+        "1994-95.txt",
+        "1995-96.txt",
+        "1996-97.txt"
+    ]
 
-    for i in range(20): #Time 1
-        with open(path1 + folder1[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
-    
-    for i in range(24): #Time 2
-        with open(path2 + folder2[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
+    each_paragraph = ""
+    paragraphs = []
 
-    for i in range(24): #Time 3
-        with open(path3 + folder3[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
+    for textFile in files:
+        file = open(textFile, "rb")
+        text = file.read().decode('utf-8', errors='replace').strip().replace('\r', ' ').split(sep='\n')
 
-    for i in range(20): #Time 4
-        with open(path4 + folder4[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
+        for line in text:
+            each_paragraph += line
+            if len(line) < 70:
+                if len(each_paragraph) > 70:
+                    paragraphs.append(each_paragraph)
+                    each_paragraph = ""
 
-    for i in range(21): #Time 5
-        with open(path5 + folder5[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
-
-    for i in range(22): #Time 6
-        with open(path6 + folder6[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
-    
-    for i in range(17): #Time 7
-        with open(path7 + folder7[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
-
-    for i in range(18): #Time 8
-        with open(path8 + folder8[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
-
-    for i in range(16): #Time 9
-        with open(path9 + folder9[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
-
-    for i in range(18): #Time 10
-        with open(path10 + folder10[i], 'rb') as file:
-            yield file.read().decode('utf-8', errors='replace')
+    paragraphs.append(each_paragraph)
+    return paragraphs
 
 
 docs = list(extract_documents())
