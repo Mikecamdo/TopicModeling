@@ -60,53 +60,34 @@ for key in answer_topic:
 
 counter += 1
 
+for i in range(10):
+    sheet1.write(counter, i + 1, 'Topic ' + str(i + 1))
+counter += 1
 for i in range(28):
-    sheet1.write(counter, 0, 'Time ' + str(i + 1))
-    counter += 1
+    sheet1.write(counter + i, 0, "Time " + str(i + 1))
 
-    sheet1.write(counter, 0, "Topic")
-    sheet1.write(counter, 1, "Number of Occurences")
-    counter += 1
-
-    sheet1.write(counter, 0, "1")
+for i in range(28):
     sheet1.write(counter, 1, answer_topic_list[i + 1].count(1))
-    counter += 1
 
-    sheet1.write(counter, 0, "2")
-    sheet1.write(counter, 1, answer_topic_list[i + 1].count(2))
-    counter += 1
+    sheet1.write(counter, 2, answer_topic_list[i + 1].count(2))
 
-    sheet1.write(counter, 0, "3")
-    sheet1.write(counter, 1, answer_topic_list[i + 1].count(3))
-    counter += 1
+    sheet1.write(counter, 3, answer_topic_list[i + 1].count(3))
 
-    sheet1.write(counter, 0, "4")
-    sheet1.write(counter, 1, answer_topic_list[i + 1].count(4))
-    counter += 1
+    sheet1.write(counter, 4, answer_topic_list[i + 1].count(4))
 
-    sheet1.write(counter, 0, "5")
-    sheet1.write(counter, 1, answer_topic_list[i + 1].count(5))
-    counter += 1
+    sheet1.write(counter, 5, answer_topic_list[i + 1].count(5))
 
-    sheet1.write(counter, 0, "6")
-    sheet1.write(counter, 1, answer_topic_list[i + 1].count(6))
-    counter += 1
+    sheet1.write(counter, 6, answer_topic_list[i + 1].count(6))
 
-    sheet1.write(counter, 0, "7")
-    sheet1.write(counter, 1, answer_topic_list[i + 1].count(7))
-    counter += 1
+    sheet1.write(counter, 7, answer_topic_list[i + 1].count(7))
 
-    sheet1.write(counter, 0, "8")
-    sheet1.write(counter, 1, answer_topic_list[i + 1].count(8))
-    counter += 1
+    sheet1.write(counter, 8, answer_topic_list[i + 1].count(8))
 
-    sheet1.write(counter, 0, "9")
-    sheet1.write(counter, 1, answer_topic_list[i + 1].count(9))
-    counter += 1
+    sheet1.write(counter, 9, answer_topic_list[i + 1].count(9))
 
-    sheet1.write(counter, 0, "10")
-    sheet1.write(counter, 1, answer_topic_list[i + 1].count(10))
-    counter += 2
+    sheet1.write(counter, 10, answer_topic_list[i + 1].count(10))
+
+    counter += 1
 
 wb.save('finalHighValue.xls')
 
