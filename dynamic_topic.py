@@ -1,4 +1,3 @@
-import os, glob
 from gensim.models import LdaSeqModel
 
 def extract_documents():
@@ -126,7 +125,7 @@ ldaseq = LdaSeqModel(
     time_slice=[67, 77, 53, 139, 148, 156, 156, 103, 150, 129, 151, 155, 142, 149, 113, 123, 84, 129, 169, 153, 95, 101, 85, 206, 286, 205, 289, 171],
     id2word=id2word,
     num_topics=10,
-    chunksize=1)
+    chunksize=10)
 
 from pprint import pprint
 print('Writing to topic-word-vectors.txt')
@@ -143,7 +142,7 @@ print('Writing to document-topic-vectors.txt')
 with open('document-topic-vectors.txt', 'w') as f:
     f.write('Document topic vectors:')
     f.write('\n')
-    for doc in range(200):
+    for doc in range(3984):
         f.write('Document ')
         f.write(str(doc + 1))
         f.write('\n')
