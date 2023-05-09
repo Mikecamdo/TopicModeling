@@ -7,7 +7,7 @@ for i in range(3984):
 doc_num = -1
 topic_num = 1
 
-with open ('C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Results 2//document-topic-vectors.txt') as file:
+with open ('C://Users//mikec_g1kgiu8//OneDrive//Desktop//CS 5322//TopicModeling//Results 3//document-topic-vectors.txt') as file:
     for line in file:
         line = line.strip()
         words = line.split()
